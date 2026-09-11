@@ -15,8 +15,6 @@ http://45.224.97.181:9999/Teleamazonas/tracks-v1a1/mono.m3u8
 http://45.224.97.181:9999/Gamavision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.ecuaplay.online/imagen/tc.jpg" group-title="ECUADOR 🇪🇨",Tc Televisión
 http://45.224.97.181:9999/TC/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.ecuaplay.online/imagen/tc.jpg" group-title="ECUADOR 🇪🇨",Tc Televisión HD
-http://177.234.249.178:8888/TC/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.ecuaplay.online/imagen/oromartv.png" group-title="ECUADOR 🇪🇨",OromarTv
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.ecuaplay.online/imagen/oromartv.png" group-title="ECUADOR 🇪🇨",OromarTv 2
@@ -131,7 +129,7 @@ http://liontv.es:8080/live/liontvpremium/0497/192.ts
 http://liontv.es:8080/live/liontvpremium/0497/220.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/CANADA/lovenature.png" group-title="CULTURA FHD 🗺️ ",LAT | Love Nature
 http://liontv.es:8080/live/liontvpremium/0497/360188.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/I/41JPdO1w93L._AC_UF1000,1000_QL80_.jpg" group-title="CULTURA FHD 🗺️ ",1000_QL80_.jpg" group-title="CULTURA FHD 🗺️ ", CULTURA | NASA 1 FHD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://m.media-amazon.com/images/I/41JPdO1w93L._AC_UF1000,1000_QL80_.jpg" group-title="CULTURA FHD 🗺️ ",1000_QL80_.jpg" group-title="CULTURA FHD 🗺️ ",1000_QL80_.jpg" group-title="CULTURA FHD 🗺️ ", CULTURA | NASA 1 FHD
 http://liontv.es:8080/live/liontvpremium/0497/768082.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://go4.pw/OSN/NATGEOGRAPHIC-1.png" group-title="CULTURA FHD 🗺️ ",CULTURA | NAT GEO FHD
 http://liontv.es:8080/live/liontvpremium/0497/507091.ts
@@ -759,7 +757,7 @@ http://liontv.es:8080/live/liontvpremium/0497/513462.ts
 https://cablered.iptvperu.tv:1936/cablered/bitme-srt_new/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="INFANTILES 🐝 ",INF | ZOOMOO HD
 http://liontv.es:8080/live/liontvpremium/0497/513463.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wixstatic.com/media/76b12f_b725806aac4c416da697ccf6a5c6dd83~mv2.png/v1/fit/w_2500,h_1330,al_c/76b12f_b725806aac4c416da697ccf6a5c6dd83~mv2.png" group-title="INFANTILES 🐝 ",h_1330,al_c/76b12f_b725806aac4c416da697ccf6a5c6dd83~mv2.png" group-title="INFANTILES 🐝 ", INF | PEQUERADIO
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wixstatic.com/media/76b12f_b725806aac4c416da697ccf6a5c6dd83~mv2.png/v1/fit/w_2500,h_1330,al_c/76b12f_b725806aac4c416da697ccf6a5c6dd83~mv2.png" group-title="INFANTILES 🐝 ",h_1330,al_c/76b12f_b725806aac4c416da697ccf6a5c6dd83~mv2.png" group-title="INFANTILES 🐝 ",h_1330,al_c/76b12f_b725806aac4c416da697ccf6a5c6dd83~mv2.png" group-title="INFANTILES 🐝 ", INF | PEQUERADIO
 http://liontv.es:8080/live/liontvpremium/0497/513459.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="INFANTILES 🐝 ",INF | DISCOVERY KIDS HD
 http://liontv.es:8080/live/liontvpremium/0497/513449.ts
@@ -2159,7 +2157,7 @@ http://liontv.es:8080/live/liontvpremium/0497/766991.ts
 http://liontv.es:8080/live/liontvpremium/0497/459362.ts
 #EXTINF:-1 tvg-id="dbc5800e-71a5-4012-a113-ccb3dbd04123" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bd3AIxI9397xdr2Xl8Q2rDMObCk.jpg" group-title="▶️ 24/7 EXCLUSIVO SERIES",24/7 Game Shakers
 http://liontv.es:8080/live/liontvpremium/0497/765632.ts
-#EXTINF:-1 tvg-id="f15168aa-ff3a-41f4-9263-2dd47524f8ef" tvg-logo="https://m.media-amazon.com/images/I/81Ol0GR9WDL._AC_UF1000,1000_QL80_DpWeblab_.jpg" group-title="▶️ 24/7 EXCLUSIVO SERIES",1000_QL80_DpWeblab_.jpg" group-title="▶️ 24/7 EXCLUSIVO SERIES", 24/7  Genius (Einstein)
+#EXTINF:-1 tvg-id="f15168aa-ff3a-41f4-9263-2dd47524f8ef" tvg-logo="https://m.media-amazon.com/images/I/81Ol0GR9WDL._AC_UF1000,1000_QL80_DpWeblab_.jpg" group-title="▶️ 24/7 EXCLUSIVO SERIES",1000_QL80_DpWeblab_.jpg" group-title="▶️ 24/7 EXCLUSIVO SERIES",1000_QL80_DpWeblab_.jpg" group-title="▶️ 24/7 EXCLUSIVO SERIES", 24/7  Genius (Einstein)
 http://liontv.es:8080/live/liontvpremium/0497/1440104.ts
 #EXTINF:-1 tvg-id="e07ac8e8-5a70-4996-8995-64951390dd92" tvg-logo="http://line.rocket-tv.org:25461/images/4772968a242ced3c25d36e67b4ac2a8f.png" group-title="▶️ 24/7 EXCLUSIVO SERIES",24/7 Grey's Anatomy
 http://liontv.es:8080/live/liontvpremium/0497/765938.ts
@@ -2699,11 +2697,11 @@ http://liontv.es:8080/live/liontvpremium/0497/806168.ts
 http://liontv.es:8080/live/liontvpremium/0497/806214.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/scLV1AO6TLi45N7AJanjYR48i78.jpg" group-title="▶️24/7 SAGAS",24/7 Hulk
 http://liontv.es:8080/live/liontvpremium/0497/806202.ts
-#EXTINF:-1 tvg-id="8b491b5e-e4bc-4b22-b119-fbf300b11279" tvg-logo="https://ih1.redbubble.net/image.5202250771.6707/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" group-title="▶️24/7 SAGAS",750x,075,f-pad,750x1000,f8f8f8.jpg" group-title="▶️24/7 SAGAS", 24/7 Depredador
+#EXTINF:-1 tvg-id="8b491b5e-e4bc-4b22-b119-fbf300b11279" tvg-logo="https://ih1.redbubble.net/image.5202250771.6707/flat,750x,075,f-pad,750x1000,f8f8f8.jpg" group-title="▶️24/7 SAGAS",750x,075,f-pad,750x1000,f8f8f8.jpg" group-title="▶️24/7 SAGAS",750x,075,f-pad,750x1000,f8f8f8.jpg" group-title="▶️24/7 SAGAS", 24/7 Depredador
 http://liontv.es:8080/live/liontvpremium/0497/1383572.ts
 #EXTINF:-1 tvg-id="f01f3743-8bec-416e-9871-0fc206889fff" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKuHxkCogdk6YWzTyXYPoo9qd9n.jpg" group-title="▶️24/7 SAGAS",24/7 EL CONJURO
 http://liontv.es:8080/live/liontvpremium/0497/840172.ts
-#EXTINF:-1 tvg-id="5dd5f00e-e630-443d-a719-848407ba5460" tvg-logo="https://m.media-amazon.com/images/I/81rsx1fLN2L._AC_UF894,1000_QL80_.jpg" group-title="▶️24/7 SAGAS",1000_QL80_.jpg" group-title="▶️24/7 SAGAS", 24/7 PIRATAS DEL CARIBE
+#EXTINF:-1 tvg-id="5dd5f00e-e630-443d-a719-848407ba5460" tvg-logo="https://m.media-amazon.com/images/I/81rsx1fLN2L._AC_UF894,1000_QL80_.jpg" group-title="▶️24/7 SAGAS",1000_QL80_.jpg" group-title="▶️24/7 SAGAS",1000_QL80_.jpg" group-title="▶️24/7 SAGAS", 24/7 PIRATAS DEL CARIBE
 http://liontv.es:8080/live/liontvpremium/0497/1382193.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ff9R3HF0JhrbWYp5cQk8HsHiYK3.jpg" group-title="▶️ 24/7 TOP SERIES",24/7 Impuros
 http://liontv.es:8080/live/liontvpremium/0497/806345.ts
