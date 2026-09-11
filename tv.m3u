@@ -50,59 +50,23 @@ http://liontv.es:8080/live/liontvpremium/0497/1999238.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ECUADOR 🇪🇨", Fútbol 2
 http://liontv.es:8080/live/liontvpremium/0497/1628869.ts
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.futbollibrehd.com.pe/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-title="EVENTOS 🗒️", 19:30 - Copa Libertadores: Independiente del Valle vs Flamengo - Disney+
-https://7.ftlly.com:443/disney9/mono.m3u8?token=a97899160f5b28e6a2cc22d3ab6f4af9368bcfa8-7d-1789096745-1789078745
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.futbollibrehd.com.pe/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-title="EVENTOS 🗒️", 19:30 - Copa Libertadores: Independiente del Valle vs Flamengo - ESPN
-https://bgvnzw5k.fubo18.com:443/espn/mono.m3u8?token=9f8024553b54551d3fd9a2c082479bc9129137bb-fc-1789096744-1789078744
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.futbollibrehd.com.pe/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-title="EVENTOS 🗒️", 19:30 - Copa Libertadores: Independiente del Valle vs Flamengo - ESPN 3 MX
-https://7.ftlly.com:443/espn3mx/mono.m3u8?token=0c8c2eaffc9947c194034ea6b40fbd3740248c13-91-1789096744-1789078744
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.futbollibrehd.com.pe/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-title="EVENTOS 🗒️", 19:30 - Copa Libertadores: Independiente del Valle vs Flamengo - ESPN AR┃OP2
-https://3.ftlly.com:443/espn/mono.m3u8?token=d15d2d351757c153af03899e3995ec1230a268cc-f5-1789096744-1789078744
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.futbollibrehd.com.pe/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-title="EVENTOS 🗒️", 19:30 - Copa Libertadores: Independiente del Valle vs Flamengo - ESPN AR┃OP3
-https://1.ftlly.com:443/espn/mono.m3u8?token=f53661b12607c0c9f2324eec4eea55d84236db3b-32-1789096744-1789078744
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.futbollibrehd.com.pe/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-title="EVENTOS 🗒️", 19:30 - Copa Libertadores: Independiente del Valle vs Flamengo - ESPN NL
-https://8.ftlly.com:443/espn1_nl/mono.m3u8?token=50ec2b8186b3f904da2a5fcbf12b504a0764001c-66-1789096745-1789078745
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.futbollibrehd.com.pe/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-title="EVENTOS 🗒️", 19:30 - Copa Libertadores: Independiente del Valle vs Flamengo - ESPN NL | OP2
-https://4.ftlly.com:443/espn1_nl/mono.m3u8?token=dc2dbee19ab16b8337614be731f02f6acc210d6d-d-1789096745-1789078745
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.futbollibrehd.com.pe/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-title="EVENTOS 🗒️", 19:30 - Copa Libertadores: Independiente del Valle vs Flamengo - ESPN NL | OP3
-https://7.ftlly.com:443/espn1_nl/mono.m3u8?token=2a24730c22b0c86c7fd62f248a56228f484d4c4b-f-1789096745-1789078745
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.futbollibrehd.com.pe/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-title="EVENTOS 🗒️", 19:30 - Copa Libertadores: Independiente del Valle vs Flamengo - Fox Sports
-https://9.ftlly.com:443/foxsports/mono.m3u8?token=ca850faae40c30a6165581ae2db8d8ef8222b161-e7-1789096744-1789078744
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.futbollibrehd.com.pe/uploads/copa_libertadores_f60faf808a_6fb4deda1f.png" group-title="EVENTOS 🗒️", 19:30 - Copa Libertadores: Independiente del Valle vs Flamengo - Fox Sports | OP2
-https://9.ftlly.com:443/foxsports/mono.m3u8?token=feff48241b881c9651a54010943f87e58a8c0141-78-1789096744-1789078744
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.futbollibrehd.com.pe/uploads/image_modified_f8ce531f01_b000a25a9e.png" group-title="EVENTOS 🗒️", 19:30 - Copa Sudamericana: Cienciano vs Torque - BeIN Sports Ñ
-https://5.ftlly.com:443/beinsportes/mono.m3u8?token=d0cf3d00015e352595e300e38c67565b10b37082-51-1789096748-1789078748
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.futbollibrehd.com.pe/uploads/image_modified_f8ce531f01_b000a25a9e.png" group-title="EVENTOS 🗒️", 19:30 - Copa Sudamericana: Cienciano vs Torque - DSports | OP2
-https://9.ftlly.com:443/dsports/mono.m3u8?token=81ded8016a3504dd5f91d11c0420f8b39e753d77-44-1789096747-1789078747
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.futbollibrehd.com.pe/uploads/image_modified_f8ce531f01_b000a25a9e.png" group-title="EVENTOS 🗒️", 19:30 - Copa Sudamericana: Cienciano vs Torque - DSports | OP3
-https://10.ftlly.com:443/dsports/mono.m3u8?token=4685b7d58f5d8b268a80f7c96fa663065e9a88a9-a6-1789096747-1789078747
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.futbollibrehd.com.pe/uploads/bandera_fbc29cb609_69a4b8272a.png" group-title="EVENTOS 🗒️", 22:05 - Liga MX: Pumas UNAM vs León - TUDN USA
-https://8.ftlly.com:443/tudn/mono.m3u8?token=0daa547a86118324c6e3c473dbd6da44e1aba786-f5-1789096750-1789078750
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.futbollibrehd.com.pe/uploads/bandera_fbc29cb609_69a4b8272a.png" group-title="EVENTOS 🗒️", 22:05 - Liga MX: Pumas UNAM vs León - TUDN USA | HD
-https://10.ftlly.com:443/tudn/mono.m3u8?token=fccf845a59e4ae777abafe91b8f555d3c2e65e23-38-1789096749-1789078749
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.futbollibrehd.com.pe/uploads/bandera_fbc29cb609_69a4b8272a.png" group-title="EVENTOS 🗒️", 22:05 - Liga MX: Pumas UNAM vs León - TUDN USA | OP2
-https://2.ftlly.com:443/tudn/mono.m3u8?token=3de3543949a2bf25d4376adf8a8f7965e87d1846-7-1789096750-1789078750
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.futbollibrehd.com.pe/uploads/bandera_fbc29cb609_69a4b8272a.png" group-title="EVENTOS 🗒️", 22:05 - Liga MX: Pumas UNAM vs León - TUDN USA | OP3
-https://10.ftlly.com:443/tudn/mono.m3u8?token=002f9c4453370b03f5ceef3a3bcd598183a23db0-da-1789096751-1789078751
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://img.futbollibrehd.com.pe/uploads/bandera_fbc29cb609_69a4b8272a.png" group-title="EVENTOS 🗒️", 22:05 - Liga MX: Pumas UNAM vs León - Unimas
-https://4.ftlly.com:443/unimas/mono.m3u8?token=b5d92f6df33136cf463cbd734d4dd05b876dd61f-5d-1789096751-1789078751
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/AE-logo-2-1-500x250.png" group-title="CULTURA HD 🗺️ ", MEX: A&E
 http://liontv.es:8080/live/liontvpremium/0497/1426687.ts
@@ -6197,3 +6161,517 @@ http://liontv.es:8080/live/liontvpremium/0497/1621398.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lo1.in/sp/M+%20LALIGA%203.png" group-title="SPAIN LA LIGA 🇪🇸⚽ ", ES| M+ LALIGATV BAR HEVC
 http://liontv.es:8080/live/liontvpremium/0497/1621397.ts
 
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/arabia_saudita_82c6f9c376_70d77b2bc2.png" group-title="EVENTOS 🗒️", 13:00 - Pro League: Al-Ahli vs Al Hazm - FOX Deportes
+https://3.ftlly.com:443/foxdeportes/mono.m3u8?token=d53a15304135f4461bfc52afede4bf9f73f40a18-d-1789175974-1789157974
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/arabia_saudita_82c6f9c376_70d77b2bc2.png" group-title="EVENTOS 🗒️", 13:00 - Pro League: Al-Ahli vs Al Hazm - FOX Deportes | HD
+https://10.ftlly.com:443/foxdeportes/mono.m3u8?token=e259a253cd1d21085898651521291da75ffb749a-4a-1789175973-1789157973
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/arabia_saudita_82c6f9c376_70d77b2bc2.png" group-title="EVENTOS 🗒️", 13:00 - Pro League: Al-Ahli vs Al Hazm - FOX Deportes | OP2
+https://9.ftlly.com:443/foxdeportes/mono.m3u8?token=3d9c40784d429a8180fe27925705b02a740051a8-5f-1789175974-1789157974
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/arabia_saudita_82c6f9c376_70d77b2bc2.png" group-title="EVENTOS 🗒️", 13:00 - Pro League: Al-Ahli vs Al Hazm - FOX Deportes | OP3
+https://5.ftlly.com:443/foxdeportes/mono.m3u8?token=a250756a1b20dda4ca08176d6ad4b06b84b9f231-40-1789175975-1789157975
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/paises_bajos_f773e994b9_3bb0d207d2.png" group-title="EVENTOS 🗒️", 13:00 - Eredivisie: Eredivisie: AZ vs Willem II - ESPN 2 MX
+https://6.ftlly.com:443/espn2mx/mono.m3u8?token=fd8b1348398f58f3932b11300e3f884073d08002-db-1789175978-1789157978
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/paises_bajos_f773e994b9_3bb0d207d2.png" group-title="EVENTOS 🗒️", 13:00 - Eredivisie: Eredivisie: AZ vs Willem II - Disney+
+https://8.ftlly.com:443/disney4/mono.m3u8?token=fa79357276e4f0842c6969d079880b7bcde6f9ce-6e-1789175979-1789157979
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/paises_bajos_f773e994b9_3bb0d207d2.png" group-title="EVENTOS 🗒️", 13:00 - Eerste Divisie: MVV vs Almere City - ESPN 3 NL
+https://7.ftlly.com:443/espn3_nl/mono.m3u8?token=5fe744072672c172c89a965b20ff0eae8cfee4f5-a4-1789175973-1789157973
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/paises_bajos_f773e994b9_3bb0d207d2.png" group-title="EVENTOS 🗒️", 13:00 - Eredivisie: Eredivisie: AZ vs Willem II - ESPN 2 NL
+https://3.ftlly.com:443/espn2_nl/mono.m3u8?token=9668cbf7aa53def6262fbe360a78ba211485379d-1a-1789175979-1789157979
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/espana_a8510f9b5f_9213b1e460.png" group-title="EVENTOS 🗒️", 13:30 - LaLiga SmartBank: Burgos vs Ceuta - LaLiga TV Hypermotion
+https://8.ftlly.com:443/hypermotion1/mono.m3u8?token=01aea6565cfdc1653544e28f50cb0c5699337a4a-aa-1789175965-1789157965
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/alemania_e50aa475de_965dccfbbd.png" group-title="EVENTOS 🗒️", 13:30 - Bundesliga: Union Berlin vs Schalke 04 - ESPN 5 | HD
+https://9.ftlly.com:443/espn5/mono.m3u8?token=979f56f649ee0ead003ff68a5a402cca6b369163-18-1789175967-1789157967
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/alemania_e50aa475de_965dccfbbd.png" group-title="EVENTOS 🗒️", 13:30 - Bundesliga: Union Berlin vs Schalke 04 - ESPN 5
+https://4.ftlly.com:443/espn5/mono.m3u8?token=cf80bd14f7305cbc75ce2267468434430fab3100-ee-1789175967-1789157967
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/alemania_e50aa475de_965dccfbbd.png" group-title="EVENTOS 🗒️", 13:30 - Bundesliga: Union Berlin vs Schalke 04 - ESPN 5 | OP2
+https://2.ftlly.com:443/espn5/mono.m3u8?token=394633903b434e1e565c6a5359104237db9ec7ed-5a-1789175967-1789157967
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/alemania_e50aa475de_965dccfbbd.png" group-title="EVENTOS 🗒️", 13:30 - Bundesliga: Union Berlin vs Schalke 04 - ESPN 5 | OP3
+https://1.ftlly.com:443/espn5/mono.m3u8?token=64219382a14c9ce40b059c2548482af0a43b9f00-f1-1789175968-1789157968
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/alemania_e50aa475de_965dccfbbd.png" group-title="EVENTOS 🗒️", 13:30 - Bundesliga: Union Berlin vs Schalke 04 - Sportv BR HD
+https://3.ftlly.com:443/sportv/mono.m3u8?token=bb2cec758ad0d3fe8cdac153d8206e09ef894ed4-6e-1789175968-1789157968
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/alemania_e50aa475de_965dccfbbd.png" group-title="EVENTOS 🗒️", 13:30 - Bundesliga: Union Berlin vs Schalke 04 - Sportv BR
+https://7.ftlly.com:443/sportv/mono.m3u8?token=8248ff9af3b596bc179834cac5ad3abd30bb42b8-1c-1789175968-1789157968
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/alemania_e50aa475de_965dccfbbd.png" group-title="EVENTOS 🗒️", 13:30 - Bundesliga: Union Berlin vs Schalke 04 - Disney+
+https://1.ftlly.com:443/disney5/mono.m3u8?token=f130c79451f81f78b844a6683bda931aa156b43b-a0-1789175968-1789157968
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/bandera_francia_9e29308ee7.png" group-title="EVENTOS 🗒️", 13:45 - Ligue 1: Rennes vs Olympique Marseille - Disney+
+https://8.ftlly.com:443/disney8/mono.m3u8?token=e91088939f916e049ba7809306f3f748b3475699-2a-1789175979-1789157979
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/bandera_francia_9e29308ee7.png" group-title="EVENTOS 🗒️", 13:45 - Ligue 1: Rennes vs Olympique Marseille - BeIN Sports Ñ
+https://8.ftlly.com:443/beinsportes/mono.m3u8?token=c6afdc0e0391456818f1038c5a387cd43284e0a0-6-1789175980-1789157980
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/italia_cb19445d70_41852551f1.png" group-title="EVENTOS 🗒️", 13:45 - Serie A: Venezia vs Fiorentina - ESPN 4 | HD
+https://5.ftlly.com:443/espn4/mono.m3u8?token=73d254ccc8533a92230e6f6e23ace3196411ee21-e3-1789175981-1789157981
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/italia_cb19445d70_41852551f1.png" group-title="EVENTOS 🗒️", 13:45 - Serie A: Venezia vs Fiorentina - ESPN 4
+https://7.ftlly.com:443/espn4/mono.m3u8?token=a383a9033ff21681f3eb0fe4d0e76a9cf90070fa-6b-1789175981-1789157981
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/italia_cb19445d70_41852551f1.png" group-title="EVENTOS 🗒️", 13:45 - Serie A: Venezia vs Fiorentina - ESPN 4 | OP2
+https://5.ftlly.com:443/espn4/mono.m3u8?token=a53e4bb604fe787af232bfc22aa785ae966bc36e-6d-1789175981-1789157981
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/italia_cb19445d70_41852551f1.png" group-title="EVENTOS 🗒️", 13:45 - Serie A: Venezia vs Fiorentina - ESPN 4 | OP3
+https://2.ftlly.com:443/espn4/mono.m3u8?token=65d2d60169b6d2065c90449183459695ef5c581d-ec-1789175981-1789157981
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/italia_cb19445d70_41852551f1.png" group-title="EVENTOS 🗒️", 13:45 - Serie A: Venezia vs Fiorentina - Disney+
+https://3.ftlly.com:443/disney9/mono.m3u8?token=7eb8efdc027dac123aad13df21036232f5061778-63-1789175981-1789157981
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/espana_a8510f9b5f_9213b1e460.png" group-title="EVENTOS 🗒️", 14:00 - LaLiga: Sevilla vs Valencia - ESPN 3 | OP3
+https://4.ftlly.com:443/espn3/mono.m3u8?token=240e4ff10ac12bbd425bc7a1b492be762e35657b-63-1789175960-1789157960
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/espana_a8510f9b5f_9213b1e460.png" group-title="EVENTOS 🗒️", 14:00 - LaLiga: Sevilla vs Valencia - ESPN 3
+https://7.ftlly.com:443/espn3/mono.m3u8?token=df1c224e4019982e35a26070cebe728bd771c85b-99-1789175960-1789157960
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/espana_a8510f9b5f_9213b1e460.png" group-title="EVENTOS 🗒️", 14:00 - LaLiga: Sevilla vs Valencia - ESPN 3 | HD
+https://4.ftlly.com:443/espn3/mono.m3u8?token=dd5456ed5d9385ec771ac9e5b5aee6a401035df4-45-1789175960-1789157960
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/espana_a8510f9b5f_9213b1e460.png" group-title="EVENTOS 🗒️", 14:00 - LaLiga: Sevilla vs Valencia - ESPN 3 | OP2
+https://6.ftlly.com:443/espn3/mono.m3u8?token=22208c774235dbed536cf8aaff87f062d6efe893-66-1789175960-1789157960
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/espana_a8510f9b5f_9213b1e460.png" group-title="EVENTOS 🗒️", 14:00 - LaLiga: Sevilla vs Valencia - Disney+
+https://4.ftlly.com:443/disney10/mono.m3u8?token=a1a4302227cf2bc41ddf7682032cc798ec624be9-70-1789175960-1789157960
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/Tenis_a5d5fcd1d1_594ebf0186.png" group-title="EVENTOS 🗒️", 14:00 - Tenis – US Open – Semifinal Masculina: Zverev A. vs Khachanov K. - ESPN 2 | HD
+https://3.ftlly.com:443/espn2/mono.m3u8?token=d815cc133ccfcc416c4cb6361b45195be77546a4-fb-1789175966-1789157966
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/Tenis_a5d5fcd1d1_594ebf0186.png" group-title="EVENTOS 🗒️", 14:00 - Tenis – US Open – Semifinal Masculina: Zverev A. vs Khachanov K. - ESPN 2 | OP2
+https://1.ftlly.com:443/espn2/mono.m3u8?token=183b4105158aa2c064aa525a6ece71f2796b6ee6-1b-1789175966-1789157966
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/Tenis_a5d5fcd1d1_594ebf0186.png" group-title="EVENTOS 🗒️", 14:00 - Tenis – US Open – Semifinal Masculina: Zverev A. vs Khachanov K. - ESPN 2 | OP3
+https://5.ftlly.com:443/espn2/mono.m3u8?token=e04a9516be56bf21d4834e7f00601dae987a67bd-eb-1789175966-1789157966
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/Tenis_a5d5fcd1d1_594ebf0186.png" group-title="EVENTOS 🗒️", 14:00 - Tenis – US Open – Semifinal Masculina: Zverev A. vs Khachanov K. - ESPN 2
+https://6.ftlly.com:443/espn2/mono.m3u8?token=a257df980e8f5e65126380c55da0404d2e95807e-15-1789175966-1789157966
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/inglaterra_823176495f_fc4f47c43e.png" group-title="EVENTOS 🗒️", 14:00 - Championship: West Ham United vs Wrexham - ESPN 7
+https://5.ftlly.com:443/espn7/mono.m3u8?token=8f903630deaa5b3052a3cda89a7e571545ff5e93-91-1789175981-1789157981
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/inglaterra_823176495f_fc4f47c43e.png" group-title="EVENTOS 🗒️", 14:00 - Championship: West Ham United vs Wrexham - ESPN 7 | OP2
+https://7.ftlly.com:443/espn7/mono.m3u8?token=42d4f1a8af399930a93db78ab669d982101ef6d2-3a-1789175982-1789157982
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/inglaterra_823176495f_fc4f47c43e.png" group-title="EVENTOS 🗒️", 14:00 - Championship: West Ham United vs Wrexham - ESPN 7 | OP3
+https://8.ftlly.com:443/espn7/mono.m3u8?token=75a8c4096dd67ee1980e45d8b42b9d0e8c5af9af-87-1789175982-1789157982
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/inglaterra_823176495f_fc4f47c43e.png" group-title="EVENTOS 🗒️", 14:00 - Championship: West Ham United vs Wrexham - Disney+
+https://10.ftlly.com:443/disney11/mono.m3u8?token=228cb2cd578b9d1da0d96cd0dbe0f97e3dc9088c-55-1789175982-1789157982
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/paraguay_fc9dd78de7_fda39878d0.png" group-title="EVENTOS 🗒️", 14:00 - Primera División: Sportivo Ameliano vs Sportivo San Lorenzo - fanatiz 01
+https://7.ftlly.com:443/fanatiz1/mono.m3u8?token=bef0d97dd8b7676f5abd258f76a5a6b6410c0137-3f-1789175982-1789157982
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/argentina_2bd748026e_628913fc18.png" group-title="EVENTOS 🗒️", 15:00 - Liga Profesional: Newell's Old Boys vs Vélez Sarsfield - ESPN Premium┃HD
+https://7.ftlly.com:443/espnpremium/mono.m3u8?token=908caeba459ee31d130492f2476d1299b6236d87-67-1789175960-1789157960
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/argentina_2bd748026e_628913fc18.png" group-title="EVENTOS 🗒️", 15:00 - Liga Profesional: Newell's Old Boys vs Vélez Sarsfield - ESPN Premium
+https://4.ftlly.com:443/espnpremium/mono.m3u8?token=400e940edeefccdc725cd33518338833e662f47c-1-1789175960-1789157960
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/argentina_2bd748026e_628913fc18.png" group-title="EVENTOS 🗒️", 15:00 - Liga Profesional: Newell's Old Boys vs Vélez Sarsfield - ESPN Premium┃OP3
+https://6.ftlly.com:443/espnpremium/mono.m3u8?token=f7264e4904b4d896c8a947d119bb154bf5212c4b-b7-1789175960-1789157960
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/argentina_2bd748026e_628913fc18.png" group-title="EVENTOS 🗒️", 15:00 - Liga Profesional: Newell's Old Boys vs Vélez Sarsfield - ESPN
+https://dw5pdgvk.fubo18.com:443/espn/mono.m3u8?token=fe31890fc53eb27735eb36234c91e9938f2f1347-4d-1789175961-1789157961
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/argentina_2bd748026e_628913fc18.png" group-title="EVENTOS 🗒️", 15:00 - Liga Profesional: Newell's Old Boys vs Vélez Sarsfield - ESPN Premium┃OP2
+https://1.ftlly.com:443/espnpremium/mono.m3u8?token=581a62fc8edc81201102a1a01fea1e7a9945abe7-65-1789175960-1789157960
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/argentina_2bd748026e_628913fc18.png" group-title="EVENTOS 🗒️", 15:00 - Liga Profesional: Newell's Old Boys vs Vélez Sarsfield - ESPN AR┃OP3
+https://6.ftlly.com:443/espn/mono.m3u8?token=ce24bccee66b4633373e655e6888c9bda68854c1-fd-1789175961-1789157961
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/argentina_2bd748026e_628913fc18.png" group-title="EVENTOS 🗒️", 15:00 - Liga Profesional: Newell's Old Boys vs Vélez Sarsfield - ESPN AR┃OP2
+https://8.ftlly.com:443/espn/mono.m3u8?token=64f16e94efede4789c5a6187e203f7e3ce25d3c0-39-1789175961-1789157961
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/peru_ddc4e685cf_43831ed9b0.png" group-title="EVENTOS 🗒️", 15:00 - Liga 1: UTC Cajamarca vs Juan Pablo II College - Liga1MAX | HD
+https://5.ftlly.com:443/liga1max/mono.m3u8?token=6ace37c0e5f71ebdc1c97b4cb8b3ba75bb15dc72-c6-1789175963-1789157963
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/peru_ddc4e685cf_43831ed9b0.png" group-title="EVENTOS 🗒️", 15:00 - Liga 1: UTC Cajamarca vs Juan Pablo II College - Liga1Max | OP2
+https://9.ftlly.com:443/liga1max/mono.m3u8?token=2b9102bad64b6cc6c086b5006f2fc1c940479e1a-f6-1789175963-1789157963
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/peru_ddc4e685cf_43831ed9b0.png" group-title="EVENTOS 🗒️", 15:00 - Liga 1: UTC Cajamarca vs Juan Pablo II College - Liga1MAX
+https://4.ftlly.com:443/liga1max/mono.m3u8?token=d18e874e1f5cf4f8696abe958bb25d0d047795d9-98-1789175963-1789157963
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/peru_ddc4e685cf_43831ed9b0.png" group-title="EVENTOS 🗒️", 15:00 - Liga 1: UTC Cajamarca vs Juan Pablo II College - Liga1Max | OP3
+https://9.ftlly.com:443/liga1max/mono.m3u8?token=334c9f87e7ff5ae6c7c53bd6113abd2f2a10484a-e7-1789175963-1789157963
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/paraguay_fc9dd78de7_fda39878d0.png" group-title="EVENTOS 🗒️", 16:30 - Primera División: 2 de Mayo vs Libertad - fanatiz 03
+https://7.ftlly.com:443/fanatiz3/mono.m3u8?token=890ea6a272864ad2cd1046c1c4054f0bebc10cf8-37-1789175961-1789157961
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/bolivia_png_81cfc9f71f.png" group-title="EVENTOS 🗒️", 17:00 - Primera División: San Antonio Bulo Bulo vs Aurora - Entel TV PLUS+
+https://4.ftlly.com:443/even1/mono.m3u8?token=b7c1e62836fb7130e320e56abb98a3df3c3538e2-9-1789175968-1789157968
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/argentina_2bd748026e_628913fc18.png" group-title="EVENTOS 🗒️", 17:15 - Liga Profesional: Defensa y Justicia vs Gimnasia Mendoza - TNT Sports | OP2
+https://3.ftlly.com:443/tntsports/mono.m3u8?token=7d057daa52aa9de06c029a866274fb17b6999e98-60-1789175969-1789157969
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/argentina_2bd748026e_628913fc18.png" group-title="EVENTOS 🗒️", 17:15 - Liga Profesional: Defensa y Justicia vs Gimnasia Mendoza - TNT Sports | OP3
+https://9.ftlly.com:443/tntsports/mono.m3u8?token=7178ee31c60e74f8276b38800ac477cb73741637-5e-1789175969-1789157969
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/argentina_2bd748026e_628913fc18.png" group-title="EVENTOS 🗒️", 17:15 - Liga Profesional: Defensa y Justicia vs Gimnasia Mendoza - TNT Sports
+https://6.ftlly.com:443/tntsports/mono.m3u8?token=82dcd3fafc89c836029bdc58c155e1c7a1266b2e-33-1789175969-1789157969
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/argentina_2bd748026e_628913fc18.png" group-title="EVENTOS 🗒️", 17:15 - Liga Profesional: Defensa y Justicia vs Gimnasia Mendoza - TNT Sports | HD
+https://1.ftlly.com:443/tntsports/mono.m3u8?token=a3bdaec8f9ca4a2838f266dc24921022b9587507-17-1789175970-1789157970
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/argentina_2bd748026e_628913fc18.png" group-title="EVENTOS 🗒️", 17:15 - Liga Profesional: Defensa y Justicia vs Gimnasia Mendoza - fanatiz 04
+https://6.ftlly.com:443/fanatiz4/mono.m3u8?token=2a2265d8990a7d3f017ce1ff70adb85a0f66eec0-bc-1789175969-1789157969
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/Tenis_a5d5fcd1d1_594ebf0186.png" group-title="EVENTOS 🗒️", 18:00 - Tenis – US Open – Semifinal Masculina: Tiafoe F. vs Shelton B. - ESPN 2 | HD
+https://7.ftlly.com:443/espn2/mono.m3u8?token=d64574fd3ca03bfc9e1192160b31654a9946e92f-44-1789175966-1789157966
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/Tenis_a5d5fcd1d1_594ebf0186.png" group-title="EVENTOS 🗒️", 18:00 - Tenis – US Open – Semifinal Masculina: Tiafoe F. vs Shelton B. - ESPN 2
+https://6.ftlly.com:443/espn2/mono.m3u8?token=a86cd1bd3687dcd9a38d4e23cff7b7baa59db038-e1-1789175967-1789157967
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/Tenis_a5d5fcd1d1_594ebf0186.png" group-title="EVENTOS 🗒️", 18:00 - Tenis – US Open – Semifinal Masculina: Tiafoe F. vs Shelton B. - ESPN 2 | OP2
+https://8.ftlly.com:443/espn2/mono.m3u8?token=084ca5b87c27106ab41f5b98aa4ec9e130fa184f-fd-1789175967-1789157967
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/Tenis_a5d5fcd1d1_594ebf0186.png" group-title="EVENTOS 🗒️", 18:00 - Tenis – US Open – Semifinal Masculina: Tiafoe F. vs Shelton B. - ESPN 2 | OP3
+https://3.ftlly.com:443/espn2/mono.m3u8?token=1adab57c299368a6227e06c46ed61ee3dfba6324-d0-1789175967-1789157967
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/mlb_f5711cc440_dde64767e4.png" group-title="EVENTOS 🗒️", 18:00 - MLB – NY Yankees vs. NY Mets - ESPN 7
+https://10.ftlly.com:443/espn7/mono.m3u8?token=c4d066902635043a400f927f1f4658d856a6d355-86-1789175975-1789157975
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/mlb_f5711cc440_dde64767e4.png" group-title="EVENTOS 🗒️", 18:00 - MLB – NY Yankees vs. NY Mets - ESPN 7 | OP2
+https://2.ftlly.com:443/espn7/mono.m3u8?token=b2352cb1ae97e702fd31cc906696ef42ab3a5663-aa-1789175975-1789157975
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/mlb_f5711cc440_dde64767e4.png" group-title="EVENTOS 🗒️", 18:00 - MLB – NY Yankees vs. NY Mets - ESPN 7 | OP3
+https://6.ftlly.com:443/espn7/mono.m3u8?token=1c77c407418b4a460f89d22c6c8e8e07925485c1-3-1789175976-1789157976
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/colombia_dcf9cc2637_a1661b26da.png" group-title="EVENTOS 🗒️", 18:15 - Primera A: Jaguares de Córdoba vs Fortaleza CEIF - Win Sports +
+https://5.ftlly.com:443/winsports2/mono.m3u8?token=fd6d93f064b922d7db3f0d2eb8fd7da13354b59e-75-1789175968-1789157968
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/colombia_dcf9cc2637_a1661b26da.png" group-title="EVENTOS 🗒️", 18:15 - Primera A: Jaguares de Córdoba vs Fortaleza CEIF - Win Sports + | OP2
+https://1.ftlly.com:443/winsports2/mono.m3u8?token=f9993e61073106322a433228554b7ff7ae9683c5-56-1789175968-1789157968
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/colombia_dcf9cc2637_a1661b26da.png" group-title="EVENTOS 🗒️", 18:15 - Primera A: Jaguares de Córdoba vs Fortaleza CEIF - Win Sports + | OP3
+https://5.ftlly.com:443/winsports2/mono.m3u8?token=06eb07f31785bdd6c190f6f8cba3ca92cc37f35c-69-1789175969-1789157969
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/colombia_dcf9cc2637_a1661b26da.png" group-title="EVENTOS 🗒️", 18:15 - Primera A: Jaguares de Córdoba vs Fortaleza CEIF - Win Sports + | HD
+https://4.ftlly.com:443/winsports2/mono.m3u8?token=3392274cbf0be1504d7bb8f59f0d703cccbf30b5-bc-1789175968-1789157968
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/bolivia_png_81cfc9f71f.png" group-title="EVENTOS 🗒️", 19:00 - Primera División: Real Potosí vs Oriente Petrolero - Entel TV PLUS+
+https://2.ftlly.com:443/even1/mono.m3u8?token=e387bca85a8aff09bdf5049a69f281810704aa41-3b-1789175958-1789157958
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/boxeo_2024_b15889ae93_ae58e10dcb.png" group-title="EVENTOS 🗒️", 19:00 - ESPN Knockout – Vinicius Pires vs. Rafael - ESPN 4 | HD
+https://4.ftlly.com:443/espn4/mono.m3u8?token=c8bdd938ec2255074274a0a89cd0ccdb31c1658b-13-1789175965-1789157965
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/boxeo_2024_b15889ae93_ae58e10dcb.png" group-title="EVENTOS 🗒️", 19:00 - ESPN Knockout – Vinicius Pires vs. Rafael - ESPN 4
+https://9.ftlly.com:443/espn4/mono.m3u8?token=6547e0da3032b9798ad7610df926a1a43b013967-f2-1789175965-1789157965
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/boxeo_2024_b15889ae93_ae58e10dcb.png" group-title="EVENTOS 🗒️", 19:00 - ESPN Knockout – Vinicius Pires vs. Rafael - ESPN 4 | OP2
+https://5.ftlly.com:443/espn4/mono.m3u8?token=bc77349ff70d768f224282503f7755ce0572f928-2f-1789175965-1789157965
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/boxeo_2024_b15889ae93_ae58e10dcb.png" group-title="EVENTOS 🗒️", 19:00 - ESPN Knockout – Vinicius Pires vs. Rafael - ESPN 4 | OP3
+https://1.ftlly.com:443/espn4/mono.m3u8?token=449ecf8f7d77d447e61137554b482f53ff6d0ed1-60-1789175965-1789157965
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/brasil_25a533e5f7_a1a1ef7a7c.png" group-title="EVENTOS 🗒️", 19:00 - Brasileirão: Coritiba vs Athletico-PR - Sportv BR HD
+https://1.ftlly.com:443/sportv/mono.m3u8?token=d3c5bf8599cd2eb02ba3c4c3acf77f8d38e0a96c-1a-1789175970-1789157970
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/brasil_25a533e5f7_a1a1ef7a7c.png" group-title="EVENTOS 🗒️", 19:00 - Brasileirão: Coritiba vs Athletico-PR - Sportv BR
+https://1.ftlly.com:443/sportv/mono.m3u8?token=3a1d673529d219944e88b9a4025a5268c63ac2a1-d7-1789175970-1789157970
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/brasil_25a533e5f7_a1a1ef7a7c.png" group-title="EVENTOS 🗒️", 19:00 - Brasileirão: Coritiba vs Athletico-PR - Premiere BR | HD
+https://8.ftlly.com:443/premiere1/mono.m3u8?token=f67915961f3821ef9f8fa99be36e70e5d12202da-21-1789175970-1789157970
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/uruguay_e2b9597af8_6abda609fb.png" group-title="EVENTOS 🗒️", 19:00 - Segunda División: Oriental vs Miramar Misiones - Disney+
+https://8.ftlly.com:443/disney12/mono.m3u8?token=c49ed5ec234c01b8bc4706012df5850fc0c5fd53-79-1789175970-1789157970
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/peru_ddc4e685cf_43831ed9b0.png" group-title="EVENTOS 🗒️", 19:00 - Liga 1: Cusco vs Melgar - Liga1MAX
+https://9.ftlly.com:443/liga1max/mono.m3u8?token=a95d6dec01021a7146527d94acbee7c74b680bae-57-1789175972-1789157972
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/peru_ddc4e685cf_43831ed9b0.png" group-title="EVENTOS 🗒️", 19:00 - Liga 1: Cusco vs Melgar - Liga1Max | OP2
+https://1.ftlly.com:443/liga1max/mono.m3u8?token=7a3970b1c3b3bdc9f7e7fff97c3f98e94bd7d29a-be-1789175972-1789157972
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/peru_ddc4e685cf_43831ed9b0.png" group-title="EVENTOS 🗒️", 19:00 - Liga 1: Cusco vs Melgar - Liga1MAX | HD
+https://2.ftlly.com:443/liga1max/mono.m3u8?token=3b39817a4acde99872f8d6a3c40b66ee657aaf7c-6b-1789175971-1789157971
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/peru_ddc4e685cf_43831ed9b0.png" group-title="EVENTOS 🗒️", 19:00 - Liga 1: Cusco vs Melgar - Liga1Max | OP3
+https://2.ftlly.com:443/liga1max/mono.m3u8?token=4e2ad0edc36c93466d6ffb055606add1e895fb51-39-1789175972-1789157972
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/brasil_25a533e5f7_a1a1ef7a7c.png" group-title="EVENTOS 🗒️", 19:00 - Brasileirão: Coritiba vs Athletico-PR - Premiere 8 BR
+https://3.ftlly.com:443/premiere8/mono.m3u8?token=0ccad673f5c092e234be4840d195cf1511a41466-66-1789175970-1789157970
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/argentina_2bd748026e_628913fc18.png" group-title="EVENTOS 🗒️", 19:30 - Liga Profesional: Boca Juniors vs Central Córdoba SdE - ESPN
+https://eWVz.fubo18.com:443/espn/mono.m3u8?token=ae468011020cc6af32f1159de9af8e1269f532cd-e5-1789175961-1789157961
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/argentina_2bd748026e_628913fc18.png" group-title="EVENTOS 🗒️", 19:30 - Liga Profesional: Boca Juniors vs Central Córdoba SdE - Disney+
+https://1.ftlly.com:443/disney13/mono.m3u8?token=50781378b27fc165aa35728c15edc02846c35c0d-14-1789175962-1789157962
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/argentina_2bd748026e_628913fc18.png" group-title="EVENTOS 🗒️", 19:30 - Liga Profesional: Boca Juniors vs Central Córdoba SdE - ESPN AR┃OP2
+https://9.ftlly.com:443/espn/mono.m3u8?token=eea8ccf506db6fe297deb074c39ef5b888fa1610-18-1789175962-1789157962
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/argentina_2bd748026e_628913fc18.png" group-title="EVENTOS 🗒️", 19:30 - Liga Profesional: Boca Juniors vs Central Córdoba SdE - ESPN AR┃OP3
+https://5.ftlly.com:443/espn/mono.m3u8?token=6f11a565638c435c6df8f2a321be8bbe6e2eb6f5-c3-1789175962-1789157962
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/argentina_2bd748026e_628913fc18.png" group-title="EVENTOS 🗒️", 19:30 - Liga Profesional: Boca Juniors vs Central Córdoba SdE - ESPN Premium┃HD
+https://10.ftlly.com:443/espnpremium/mono.m3u8?token=6d44c8607ea22499b454f5ceb486f7e19682cfde-20-1789175962-1789157962
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/argentina_2bd748026e_628913fc18.png" group-title="EVENTOS 🗒️", 19:30 - Liga Profesional: Boca Juniors vs Central Córdoba SdE - ESPN Premium┃OP3
+https://9.ftlly.com:443/espnpremium/mono.m3u8?token=251a2de27d456ced011731f9cff253aba07fe4db-14-1789175963-1789157963
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/argentina_2bd748026e_628913fc18.png" group-title="EVENTOS 🗒️", 19:30 - Liga Profesional: Boca Juniors vs Central Córdoba SdE - ESPN Premium
+https://3.ftlly.com:443/espnpremium/mono.m3u8?token=da1e8fced3c728e1eb4dfe9fd1d560ca89fc8fe5-48-1789175962-1789157962
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/argentina_2bd748026e_628913fc18.png" group-title="EVENTOS 🗒️", 19:30 - Liga Profesional: Boca Juniors vs Central Córdoba SdE - ESPN Premium┃OP2
+https://10.ftlly.com:443/espnpremium/mono.m3u8?token=84f4c6db695a300f74d4fcaf8c777ca25d6d2dc9-da-1789175962-1789157962
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/boxeo_2024_b15889ae93_ae58e10dcb.png" group-title="EVENTOS 🗒️", 20:00 - ESPN Knockout – Maximiliano Maidana vs. Luciano Baldor - ESPN 3
+https://9.ftlly.com:443/espn3/mono.m3u8?token=61f3ec40c7fdf88549c080c16e26bb26b087fefe-64-1789175965-1789157965
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/boxeo_2024_b15889ae93_ae58e10dcb.png" group-title="EVENTOS 🗒️", 20:00 - ESPN Knockout – Maximiliano Maidana vs. Luciano Baldor - ESPN 3 | OP2
+https://2.ftlly.com:443/espn3/mono.m3u8?token=348567d7110e7e10a144f4a88943659dc2f12cd3-76-1789175966-1789157966
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/boxeo_2024_b15889ae93_ae58e10dcb.png" group-title="EVENTOS 🗒️", 20:00 - ESPN Knockout – Maximiliano Maidana vs. Luciano Baldor - ESPN 3 | HD
+https://7.ftlly.com:443/espn3/mono.m3u8?token=265111286c204745fbb8534c7a8a110990ad70d9-a6-1789175965-1789157965
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/boxeo_2024_b15889ae93_ae58e10dcb.png" group-title="EVENTOS 🗒️", 20:00 - ESPN Knockout – Maximiliano Maidana vs. Luciano Baldor - ESPN 3 | OP3
+https://7.ftlly.com:443/espn3/mono.m3u8?token=719eb1d9e39fe5962675ec7aea04038bf4874618-26-1789175966-1789157966
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/bandera_fbc29cb609_69a4b8272a.png" group-title="EVENTOS 🗒️", 20:00 - Liga de Expansión MX: Correcaminos UAT vs Cancún - ESPN 2 MX
+https://8.ftlly.com:443/espn2mx/mono.m3u8?token=299b6cc40bd4ba36db821a2b90e11bc4d37c561f-bd-1789175970-1789157970
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/bandera_fbc29cb609_69a4b8272a.png" group-title="EVENTOS 🗒️", 20:00 - Liga de Expansión MX: Correcaminos UAT vs Cancún - Disney+
+https://4.ftlly.com:443/disney14/mono.m3u8?token=56a3a46137838e607683bc866214d50ba2402868-d5-1789175971-1789157971
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/bandera_fbc29cb609_69a4b8272a.png" group-title="EVENTOS 🗒️", 20:00 - Liga MX: Necaxa vs Puebla - FOX Deportes | HD
+https://9.ftlly.com:443/foxdeportes/mono.m3u8?token=fd51450c185da39656e212b9bd857531d0b3979f-1b-1789175972-1789157972
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/bandera_fbc29cb609_69a4b8272a.png" group-title="EVENTOS 🗒️", 20:00 - Liga MX: Necaxa vs Puebla - FOX Deportes | OP2
+https://1.ftlly.com:443/foxdeportes/mono.m3u8?token=6755cb29b8869423ef5ac605abc574293ffc3dd9-96-1789175973-1789157973
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/bandera_fbc29cb609_69a4b8272a.png" group-title="EVENTOS 🗒️", 20:00 - Liga MX: Necaxa vs Puebla - FOX Deportes | OP3
+https://8.ftlly.com:443/foxdeportes/mono.m3u8?token=70d5627a9ca98047c68248dcf8c8611185665bc0-50-1789175973-1789157973
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/bandera_fbc29cb609_69a4b8272a.png" group-title="EVENTOS 🗒️", 20:00 - Liga MX: Necaxa vs Puebla - FOX Deportes
+https://3.ftlly.com:443/foxdeportes/mono.m3u8?token=b4c3935f7ba09bfbe4f7a18351d498ffda006b2b-57-1789175973-1789157973
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/colombia_dcf9cc2637_a1661b26da.png" group-title="EVENTOS 🗒️", 20:30 - Primera A: Santa Fe vs Deportes Tolima - Win Sports + | HD
+https://4.ftlly.com:443/winsports2/mono.m3u8?token=c50a668103bff974f7be2988709cbdaa0f4941bf-6b-1789175958-1789157958
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/colombia_dcf9cc2637_a1661b26da.png" group-title="EVENTOS 🗒️", 20:30 - Primera A: Santa Fe vs Deportes Tolima - Win Sports + | OP2
+https://7.ftlly.com:443/winsports2/mono.m3u8?token=74828750d39ef4bf8ea0bcb34e84cba6405a5af7-1f-1789175958-1789157958
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/colombia_dcf9cc2637_a1661b26da.png" group-title="EVENTOS 🗒️", 20:30 - Primera A: Santa Fe vs Deportes Tolima - Win Sports + | OP3
+https://4.ftlly.com:443/winsports2/mono.m3u8?token=b6a363cebe65e3648b6599d3bb37f9bcf554386e-bf-1789175958-1789157958
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/colombia_dcf9cc2637_a1661b26da.png" group-title="EVENTOS 🗒️", 20:30 - Primera A: Santa Fe vs Deportes Tolima - Win Sports +
+https://6.ftlly.com:443/winsports2/mono.m3u8?token=2e8949e2a28c70cb1fa8653dcea8b0c83df718df-c5-1789175958-1789157958
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/costa_rica_cb5e6c6746_67d705d4bb.png" group-title="EVENTOS 🗒️", 21:00 - Primera División: Pérez Zeledón vs San Carlos - FUTV
+https://3.ftlly.com:443/futv/mono.m3u8?token=ef5662ce8fb640258cb5cba748b813d2344fd90d-96-1789175963-1789157963
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/bandera_fbc29cb609_69a4b8272a.png" group-title="EVENTOS 🗒️", 22:00 - Liga MX: Tijuana vs Querétaro - TUDN USA | HD
+https://9.ftlly.com:443/tudn/mono.m3u8?token=ea39c95c7384412b3ea7eff613132ce5e87acdfd-d-1789175963-1789157963
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/bandera_fbc29cb609_69a4b8272a.png" group-title="EVENTOS 🗒️", 22:00 - Liga MX: Tijuana vs Querétaro - TUDN USA | OP2
+https://1.ftlly.com:443/tudn/mono.m3u8?token=34698406b0f2c43ce1435c943376a1f75f4d37f1-8b-1789175964-1789157964
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/bandera_fbc29cb609_69a4b8272a.png" group-title="EVENTOS 🗒️", 22:00 - Liga MX: Tijuana vs Querétaro - TUDN USA | OP3
+https://5.ftlly.com:443/tudn/mono.m3u8?token=77bb35892ac73b6a9e18d601fbe4c206ba94c8fd-3f-1789175964-1789157964
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/bandera_fbc29cb609_69a4b8272a.png" group-title="EVENTOS 🗒️", 22:00 - Liga MX: Tijuana vs Querétaro - TUDN USA
+https://2.ftlly.com:443/tudn/mono.m3u8?token=c0369afeb92f440fdf52adeda8d3b18909f39a51-21-1789175964-1789157964
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/bandera_fbc29cb609_69a4b8272a.png" group-title="EVENTOS 🗒️", 22:00 - Liga MX: Tijuana vs Querétaro - Unimas
+https://9.ftlly.com:443/unimas/mono.m3u8?token=afdea08e63328ff449f9a33bbd7e065aa341fc38-e-1789175964-1789157964
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/bandera_fbc29cb609_69a4b8272a.png" group-title="EVENTOS 🗒️", 22:00 - Liga MX: Atlante vs Pachuca - ESPN 2 MX
+https://7.ftlly.com:443/espn2mx/mono.m3u8?token=a93416b398864bcb5291089ed970337a5238d407-9-1789175976-1789157976
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/bandera_fbc29cb609_69a4b8272a.png" group-title="EVENTOS 🗒️", 22:00 - Liga MX: Atlante vs Pachuca - Azteca 7 | HD
+https://7.ftlly.com:443/azteca7/mono.m3u8?token=648d52fefbe7e88ba583489c70b74f271118f470-50-1789175977-1789157977
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/bandera_fbc29cb609_69a4b8272a.png" group-title="EVENTOS 🗒️", 22:00 - Liga MX: Atlante vs Pachuca - Azteca 7 | OP2
+https://2.ftlly.com:443/azteca7/mono.m3u8?token=c045bd3ec00ebd67c01640837e49c812bfa67803-9d-1789175978-1789157978
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/bandera_fbc29cb609_69a4b8272a.png" group-title="EVENTOS 🗒️", 22:00 - Liga MX: Atlante vs Pachuca - Azteca 7
+https://4.ftlly.com:443/azteca7/mono.m3u8?token=2af8bc8e263ecfe2fef706367c2ceb9ff221f067-c1-1789175977-1789157977
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/bandera_fbc29cb609_69a4b8272a.png" group-title="EVENTOS 🗒️", 22:00 - Liga MX: Atlante vs Pachuca - Azteca 7 | OP3
+https://10.ftlly.com:443/azteca7/mono.m3u8?token=e25e53f91937f421cf4a067c65f80c04364a0393-df-1789175978-1789157978
+
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/arabia_saudita_82c6f9c376_70d77b2bc2.png" group-title="EVENTOS 2 🗒️", 13:00 - Pro League: Al-Ahli vs Al Hazm - FOX Deportes
+https://7.ftlly.com:443/foxdeportes/mono.m3u8?token=0ccda8ce2e1f06f968b72b061c13a58e53559e15-b1-1789176009-1789158009
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/arabia_saudita_82c6f9c376_70d77b2bc2.png" group-title="EVENTOS 2 🗒️", 13:00 - Pro League: Al-Ahli vs Al Hazm - FOX Deportes | HD
+https://2.ftlly.com:443/foxdeportes/mono.m3u8?token=243fce4d093f635fe998d313032a6f805c3c4746-f4-1789176008-1789158008
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/arabia_saudita_82c6f9c376_70d77b2bc2.png" group-title="EVENTOS 2 🗒️", 13:00 - Pro League: Al-Ahli vs Al Hazm - FOX Deportes | OP2
+https://7.ftlly.com:443/foxdeportes/mono.m3u8?token=d9fd779b81b8093d574efa959fee777cfc3a6b28-c7-1789176009-1789158009
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/arabia_saudita_82c6f9c376_70d77b2bc2.png" group-title="EVENTOS 2 🗒️", 13:00 - Pro League: Al-Ahli vs Al Hazm - FOX Deportes | OP3
+https://5.ftlly.com:443/foxdeportes/mono.m3u8?token=dcf635641e744e7f95255e98db8104b2bbb12b38-2b-1789176009-1789158009
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/paises_bajos_f773e994b9_3bb0d207d2.png" group-title="EVENTOS 2 🗒️", 13:00 - Eredivisie: Eredivisie: AZ vs Willem II - ESPN 2 MX
+https://4.ftlly.com:443/espn2mx/mono.m3u8?token=77e96e9fb7a18129b3d00fecd4321623506a4239-3f-1789176011-1789158011
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/paises_bajos_f773e994b9_3bb0d207d2.png" group-title="EVENTOS 2 🗒️", 13:00 - Eredivisie: Eredivisie: AZ vs Willem II - Disney+
+https://5.ftlly.com:443/disney4/mono.m3u8?token=5ef46f5fb3ba15c7b67aefd82ba1528d02d8c17d-6f-1789176011-1789158011
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/paises_bajos_f773e994b9_3bb0d207d2.png" group-title="EVENTOS 2 🗒️", 13:00 - Eerste Divisie: MVV vs Almere City - ESPN 3 NL
+https://8.ftlly.com:443/espn3_nl/mono.m3u8?token=ce9e0ac19bf49a00765473c8614584fbfa137227-6-1789176008-1789158008
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/paises_bajos_f773e994b9_3bb0d207d2.png" group-title="EVENTOS 2 🗒️", 13:00 - Eredivisie: Eredivisie: AZ vs Willem II - ESPN 2 NL
+https://7.ftlly.com:443/espn2_nl/mono.m3u8?token=078caf1d8514a9f7383fe4c4e7e0d028413e9e49-ee-1789176011-1789158011
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/espana_a8510f9b5f_9213b1e460.png" group-title="EVENTOS 2 🗒️", 13:30 - LaLiga SmartBank: Burgos vs Ceuta - LaLiga TV Hypermotion
+https://4.ftlly.com:443/hypermotion1/mono.m3u8?token=894011f3a6f0bf5a2caea946dfe73d19db9ff576-51-1789176000-1789158000
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/alemania_e50aa475de_965dccfbbd.png" group-title="EVENTOS 2 🗒️", 13:30 - Bundesliga: Union Berlin vs Schalke 04 - ESPN 5 | HD
+https://7.ftlly.com:443/espn5/mono.m3u8?token=1a806c632c267fbc7181557a6f37955266459392-7d-1789176003-1789158003
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/alemania_e50aa475de_965dccfbbd.png" group-title="EVENTOS 2 🗒️", 13:30 - Bundesliga: Union Berlin vs Schalke 04 - ESPN 5
+https://5.ftlly.com:443/espn5/mono.m3u8?token=16243321b7839b95147b3aa66d6ceed2c4a38dde-1c-1789176003-1789158003
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/alemania_e50aa475de_965dccfbbd.png" group-title="EVENTOS 2 🗒️", 13:30 - Bundesliga: Union Berlin vs Schalke 04 - ESPN 5 | OP3
+https://8.ftlly.com:443/espn5/mono.m3u8?token=597553500eda42bc5b5ee7e490b0babe3c95bc4a-c0-1789176003-1789158003
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/alemania_e50aa475de_965dccfbbd.png" group-title="EVENTOS 2 🗒️", 13:30 - Bundesliga: Union Berlin vs Schalke 04 - Disney+
+https://4.ftlly.com:443/disney5/mono.m3u8?token=13ca9400ae3668ed0ab7b7937f341d352fe49c67-e5-1789176003-1789158003
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/alemania_e50aa475de_965dccfbbd.png" group-title="EVENTOS 2 🗒️", 13:30 - Bundesliga: Union Berlin vs Schalke 04 - Sportv BR HD
+https://2.ftlly.com:443/sportv/mono.m3u8?token=6cb45204ecc926fb619d106d7af77b46cf96e789-26-1789176003-1789158003
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/alemania_e50aa475de_965dccfbbd.png" group-title="EVENTOS 2 🗒️", 13:30 - Bundesliga: Union Berlin vs Schalke 04 - Sportv BR
+https://3.ftlly.com:443/sportv/mono.m3u8?token=a37cd53de576dfd09b22e85470215900e1e2ad23-d3-1789176004-1789158004
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/alemania_e50aa475de_965dccfbbd.png" group-title="EVENTOS 2 🗒️", 13:30 - Bundesliga: Union Berlin vs Schalke 04 - ESPN 5 | OP2
+https://5.ftlly.com:443/espn5/mono.m3u8?token=13f9ddcab0f8245a5cf76cd6483c48568924079b-ed-1789176003-1789158003
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/bandera_francia_9e29308ee7.png" group-title="EVENTOS 2 🗒️", 13:45 - Ligue 1: Rennes vs Olympique Marseille - Disney+
+https://5.ftlly.com:443/disney8/mono.m3u8?token=dfde7c9ae9dd1eceff7cd7266a7dfe38f9e8a731-29-1789176012-1789158012
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/bandera_francia_9e29308ee7.png" group-title="EVENTOS 2 🗒️", 13:45 - Ligue 1: Rennes vs Olympique Marseille - BeIN Sports Ñ
+https://2.ftlly.com:443/beinsportes/mono.m3u8?token=29046dc28c6e6edccb7461bda849439647e89b3e-97-1789176012-1789158012
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/italia_cb19445d70_41852551f1.png" group-title="EVENTOS 2 🗒️", 13:45 - Serie A: Venezia vs Fiorentina - ESPN 4 | HD
+https://1.ftlly.com:443/espn4/mono.m3u8?token=6773b42a7423bde2dcb4228c16fc9e737f2b6773-1e-1789176012-1789158012
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/italia_cb19445d70_41852551f1.png" group-title="EVENTOS 2 🗒️", 13:45 - Serie A: Venezia vs Fiorentina - ESPN 4
+https://8.ftlly.com:443/espn4/mono.m3u8?token=7a9521b8b648e3895962eae00461e17d769be757-d9-1789176012-1789158012
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/italia_cb19445d70_41852551f1.png" group-title="EVENTOS 2 🗒️", 13:45 - Serie A: Venezia vs Fiorentina - ESPN 4 | OP2
+https://6.ftlly.com:443/espn4/mono.m3u8?token=576f8ef55ec4080f706838d167a80e5a74735e91-5b-1789176013-1789158013
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/italia_cb19445d70_41852551f1.png" group-title="EVENTOS 2 🗒️", 13:45 - Serie A: Venezia vs Fiorentina - Disney+
+https://8.ftlly.com:443/disney9/mono.m3u8?token=0ec0589538d5b69feb7162d1397a27a20dc6e4af-c4-1789176013-1789158013
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/italia_cb19445d70_41852551f1.png" group-title="EVENTOS 2 🗒️", 13:45 - Serie A: Venezia vs Fiorentina - ESPN 4 | OP3
+https://10.ftlly.com:443/espn4/mono.m3u8?token=207be098992942471467d4d27601ed06d2520d5a-92-1789176013-1789158013
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/espana_a8510f9b5f_9213b1e460.png" group-title="EVENTOS 2 🗒️", 14:00 - LaLiga: Sevilla vs Valencia - ESPN 3 | OP2
+https://9.ftlly.com:443/espn3/mono.m3u8?token=3818f09b59cf4ecdee68792a39b08a9366e1003d-18-1789175995-1789157995
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/espana_a8510f9b5f_9213b1e460.png" group-title="EVENTOS 2 🗒️", 14:00 - LaLiga: Sevilla vs Valencia - Disney+
+https://6.ftlly.com:443/disney10/mono.m3u8?token=09e8dc88ac7564af4b9fe0731f5ddd9d18e1cba5-cc-1789175995-1789157995
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/espana_a8510f9b5f_9213b1e460.png" group-title="EVENTOS 2 🗒️", 14:00 - LaLiga: Sevilla vs Valencia - ESPN 3
+https://8.ftlly.com:443/espn3/mono.m3u8?token=ca81b092289103c619e0c4d12779d017833624da-df-1789175995-1789157995
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/espana_a8510f9b5f_9213b1e460.png" group-title="EVENTOS 2 🗒️", 14:00 - LaLiga: Sevilla vs Valencia - ESPN 3 | HD
+https://8.ftlly.com:443/espn3/mono.m3u8?token=c5ed2a40f66a333c63f68b1c8975857d89ad7553-88-1789175995-1789157995
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/espana_a8510f9b5f_9213b1e460.png" group-title="EVENTOS 2 🗒️", 14:00 - LaLiga: Sevilla vs Valencia - ESPN 3 | OP3
+https://9.ftlly.com:443/espn3/mono.m3u8?token=49a737f0fe76ae92714dd94fe07a89b7fd5b3fb4-b3-1789175995-1789157995
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/Tenis_a5d5fcd1d1_594ebf0186.png" group-title="EVENTOS 2 🗒️", 14:00 - Tenis – US Open – Semifinal Masculina: Zverev A. vs Khachanov K. - ESPN 2 | HD
+https://8.ftlly.com:443/espn2/mono.m3u8?token=d5202953587ab7c85e7da37a9ee047617367a703-74-1789176002-1789158002
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/Tenis_a5d5fcd1d1_594ebf0186.png" group-title="EVENTOS 2 🗒️", 14:00 - Tenis – US Open – Semifinal Masculina: Zverev A. vs Khachanov K. - ESPN 2
+https://8.ftlly.com:443/espn2/mono.m3u8?token=0619e2baed1edd9d4e4a6c7369bf7608eb01ea30-50-1789176002-1789158002
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/Tenis_a5d5fcd1d1_594ebf0186.png" group-title="EVENTOS 2 🗒️", 14:00 - Tenis – US Open – Semifinal Masculina: Zverev A. vs Khachanov K. - ESPN 2 | OP2
+https://4.ftlly.com:443/espn2/mono.m3u8?token=f628f9368796a6ddcc05620f2735969777b05db4-53-1789176002-1789158002
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/Tenis_a5d5fcd1d1_594ebf0186.png" group-title="EVENTOS 2 🗒️", 14:00 - Tenis – US Open – Semifinal Masculina: Zverev A. vs Khachanov K. - ESPN 2 | OP3
+https://8.ftlly.com:443/espn2/mono.m3u8?token=77881d9e8f02c5b03b9cd89a9ef3717276909e33-da-1789176002-1789158002
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/inglaterra_823176495f_fc4f47c43e.png" group-title="EVENTOS 2 🗒️", 14:00 - Championship: West Ham United vs Wrexham - ESPN 7
+https://10.ftlly.com:443/espn7/mono.m3u8?token=b7a7cf55f4a8ab03be9a1be31b07487f6a6abd49-44-1789176014-1789158014
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/inglaterra_823176495f_fc4f47c43e.png" group-title="EVENTOS 2 🗒️", 14:00 - Championship: West Ham United vs Wrexham - ESPN 7 | OP2
+https://5.ftlly.com:443/espn7/mono.m3u8?token=917aa2aa8872737ba815ab6da459e16bd50ca84f-35-1789176014-1789158014
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/inglaterra_823176495f_fc4f47c43e.png" group-title="EVENTOS 2 🗒️", 14:00 - Championship: West Ham United vs Wrexham - ESPN 7 | OP3
+https://7.ftlly.com:443/espn7/mono.m3u8?token=fa140da30e84c03f2c946e28b86bbe78930cf74e-8a-1789176015-1789158015
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/inglaterra_823176495f_fc4f47c43e.png" group-title="EVENTOS 2 🗒️", 14:00 - Championship: West Ham United vs Wrexham - Disney+
+https://10.ftlly.com:443/disney11/mono.m3u8?token=1a0e04ff17cbffa9cc6681bee8fb7c0312c2bfb1-82-1789176015-1789158015
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/paraguay_fc9dd78de7_fda39878d0.png" group-title="EVENTOS 2 🗒️", 14:00 - Primera División: Sportivo Ameliano vs Sportivo San Lorenzo - fanatiz 01
+https://10.ftlly.com:443/fanatiz1/mono.m3u8?token=880cf443ad90eb054d6ac49ef8ca4d860146d7ca-2d-1789176015-1789158015
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/argentina_2bd748026e_628913fc18.png" group-title="EVENTOS 2 🗒️", 15:00 - Liga Profesional: Newell's Old Boys vs Vélez Sarsfield - ESPN
+https://dglvz29s.fubo18.com:443/espn/mono.m3u8?token=968e74bf6002bd722f63483b85d8e8ddd68a16d7-63-1789175997-1789157997
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/argentina_2bd748026e_628913fc18.png" group-title="EVENTOS 2 🗒️", 15:00 - Liga Profesional: Newell's Old Boys vs Vélez Sarsfield - ESPN Premium┃HD
+https://10.ftlly.com:443/espnpremium/mono.m3u8?token=9aed3e8c6def5228c54b174cdd03e79fcccbd82f-18-1789175997-1789157997
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/argentina_2bd748026e_628913fc18.png" group-title="EVENTOS 2 🗒️", 15:00 - Liga Profesional: Newell's Old Boys vs Vélez Sarsfield - ESPN Premium┃OP2
+https://5.ftlly.com:443/espnpremium/mono.m3u8?token=c3232ad7295745b6417afef3fd1f3e869c63ff2b-1-1789175997-1789157997
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/argentina_2bd748026e_628913fc18.png" group-title="EVENTOS 2 🗒️", 15:00 - Liga Profesional: Newell's Old Boys vs Vélez Sarsfield - ESPN Premium
+https://8.ftlly.com:443/espnpremium/mono.m3u8?token=c15cfe474831ec306673e60f780f7ea669614c67-4a-1789175997-1789157997
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/argentina_2bd748026e_628913fc18.png" group-title="EVENTOS 2 🗒️", 15:00 - Liga Profesional: Newell's Old Boys vs Vélez Sarsfield - ESPN AR┃OP2
+https://4.ftlly.com:443/espn/mono.m3u8?token=b538f56950ab79f20d4ffdfc4686121fb69c9be8-ba-1789175997-1789157997
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/argentina_2bd748026e_628913fc18.png" group-title="EVENTOS 2 🗒️", 15:00 - Liga Profesional: Newell's Old Boys vs Vélez Sarsfield - ESPN Premium┃OP3
+https://10.ftlly.com:443/espnpremium/mono.m3u8?token=5723166d1bbf1f512f12f26dff889ab001157c5d-6d-1789175997-1789157997
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/argentina_2bd748026e_628913fc18.png" group-title="EVENTOS 2 🗒️", 15:00 - Liga Profesional: Newell's Old Boys vs Vélez Sarsfield - ESPN AR┃OP3
+https://4.ftlly.com:443/espn/mono.m3u8?token=4549586e5c83ffc763cf40216f301612739a34b5-e9-1789175997-1789157997
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/peru_ddc4e685cf_43831ed9b0.png" group-title="EVENTOS 2 🗒️", 15:00 - Liga 1: UTC Cajamarca vs Juan Pablo II College - Liga1Max | OP2
+https://9.ftlly.com:443/liga1max/mono.m3u8?token=940b7f8b9c29fbd7dfe2a9ca47d8288d4a39a5d9-1c-1789175999-1789157999
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/peru_ddc4e685cf_43831ed9b0.png" group-title="EVENTOS 2 🗒️", 15:00 - Liga 1: UTC Cajamarca vs Juan Pablo II College - Liga1MAX
+https://6.ftlly.com:443/liga1max/mono.m3u8?token=0b6b8fc1038c6a2246532af7762a8955ea06ee55-cc-1789175999-1789157999
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/peru_ddc4e685cf_43831ed9b0.png" group-title="EVENTOS 2 🗒️", 15:00 - Liga 1: UTC Cajamarca vs Juan Pablo II College - Liga1MAX | HD
+https://3.ftlly.com:443/liga1max/mono.m3u8?token=c87be21953ea015676684df6e2e292f8849d19ff-ef-1789175999-1789157999
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/peru_ddc4e685cf_43831ed9b0.png" group-title="EVENTOS 2 🗒️", 15:00 - Liga 1: UTC Cajamarca vs Juan Pablo II College - Liga1Max | OP3
+https://2.ftlly.com:443/liga1max/mono.m3u8?token=3ca8d5c6afa2fe78bcb0bab4578e9b3ed023320c-8c-1789175999-1789157999
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/paraguay_fc9dd78de7_fda39878d0.png" group-title="EVENTOS 2 🗒️", 16:30 - Primera División: 2 de Mayo vs Libertad - fanatiz 03
+https://2.ftlly.com:443/fanatiz3/mono.m3u8?token=932afb7221d6b0078765c2e5a0b926df88e007a8-f9-1789175997-1789157997
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/bolivia_png_81cfc9f71f.png" group-title="EVENTOS 2 🗒️", 17:00 - Primera División: San Antonio Bulo Bulo vs Aurora - Entel TV PLUS+
+https://5.ftlly.com:443/even1/mono.m3u8?token=2ac58b355d3a4de14ff041dc076b49041b2fee22-bb-1789176004-1789158004
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/argentina_2bd748026e_628913fc18.png" group-title="EVENTOS 2 🗒️", 17:15 - Liga Profesional: Defensa y Justicia vs Gimnasia Mendoza - TNT Sports | OP2
+https://7.ftlly.com:443/tntsports/mono.m3u8?token=d20593516e1ce38837295c2a910c506d2c1ed9a6-b5-1789176004-1789158004
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/argentina_2bd748026e_628913fc18.png" group-title="EVENTOS 2 🗒️", 17:15 - Liga Profesional: Defensa y Justicia vs Gimnasia Mendoza - TNT Sports
+https://8.ftlly.com:443/tntsports/mono.m3u8?token=2654a719dff5410315545c053d1ce58c990f33ab-4f-1789176004-1789158004
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/argentina_2bd748026e_628913fc18.png" group-title="EVENTOS 2 🗒️", 17:15 - Liga Profesional: Defensa y Justicia vs Gimnasia Mendoza - TNT Sports | OP3
+https://10.ftlly.com:443/tntsports/mono.m3u8?token=2dbdfde81a9d189d057fa43db35e47a1dca1f0d6-60-1789176005-1789158005
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/argentina_2bd748026e_628913fc18.png" group-title="EVENTOS 2 🗒️", 17:15 - Liga Profesional: Defensa y Justicia vs Gimnasia Mendoza - TNT Sports | HD
+https://3.ftlly.com:443/tntsports/mono.m3u8?token=216857c1ce6174df45e1798748d615fbd3e9767f-24-1789176005-1789158005
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/argentina_2bd748026e_628913fc18.png" group-title="EVENTOS 2 🗒️", 17:15 - Liga Profesional: Defensa y Justicia vs Gimnasia Mendoza - fanatiz 04
+https://9.ftlly.com:443/fanatiz4/mono.m3u8?token=986147084d3f658fb6f25743ba01b4eddd6b4a09-3b-1789176005-1789158005
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/Tenis_a5d5fcd1d1_594ebf0186.png" group-title="EVENTOS 2 🗒️", 18:00 - Tenis – US Open – Semifinal Masculina: Tiafoe F. vs Shelton B. - ESPN 2 | HD
+https://2.ftlly.com:443/espn2/mono.m3u8?token=57fae8dffd9b5693c0b93639f63c0fbb3468467e-3b-1789176002-1789158002
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/Tenis_a5d5fcd1d1_594ebf0186.png" group-title="EVENTOS 2 🗒️", 18:00 - Tenis – US Open – Semifinal Masculina: Tiafoe F. vs Shelton B. - ESPN 2 | OP2
+https://4.ftlly.com:443/espn2/mono.m3u8?token=042964f44425dbf1dfce59bcc43ee9f4071e8431-78-1789176003-1789158003
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/Tenis_a5d5fcd1d1_594ebf0186.png" group-title="EVENTOS 2 🗒️", 18:00 - Tenis – US Open – Semifinal Masculina: Tiafoe F. vs Shelton B. - ESPN 2
+https://6.ftlly.com:443/espn2/mono.m3u8?token=eea7094eaecf028a1cbb8059526eeb8d0d24aefa-84-1789176003-1789158003
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/Tenis_a5d5fcd1d1_594ebf0186.png" group-title="EVENTOS 2 🗒️", 18:00 - Tenis – US Open – Semifinal Masculina: Tiafoe F. vs Shelton B. - ESPN 2 | OP3
+https://5.ftlly.com:443/espn2/mono.m3u8?token=942d0543fd1f7dcfc410472fa075a986e5ecde27-9f-1789176003-1789158003
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/mlb_f5711cc440_dde64767e4.png" group-title="EVENTOS 2 🗒️", 18:00 - MLB – NY Yankees vs. NY Mets - ESPN 7
+https://4.ftlly.com:443/espn7/mono.m3u8?token=7b519183ac494f4628b4d1f3a0efa1ce85512b92-26-1789176009-1789158009
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/mlb_f5711cc440_dde64767e4.png" group-title="EVENTOS 2 🗒️", 18:00 - MLB – NY Yankees vs. NY Mets - ESPN 7 | OP2
+https://6.ftlly.com:443/espn7/mono.m3u8?token=a9b9adabccd2478033cd7a05a5572f6be5428981-cc-1789176009-1789158009
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/mlb_f5711cc440_dde64767e4.png" group-title="EVENTOS 2 🗒️", 18:00 - MLB – NY Yankees vs. NY Mets - ESPN 7 | OP3
+https://9.ftlly.com:443/espn7/mono.m3u8?token=11d16f470776cad1a3e7ff8d30290de52a36f421-7f-1789176010-1789158010
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/colombia_dcf9cc2637_a1661b26da.png" group-title="EVENTOS 2 🗒️", 18:15 - Primera A: Jaguares de Córdoba vs Fortaleza CEIF - Win Sports +
+https://4.ftlly.com:443/winsports2/mono.m3u8?token=d07f69bbfa1d6cc241c548bb553c29034eaa38f7-ab-1789176004-1789158004
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/colombia_dcf9cc2637_a1661b26da.png" group-title="EVENTOS 2 🗒️", 18:15 - Primera A: Jaguares de Córdoba vs Fortaleza CEIF - Win Sports + | HD
+https://3.ftlly.com:443/winsports2/mono.m3u8?token=af83ab18f535443b165a4705906d65488fe58b06-92-1789176004-1789158004
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/colombia_dcf9cc2637_a1661b26da.png" group-title="EVENTOS 2 🗒️", 18:15 - Primera A: Jaguares de Córdoba vs Fortaleza CEIF - Win Sports + | OP2
+https://5.ftlly.com:443/winsports2/mono.m3u8?token=fe1941b4131a5d21f0ef7f00f5419d2200a58f53-1a-1789176004-1789158004
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/colombia_dcf9cc2637_a1661b26da.png" group-title="EVENTOS 2 🗒️", 18:15 - Primera A: Jaguares de Córdoba vs Fortaleza CEIF - Win Sports + | OP3
+https://8.ftlly.com:443/winsports2/mono.m3u8?token=2875f2140a5517fe7f8a31e06efa5bdb8d5908ae-e8-1789176004-1789158004
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/bolivia_png_81cfc9f71f.png" group-title="EVENTOS 2 🗒️", 19:00 - Primera División: Real Potosí vs Oriente Petrolero - Entel TV PLUS+
+https://10.ftlly.com:443/even1/mono.m3u8?token=d10bb8c761f0a538f7386a0b0cefab42fbb857b7-9f-1789175994-1789157994
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/boxeo_2024_b15889ae93_ae58e10dcb.png" group-title="EVENTOS 2 🗒️", 19:00 - ESPN Knockout – Vinicius Pires vs. Rafael - ESPN 4 | HD
+https://4.ftlly.com:443/espn4/mono.m3u8?token=32f7f9b40cdd8e991bc8febb14d57b8eafb7d276-c0-1789176000-1789158000
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/boxeo_2024_b15889ae93_ae58e10dcb.png" group-title="EVENTOS 2 🗒️", 19:00 - ESPN Knockout – Vinicius Pires vs. Rafael - ESPN 4 | OP2
+https://6.ftlly.com:443/espn4/mono.m3u8?token=b081417e5717d3821f1b6a96c25f875652689ece-f5-1789176001-1789158001
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/boxeo_2024_b15889ae93_ae58e10dcb.png" group-title="EVENTOS 2 🗒️", 19:00 - ESPN Knockout – Vinicius Pires vs. Rafael - ESPN 4
+https://10.ftlly.com:443/espn4/mono.m3u8?token=2a297b52ed1866ec6ae876b8cbc0eccb1c48de00-61-1789176001-1789158001
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/boxeo_2024_b15889ae93_ae58e10dcb.png" group-title="EVENTOS 2 🗒️", 19:00 - ESPN Knockout – Vinicius Pires vs. Rafael - ESPN 4 | OP3
+https://7.ftlly.com:443/espn4/mono.m3u8?token=6597a8db145f79624e4e3703d9cc8de0e4ea2ad3-de-1789176001-1789158001
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/brasil_25a533e5f7_a1a1ef7a7c.png" group-title="EVENTOS 2 🗒️", 19:00 - Brasileirão: Coritiba vs Athletico-PR - Sportv BR HD
+https://7.ftlly.com:443/sportv/mono.m3u8?token=556573c957c9939c9a9ace91ed8086bd0f549b93-a5-1789176005-1789158005
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/brasil_25a533e5f7_a1a1ef7a7c.png" group-title="EVENTOS 2 🗒️", 19:00 - Brasileirão: Coritiba vs Athletico-PR - Sportv BR
+https://5.ftlly.com:443/sportv/mono.m3u8?token=ad8cfb68d6493438e9731d88b7d4ba2215491c5c-52-1789176005-1789158005
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/brasil_25a533e5f7_a1a1ef7a7c.png" group-title="EVENTOS 2 🗒️", 19:00 - Brasileirão: Coritiba vs Athletico-PR - Premiere BR | HD
+https://8.ftlly.com:443/premiere1/mono.m3u8?token=eb867724ce2307191fbf090cd7cf913457d16221-6b-1789176005-1789158005
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/uruguay_e2b9597af8_6abda609fb.png" group-title="EVENTOS 2 🗒️", 19:00 - Segunda División: Oriental vs Miramar Misiones - Disney+
+https://5.ftlly.com:443/disney12/mono.m3u8?token=0fee62f575eacd81700a315e06b6048bfdbd7871-cc-1789176006-1789158006
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/peru_ddc4e685cf_43831ed9b0.png" group-title="EVENTOS 2 🗒️", 19:00 - Liga 1: Cusco vs Melgar - Liga1Max | OP2
+https://5.ftlly.com:443/liga1max/mono.m3u8?token=1390212b0f6944668c4f37636980a8ab503db4de-3d-1789176007-1789158007
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/peru_ddc4e685cf_43831ed9b0.png" group-title="EVENTOS 2 🗒️", 19:00 - Liga 1: Cusco vs Melgar - Liga1MAX | HD
+https://7.ftlly.com:443/liga1max/mono.m3u8?token=84772f3a29ebcb4a6f93b49775f6fc472d5ea993-b9-1789176006-1789158006
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/peru_ddc4e685cf_43831ed9b0.png" group-title="EVENTOS 2 🗒️", 19:00 - Liga 1: Cusco vs Melgar - Liga1MAX
+https://6.ftlly.com:443/liga1max/mono.m3u8?token=6298807435980efb833ee55af720521cc7c11143-db-1789176006-1789158006
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/peru_ddc4e685cf_43831ed9b0.png" group-title="EVENTOS 2 🗒️", 19:00 - Liga 1: Cusco vs Melgar - Liga1Max | OP3
+https://4.ftlly.com:443/liga1max/mono.m3u8?token=00ca5d74f5128581b174d25ae141654c09dc0438-c8-1789176007-1789158007
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/brasil_25a533e5f7_a1a1ef7a7c.png" group-title="EVENTOS 2 🗒️", 19:00 - Brasileirão: Coritiba vs Athletico-PR - Premiere 8 BR
+https://1.ftlly.com:443/premiere8/mono.m3u8?token=8e74f777f72e2831bae7949ad85da92fb860ab75-30-1789176006-1789158006
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/argentina_2bd748026e_628913fc18.png" group-title="EVENTOS 2 🗒️", 19:30 - Liga Profesional: Boca Juniors vs Central Córdoba SdE - ESPN
+https://dglvz29s.fubo18.com:443/espn/mono.m3u8?token=20281d71f7375d1805d4c5104603911a2081d225-3e-1789175997-1789157997
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/argentina_2bd748026e_628913fc18.png" group-title="EVENTOS 2 🗒️", 19:30 - Liga Profesional: Boca Juniors vs Central Córdoba SdE - ESPN AR┃OP2
+https://10.ftlly.com:443/espn/mono.m3u8?token=d76ee8e42e862c3b23d5dbba869b9950287c48bf-ac-1789175998-1789157998
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/argentina_2bd748026e_628913fc18.png" group-title="EVENTOS 2 🗒️", 19:30 - Liga Profesional: Boca Juniors vs Central Córdoba SdE - ESPN AR┃OP3
+https://4.ftlly.com:443/espn/mono.m3u8?token=23758f6f5b07a6e5fc8d931c2739f484f49a387d-66-1789175998-1789157998
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/argentina_2bd748026e_628913fc18.png" group-title="EVENTOS 2 🗒️", 19:30 - Liga Profesional: Boca Juniors vs Central Córdoba SdE - ESPN Premium
+https://5.ftlly.com:443/espnpremium/mono.m3u8?token=1fa1559be049f2d473784d428c26ebb15b2024ed-ed-1789175998-1789157998
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/argentina_2bd748026e_628913fc18.png" group-title="EVENTOS 2 🗒️", 19:30 - Liga Profesional: Boca Juniors vs Central Córdoba SdE - ESPN Premium┃OP2
+https://8.ftlly.com:443/espnpremium/mono.m3u8?token=1854d1607c63b0a8e3be911719dd752666af1710-6-1789175998-1789157998
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/argentina_2bd748026e_628913fc18.png" group-title="EVENTOS 2 🗒️", 19:30 - Liga Profesional: Boca Juniors vs Central Córdoba SdE - Disney+
+https://1.ftlly.com:443/disney13/mono.m3u8?token=c991218e7c37cd35b76fd48538997a7b87c32ef7-1b-1789175998-1789157998
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/argentina_2bd748026e_628913fc18.png" group-title="EVENTOS 2 🗒️", 19:30 - Liga Profesional: Boca Juniors vs Central Córdoba SdE - ESPN Premium┃OP3
+https://9.ftlly.com:443/espnpremium/mono.m3u8?token=811f87d111e9cde36a647b421bd26a8963e3b4c1-cf-1789175998-1789157998
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/argentina_2bd748026e_628913fc18.png" group-title="EVENTOS 2 🗒️", 19:30 - Liga Profesional: Boca Juniors vs Central Córdoba SdE - ESPN Premium┃HD
+https://7.ftlly.com:443/espnpremium/mono.m3u8?token=e7f216306b68204d30acfe5a7f4b0a0f97844cff-20-1789175998-1789157998
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/boxeo_2024_b15889ae93_ae58e10dcb.png" group-title="EVENTOS 2 🗒️", 20:00 - ESPN Knockout – Maximiliano Maidana vs. Luciano Baldor - ESPN 3 | HD
+https://3.ftlly.com:443/espn3/mono.m3u8?token=c629081ffc254ae8544b5934c1dbdd9567e6ed01-1c-1789176001-1789158001
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/boxeo_2024_b15889ae93_ae58e10dcb.png" group-title="EVENTOS 2 🗒️", 20:00 - ESPN Knockout – Maximiliano Maidana vs. Luciano Baldor - ESPN 3
+https://6.ftlly.com:443/espn3/mono.m3u8?token=f9fea650f777162c9f40690b81397f4bb8002f23-d-1789176001-1789158001
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/boxeo_2024_b15889ae93_ae58e10dcb.png" group-title="EVENTOS 2 🗒️", 20:00 - ESPN Knockout – Maximiliano Maidana vs. Luciano Baldor - ESPN 3 | OP2
+https://10.ftlly.com:443/espn3/mono.m3u8?token=42d7af13838e02e74b4aece1965ff7c5e6d72723-7b-1789176001-1789158001
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/boxeo_2024_b15889ae93_ae58e10dcb.png" group-title="EVENTOS 2 🗒️", 20:00 - ESPN Knockout – Maximiliano Maidana vs. Luciano Baldor - ESPN 3 | OP3
+https://5.ftlly.com:443/espn3/mono.m3u8?token=81937d6e983a410270e38108d98cb134e5e26224-40-1789176001-1789158001
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/bandera_fbc29cb609_69a4b8272a.png" group-title="EVENTOS 2 🗒️", 20:00 - Liga de Expansión MX: Correcaminos UAT vs Cancún - Disney+
+https://7.ftlly.com:443/disney14/mono.m3u8?token=2205a70f0c8e9e33db27fa5dfee1fe33875db0a8-94-1789176006-1789158006
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/bandera_fbc29cb609_69a4b8272a.png" group-title="EVENTOS 2 🗒️", 20:00 - Liga de Expansión MX: Correcaminos UAT vs Cancún - ESPN 2 MX
+https://6.ftlly.com:443/espn2mx/mono.m3u8?token=4412714cd976db6e1195ffec15c0f042ecfd609f-12-1789176006-1789158006
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/bandera_fbc29cb609_69a4b8272a.png" group-title="EVENTOS 2 🗒️", 20:00 - Liga MX: Necaxa vs Puebla - FOX Deportes | HD
+https://7.ftlly.com:443/foxdeportes/mono.m3u8?token=964f253cdb2027d085b5a3bdbcf4bc5a2b938d27-56-1789176007-1789158007
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/bandera_fbc29cb609_69a4b8272a.png" group-title="EVENTOS 2 🗒️", 20:00 - Liga MX: Necaxa vs Puebla - FOX Deportes
+https://5.ftlly.com:443/foxdeportes/mono.m3u8?token=ce21176a60a1fcb8c68e6f30c689e06c0db47f56-d3-1789176007-1789158007
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/bandera_fbc29cb609_69a4b8272a.png" group-title="EVENTOS 2 🗒️", 20:00 - Liga MX: Necaxa vs Puebla - FOX Deportes | OP2
+https://1.ftlly.com:443/foxdeportes/mono.m3u8?token=19fbacbfab1512cda1fab488025106e6c70ad9ba-16-1789176007-1789158007
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/bandera_fbc29cb609_69a4b8272a.png" group-title="EVENTOS 2 🗒️", 20:00 - Liga MX: Necaxa vs Puebla - FOX Deportes | OP3
+https://2.ftlly.com:443/foxdeportes/mono.m3u8?token=bbf9679bcaf9c75b2202faeb37718e2012a9e684-e7-1789176008-1789158008
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/colombia_dcf9cc2637_a1661b26da.png" group-title="EVENTOS 2 🗒️", 20:30 - Primera A: Santa Fe vs Deportes Tolima - Win Sports + | OP2
+https://4.ftlly.com:443/winsports2/mono.m3u8?token=9ae23080c2fa926d6b5614bae4fb72345cb7fdd7-92-1789175994-1789157994
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/colombia_dcf9cc2637_a1661b26da.png" group-title="EVENTOS 2 🗒️", 20:30 - Primera A: Santa Fe vs Deportes Tolima - Win Sports + | HD
+https://5.ftlly.com:443/winsports2/mono.m3u8?token=da74e0d01cc84a81c4fab15b8c0135d27828850a-2e-1789175994-1789157994
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/colombia_dcf9cc2637_a1661b26da.png" group-title="EVENTOS 2 🗒️", 20:30 - Primera A: Santa Fe vs Deportes Tolima - Win Sports +
+https://2.ftlly.com:443/winsports2/mono.m3u8?token=dd92611ff7c981b9734cfb05e3ff55517507ed4c-e3-1789175994-1789157994
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/colombia_dcf9cc2637_a1661b26da.png" group-title="EVENTOS 2 🗒️", 20:30 - Primera A: Santa Fe vs Deportes Tolima - Win Sports + | OP3
+https://3.ftlly.com:443/winsports2/mono.m3u8?token=e6157e6efa61cea7d5128418cfebe308cd176f05-19-1789175994-1789157994
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/costa_rica_cb5e6c6746_67d705d4bb.png" group-title="EVENTOS 2 🗒️", 21:00 - Primera División: Pérez Zeledón vs San Carlos - FUTV
+https://1.ftlly.com:443/futv/mono.m3u8?token=1acb34e04886cc3979155057118ce716caf30e1f-22-1789175999-1789157999
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/bandera_fbc29cb609_69a4b8272a.png" group-title="EVENTOS 2 🗒️", 22:00 - Liga MX: Tijuana vs Querétaro - TUDN USA | HD
+https://4.ftlly.com:443/tudn/mono.m3u8?token=16f43705296ab1fb6b2e0533aef6e3c4344b3a24-ed-1789175999-1789157999
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/bandera_fbc29cb609_69a4b8272a.png" group-title="EVENTOS 2 🗒️", 22:00 - Liga MX: Tijuana vs Querétaro - TUDN USA
+https://1.ftlly.com:443/tudn/mono.m3u8?token=462178c51a8ad5c6ee7167362dd428b93d1f97a6-8a-1789176000-1789158000
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/bandera_fbc29cb609_69a4b8272a.png" group-title="EVENTOS 2 🗒️", 22:00 - Liga MX: Tijuana vs Querétaro - TUDN USA | OP2
+https://8.ftlly.com:443/tudn/mono.m3u8?token=462178c51a8ad5c6ee7167362dd428b93d1f97a6-8a-1789176000-1789158000
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/bandera_fbc29cb609_69a4b8272a.png" group-title="EVENTOS 2 🗒️", 22:00 - Liga MX: Tijuana vs Querétaro - Unimas
+https://2.ftlly.com:443/unimas/mono.m3u8?token=995077845cb640de686989ab1f89bd4a60af4f8e-2c-1789176000-1789158000
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/bandera_fbc29cb609_69a4b8272a.png" group-title="EVENTOS 2 🗒️", 22:00 - Liga MX: Tijuana vs Querétaro - TUDN USA | OP3
+https://4.ftlly.com:443/tudn/mono.m3u8?token=c976be08b43f51cc5e94faba71ce67adcfa6d411-85-1789176000-1789158000
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/bandera_fbc29cb609_69a4b8272a.png" group-title="EVENTOS 2 🗒️", 22:00 - Liga MX: Atlante vs Pachuca - ESPN 2 MX
+https://3.ftlly.com:443/espn2mx/mono.m3u8?token=26ba6563149cb3972bc6b708adb23d8c03ab6a09-91-1789176010-1789158010
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/bandera_fbc29cb609_69a4b8272a.png" group-title="EVENTOS 2 🗒️", 22:00 - Liga MX: Atlante vs Pachuca - Azteca 7 | HD
+https://6.ftlly.com:443/azteca7/mono.m3u8?token=d67476f99d37ea35af5197bc2d26062ebe777140-2c-1789176010-1789158010
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/bandera_fbc29cb609_69a4b8272a.png" group-title="EVENTOS 2 🗒️", 22:00 - Liga MX: Atlante vs Pachuca - Azteca 7
+https://8.ftlly.com:443/azteca7/mono.m3u8?token=4b35595d20bc48ea21de17508ff782a081bad2cf-3d-1789176010-1789158010
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/bandera_fbc29cb609_69a4b8272a.png" group-title="EVENTOS 2 🗒️", 22:00 - Liga MX: Atlante vs Pachuca - Azteca 7 | OP3
+https://2.ftlly.com:443/azteca7/mono.m3u8?token=6d19421fd76a11efc89cbe6050429324b6ef17d1-d8-1789176011-1789158011
+#EXTINF:-1 tvg-logo="https://img.futbollibrehd.com.pe/uploads/bandera_fbc29cb609_69a4b8272a.png" group-title="EVENTOS 2 🗒️", 22:00 - Liga MX: Atlante vs Pachuca - Azteca 7 | OP2
+https://8.ftlly.com:443/azteca7/mono.m3u8?token=1be91306e7a6b4fbb991a4b049263b1bab70f70b-e0-1789176010-1789158010
+
+#EXTINF:-1 tvg-logo="https://pelotalibretv2.online/flags/co.webp" group-title="EVENTOS 3 🗒️", 00:15 - Liga BetPlay: Jaguares de Córdoba vs Fortaleza CEIF - Win+ Fútbol
+https://85.domhsd.com:443/global/winplus/tracks-v1a1/mono.m3u8?ip=157.100.198.119&token=ed5b0e70c07e63c4f1afd06b80ee576b45beece0-89-1789203933-1789149933
+#EXTINF:-1 tvg-logo="https://pelotalibretv2.online/flags/co.webp" group-title="EVENTOS 3 🗒️", 00:15 - Liga BetPlay: Jaguares de Córdoba vs Fortaleza CEIF - Fanatiz
+https://193.domhsd.com:443/global/fanatiz5/index.m3u8?token=8afe593b43505075da09fb2acf71d6daa2804cd6-43-1789203932-1789149932&ip=157.100.198.119
+#EXTINF:-1 tvg-logo="https://pelotalibretv2.online/flags/pe.webp" group-title="EVENTOS 3 🗒️", 01:00 - Liga 1: Cusco vs Melgar - Liga 1 Max
+https://93.domhsd.com:443/global/liga1max/tracks-v1a1/mono.m3u8?ip=157.100.198.119&token=2672689bb42fbe3b758b6a9ecb2166727de9b822-b1-1789203933-1789149933
+#EXTINF:-1 tvg-logo="https://pelotalibretv2.online/flags/br.webp" group-title="EVENTOS 3 🗒️", 01:00 - Brasileirão: Coritiba vs Athletico-PR - Fanatiz
+https://14.domhsd.com:443/global/fanatiz6/index.m3u8?token=3e05fffe5ba14c6d2ced163b66a2363a20332925-a0-1789203934-1789149934&ip=157.100.198.119
+#EXTINF:-1 tvg-logo="https://pelotalibretv2.online/flags/ar.webp" group-title="EVENTOS 3 🗒️", 01:30 - Liga Profesional: Boca Juniors vs Central Córdoba SdE - ESPN
+https://14.domhsd.com:443/global/espn/tracks-v1a1/mono.m3u8?ip=157.100.198.119&token=dfdad7b324a8b9ba0dafbcb5b41b0f773a961ac5-1b-1789203934-1789149934
+#EXTINF:-1 tvg-logo="https://pelotalibretv2.online/flags/ar.webp" group-title="EVENTOS 3 🗒️", 01:30 - Liga Profesional: Boca Juniors vs Central Córdoba SdE - ESPN Premium
+https://7.domhsd.com:443/global/espnpremium/tracks-v1a1/mono.m3u8?ip=157.100.198.119&token=4d12860939e8d0c4ecf3a6c497ba7d57b40fbf04-cf-1789203935-1789149935
+#EXTINF:-1 tvg-logo="https://pelotalibretv2.online/flags/ar.webp" group-title="EVENTOS 3 🗒️", 01:30 - Liga Profesional: Boca Juniors vs Central Córdoba SdE - Fanatiz
+https://85.domhsd.com:443/global/fanatiz7/index.m3u8?token=ff691573a980f9f94fea1813a2016351b2ce88b0-b3-1789203936-1789149936&ip=157.100.198.119
+#EXTINF:-1 tvg-logo="https://pelotalibretv2.online/flags/mx.png" group-title="EVENTOS 3 🗒️", 02:00 - Liga MX: Necaxa vs Puebla - FOX Deportes
+https://14.domhsd.com:443/global/fox_deportes_usa/tracks-v1a1/mono.m3u8?ip=157.100.198.119&token=66f8548a5829e147563cf62662f78dc3864d2d8f-e5-1789203943-1789149943
+#EXTINF:-1 tvg-logo="https://pelotalibretv2.online/flags/co.webp" group-title="EVENTOS 3 🗒️", 02:30 - Liga BetPlay: Santa Fe vs Deportes Tolima - Win+ Fútbol
+https://99.domhsd.com:443/global/winplus/tracks-v1a1/mono.m3u8?ip=157.100.198.119&token=c4416ff5f9b80fa872de3afe7711f66cc30f7948-a2-1789203943-1789149943
+#EXTINF:-1 tvg-logo="https://pelotalibretv2.online/flags/co.webp" group-title="EVENTOS 3 🗒️", 02:30 - Liga BetPlay: Santa Fe vs Deportes Tolima - Fanatiz
+https://98.domhsd.com:443/global/fanatiz8/index.m3u8?token=2de8e341e1ad6cfa0281f03466a064015c725d06-fb-1789203943-1789149943&ip=157.100.198.119
+#EXTINF:-1 tvg-logo="https://pelotalibretv2.online/flags/mx.png" group-title="EVENTOS 3 🗒️", 04:00 - Liga MX: Tijuana vs Querétaro - TUDN US
+https://99.domhsd.com:443/global/tudn_usa/tracks-v1a1/mono.m3u8?ip=157.100.198.119&token=27877ac510a5bf49e5d786b9680932dc3d55ecb4-54-1789203944-1789149944
+#EXTINF:-1 tvg-logo="https://pelotalibretv2.online/flags/mx.png" group-title="EVENTOS 3 🗒️", 04:00 - Liga MX: Atlante vs Pachuca - ESPN 2 MX
+https://17.domhsd.com:443/global/espn2mx/tracks-v1a1/mono.m3u8?ip=157.100.198.119&token=a6a3223779dda20d8f3f65115c35a16aa3c3e8f3-f0-1789203945-1789149945
+#EXTINF:-1 tvg-logo="https://pelotalibretv2.online/flags/mx.png" group-title="EVENTOS 3 🗒️", 04:00 - Liga MX: Atlante vs Pachuca - Azteca
+https://14.domhsd.com:443/global/azteca7/index.m3u8?token=f7ee9c6543873806d8394bfcf00ab7e5225e1e2b-f8-1789203945-1789149945&ip=157.100.198.119
+#EXTINF:-1 tvg-logo="https://pelotalibretv2.online/flags/de.webp" group-title="EVENTOS 3 🗒️", 19:30 - Bundesliga: Union Berlin vs Schalke 04 - Disney+
+https://85.domhsd.com:443/global/disney5/tracks-v1a1/mono.m3u8?ip=157.100.198.119&token=56e48a4d45dea5b6e7e1b6617d9a292ba11c6dc7-e4-1789203928-1789149928
+#EXTINF:-1 tvg-logo="https://pelotalibretv2.online/flags/de.webp" group-title="EVENTOS 3 🗒️", 19:30 - Bundesliga: Union Berlin vs Schalke 04 - ESPN
+https://85.domhsd.com:443/global/espn5/tracks-v1a1/mono.m3u8?ip=157.100.198.119&token=1a499a8a39c162ac6afa6e70d344b2601c655c1c-85-1789203928-1789149928
+#EXTINF:-1 tvg-logo="https://pelotalibretv2.online/flags/es.png" group-title="EVENTOS 3 🗒️", 19:30 - LaLiga 2: Burgos vs Ceuta - LaLiga TV Hypermotion ES
+https://93.domhsd.com:443/global/hypermotion1/tracks-v1a1/mono.m3u8?ip=157.100.198.119&token=d7c1e123eaf9fcbe011ca5c4cde7642499161d53-2f-1789203928-1789149928
+#EXTINF:-1 tvg-logo="https://pelotalibretv2.online/flags/it.png" group-title="EVENTOS 3 🗒️", 19:45 - Serie A: Venezia vs Fiorentina - Disney+
+https://98.domhsd.com:443/global/disney7/tracks-v1a1/mono.m3u8?ip=157.100.198.119&token=3bdfba3e89e1c80ef1505a4304ebe747c451929a-d6-1789203928-1789149928
+#EXTINF:-1 tvg-logo="https://pelotalibretv2.online/flags/fr.webp" group-title="EVENTOS 3 🗒️", 19:45 - Ligue 1: Rennes vs Olympique Marseille - Disney+
+https://98.domhsd.com:443/global/disney6/tracks-v1a1/mono.m3u8?ip=157.100.198.119&token=088505d1f4fc42e003457c7950d34f9eec95bf3f-49-1789203928-1789149928
+#EXTINF:-1 tvg-logo="https://pelotalibretv2.online/flags/it.png" group-title="EVENTOS 3 🗒️", 19:45 - Serie A: Venezia vs Fiorentina - ESPN
+https://98.domhsd.com:443/global/espn4/tracks-v1a1/mono.m3u8?ip=157.100.198.119&token=1ca8cea86112a2d6fef736355c2e5aab1e3b26b2-e4-1789203930-1789149930
+#EXTINF:-1 tvg-logo="https://pelotalibretv2.online/flags/es.png" group-title="EVENTOS 3 🗒️", 19:45 - LaLiga: Sevilla vs Valencia - Disney+
+https://85.domhsd.com:443/global/disney8/tracks-v1a1/mono.m3u8?ip=157.100.198.119&token=03f0feb44128b973186eb3eee8754f7eddf36620-de-1789203930-1789149930
+#EXTINF:-1 tvg-logo="https://pelotalibretv2.online/flags/es.png" group-title="EVENTOS 3 🗒️", 19:45 - LaLiga: Sevilla vs Valencia - ESPN
+https://14.domhsd.com:443/global/espn3/tracks-v1a1/mono.m3u8?ip=157.100.198.119&token=798e6f07c991b1771e213d9e820e9abdca4dbefe-c7-1789203930-1789149930
+#EXTINF:-1 tvg-logo="https://pelotalibretv2.online/flags/en.webp" group-title="EVENTOS 3 🗒️", 20:00 - Championship: West Ham United vs Wrexham - Disney+
+https://17.domhsd.com:443/global/disney9/tracks-v1a1/mono.m3u8?ip=157.100.198.119&token=300f7dfed2283cb07709554e0311b5fd29645539-a4-1789203930-1789149930
+#EXTINF:-1 tvg-logo="https://pelotalibretv2.online/flags/py.webp" group-title="EVENTOS 3 🗒️", 20:00 - Copa de Primera: Sportivo Ameliano vs Sportivo San Lorenzo - Fanatiz
+https://85.domhsd.com:443/global/fanatiz1/tracks-v1a1/mono.m3u8?ip=157.100.198.119&token=f70665c13b70fbcd42f0a8ab43d86f74a8e89939-9c-1789203931-1789149931
+#EXTINF:-1 tvg-logo="https://pelotalibretv2.online/flags/en.webp" group-title="EVENTOS 3 🗒️", 20:00 - Championship: West Ham United vs Wrexham - ESPN
+https://14.domhsd.com:443/global/espn7/tracks-v1a1/mono.m3u8?ip=157.100.198.119&token=848f54520a38432d457d53e0f0c3706317e6535c-68-1789203930-1789149930
+#EXTINF:-1 tvg-logo="https://pelotalibretv2.online/flags/pe.webp" group-title="EVENTOS 3 🗒️", 21:00 - Liga 1: UTC Cajamarca vs Juan Pablo II College - Liga 1 Max
+https://193.domhsd.com:443/global/liga1max/tracks-v1a1/mono.m3u8?ip=157.100.198.119&token=1262bf81e3a582a845519872668b1fe5fdd12810-54-1789203932-1789149932
+#EXTINF:-1 tvg-logo="https://pelotalibretv2.online/flags/ar.webp" group-title="EVENTOS 3 🗒️", 21:00 - Liga Profesional: Newell's Old Boys vs Vélez Sarsfield - Fanatiz
+https://7.domhsd.com:443/global/fanatiz2/tracks-v1a1/mono.m3u8?ip=157.100.198.119&token=e058d3c4b6073866fb276d9d46cdd4f7966771d5-94-1789203931-1789149931
+#EXTINF:-1 tvg-logo="https://pelotalibretv2.online/flags/ar.webp" group-title="EVENTOS 3 🗒️", 21:00 - Liga Profesional: Newell's Old Boys vs Vélez Sarsfield - ESPN Premium
+https://99.domhsd.com:443/global/espnpremium/tracks-v1a1/mono.m3u8?ip=157.100.198.119&token=2de31a2b9ff4cd1d9900dea7615193349cb7882c-67-1789203932-1789149932
+#EXTINF:-1 tvg-logo="https://pelotalibretv2.online/flags/py.webp" group-title="EVENTOS 3 🗒️", 22:30 - Copa de Primera: 2 de Mayo vs Libertad - Fanatiz
+https://7.domhsd.com:443/global/fanatiz3/index.m3u8?token=e3bd246ea7c50798a04b8b1e953db46350643968-43-1789203932-1789149932&ip=157.100.198.119
+#EXTINF:-1 tvg-logo="https://pelotalibretv2.online/flags/ar.webp" group-title="EVENTOS 3 🗒️", 23:15 - Liga Profesional: Defensa y Justicia vs Gimnasia Mendoza - TNT Sports Premium
+https://14.domhsd.com:443/global/tntsports/tracks-v1a1/mono.m3u8?ip=157.100.198.119&token=689f7c787514084c8fe7e7796002cfdbdd9215a2-ca-1789203932-1789149932
+#EXTINF:-1 tvg-logo="https://pelotalibretv2.online/flags/ar.webp" group-title="EVENTOS 3 🗒️", 23:15 - Liga Profesional: Defensa y Justicia vs Gimnasia Mendoza - Fanatiz
+https://14.domhsd.com:443/global/fanatiz4/index.m3u8?token=43df5ab809cbcae44f54b7e143ffa429690f0873-10-1789203932-1789149932&ip=157.100.198.119
