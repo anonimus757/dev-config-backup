@@ -3,16 +3,18 @@
 http://45.224.97.181:9999/Ecuavisa/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.ecuaplay.online/imagen/ecuavisa.jpg" group-title="ECUADOR 🇪🇨", Ecuavisa Quito
 http://latinostream.xyz/live/felixpenatv/L20260730/783216.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.ecuaplay.online/imagen/rts.jpg" group-title="ECUADOR 🇪🇨", RTS HD
-http://177.234.249.178:8888/RTS/index.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.ecuaplay.online/imagen/rts.jpg" group-title="ECUADOR 🇪🇨", RTS
-http://177.234.249.178:8888/RTS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-name="RTS HD" tvg-logo="https://www.ecuaplay.online/imagen/rts.jpg" group-title="ECUADOR 🇪🇨",RTS HD
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/347668.ts
+#EXTINF:-1 tvg-id="Dummy" tvg-name="RTS" tvg-logo="https://www.ecuaplay.online/imagen/rts.jpg" group-title="ECUADOR 🇪🇨",RTS
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/347682.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.ecuaplay.online/imagen/teleamazonas.png" group-title="ECUADOR 🇪🇨", Teleamazonas
 http://157.100.248.242:8080/TeleamazonasHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.ecuaplay.online/imagen/teleamazonas.png" group-title="ECUADOR 🇪🇨", Teleamazonas HD
 http://45.224.97.181:9999/Teleamazonas/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.ecuaplay.online/imagen/gamavison.png" group-title="ECUADOR 🇪🇨", GamaTv
 http://45.224.97.181:9999/Gamavision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tc Televisión HD" tvg-logo="https://www.ecuaplay.online/imagen/tc.jpg" group-title="ECUADOR 🇪🇨",Tc Televisión HD
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/347679.ts
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.ecuaplay.online/imagen/tc.jpg" group-title="ECUADOR 🇪🇨", Tc Televisión
 http://45.224.97.181:9999/TC/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.ecuaplay.online/imagen/oromartv.png" group-title="ECUADOR 🇪🇨", OromarTv
@@ -41,80 +43,68 @@ http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/547725.ts
 http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/558507.ts
 #EXTINF:-1 tvg-id="" tvg-name="⭐️ OP5" tvg-logo="https://cdn.livesoccertv.com/tt/images/competitions/22-copa-sudamericana.png?q=75&w=50" group-title="✨ COPA LIBERTADORES Y SUDAMERICANA 2026 ✨",⭐️ OP5
 http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/558508.ts
-#EXTINF:-1 tvg-id="" tvg-name="D3PÖRT3S | [$ŠPN-3]" tvg-logo="http://redworld.pro:8880/images/65b140dd9ebf0ec2b2a8c1565fa90080.png" group-title="⭐️ DƏPORTE VIP",D3PÖRT3S | [$ŠPN-3]
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/167725.ts
-#EXTINF:-1 tvg-id="ESPN4.pe" tvg-name="D3PØRT3S | $ŠPN-4" tvg-logo="http://redworld.pro:8880/images/9c83acb71e6f939bae03936d2c827d7c.png" group-title="⭐️ DƏPORTE VIP",D3PØRT3S | $ŠPN-4
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/167726.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | $ŠPN PR3MIUM" tvg-logo="http://redworld.pro:8880/images/71e4e80a43e761809353568e3f2dff5f.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | $ŠPN PR3MIUM
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/167727.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | * $.Š.P.N U" tvg-logo="http://redworld.pro:8880/images/aa94a21674567eb1ab35b6e3a9408b26.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | * $.Š.P.N U
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/167729.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | D GAMES 1" tvg-logo="http://redworld.pro:8880/images/c8e7a6a4e47e499e60e09efbf6347eee.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | D GAMES 1
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/167731.ts
-#EXTINF:-1 tvg-id="DIRECTVSports+.pe" tvg-name="DEPORTES | D GAMES +" tvg-logo="http://redworld.pro:8880/images/c8e7a6a4e47e499e60e09efbf6347eee.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | D GAMES +
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/167732.ts
-#EXTINF:-1 tvg-id="DIRECTVSports2.pe" tvg-name="DEPORTES | D GAMES 2" tvg-logo="http://redworld.pro:8880/images/c8e7a6a4e47e499e60e09efbf6347eee.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | D GAMES 2
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/167733.ts
-#EXTINF:-1 tvg-id="FOXSports.pe" tvg-name="DEPORTES | F0X $PORTS 1" tvg-logo="http://redworld.pro:8880/images/6dc7503c4fbdb327b24ffc5318ae0f7a.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | F0X $PORTS 1
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/167734.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | F0X $PORTS 2" tvg-logo="http://redworld.pro:8880/images/777b383eea161b73957a45bcc559efb9.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | F0X $PORTS 2
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/167735.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | F0X $PORTS 3" tvg-logo="http://redworld.pro:8880/images/777b383eea161b73957a45bcc559efb9.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | F0X $PORTS 3
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/167736.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | F0X $PORTS PREMIUM" tvg-logo="http://redworld.pro:8880/images/65d1b536a5c2eb33ca65344adeabdfba.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | F0X $PORTS PREMIUM
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/167737.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | WIN SPORTS +" tvg-logo="http://redworld.pro:8880/images/b7594559b9125fc15131b3463e383aa3.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | WIN SPORTS +
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/167738.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | WIN SPORTS" tvg-logo="http://redworld.pro:8880/images/b7594559b9125fc15131b3463e383aa3.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | WIN SPORTS
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/167739.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | F1" tvg-logo="http://redworld.pro:8880/images/1a13829ef621f7393ece854690b87731.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | F1
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/167742.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | GOLF CHANNEL" tvg-logo="http://redworld.pro:8880/images/89b80113c1ed34f36bfe6936fcf5ed20.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | GOLF CHANNEL
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/167746.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | TENNIS CHANEL" tvg-logo="http://redworld.pro:8880/images/74d04d280b936817eb8146241d8521c9.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | TENNIS CHANEL
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/167748.ts
-#EXTINF:-1 tvg-id="" tvg-name="Deportes | AFIZZIONADOS" tvg-logo="http://redworld.pro:8880/images/e679f9f23ad226c87b4dd9acaa2fe186.png" group-title="⭐️ DƏPORTE VIP",Deportes | AFIZZIONADOS
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/167762.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | TUDN" tvg-logo="http://redworld.pro:8880/images/125560725d883246b914f26e00667bce.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | TUDN
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/167770.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | TUDN XTRA" tvg-logo="http://redworld.pro:8880/images/125560725d883246b914f26e00667bce.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | TUDN XTRA
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/167771.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | TVG" tvg-logo="http://redworld.pro:8880/images/d6bd13dae2fc753e0993c6b45644fa17.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | TVG
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/167772.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | TVG 2" tvg-logo="http://redworld.pro:8880/images/1c1b76b4f7192db1dd44528889d848f9.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | TVG 2
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/167773.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | TVC Deportes" tvg-logo="http://redworld.pro:8880/images/5766b163e6c57795a1d69de316aa9954.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | TVC Deportes
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/167775.ts
-#EXTINF:-1 tvg-id="" tvg-name="D3PORTES | *Ê$P*N D3PORTES" tvg-logo="http://redworld.pro:8880/images/f4ba5e57ae936428596903dc26f482cc.png" group-title="⭐️ DƏPORTE VIP",D3PORTES | *Ê$P*N D3PORTES
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/167728.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | $ŠPN NEWS" tvg-logo="http://redworld.pro:8880/images/cb88103bd31fe7d6cf58e9a7c023b120.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | $ŠPN NEWS
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/167730.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | SPORTV" tvg-logo="http://redworld.pro:8880/images/20498f15eb9325a86465744668037e26.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | SPORTV
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/167774.ts
-#EXTINF:-1 tvg-id="" tvg-name="D3PORTES | Ŕ3@L M@DRÏD TV" tvg-logo="http://redworld.pro:8880/images/2fd2e62cfdb93942bf08272680866ceb.png" group-title="⭐️ DƏPORTE VIP",D3PORTES | Ŕ3@L M@DRÏD TV
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/394445.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | CLARO SPORTS" tvg-logo="" group-title="⭐️ DƏPORTE VIP",DEPORTES | CLARO SPORTS
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/407036.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | $.Š.P.N 5" tvg-logo="http://redworld.pro:8880/images/4d22fe6b127ecce043d9482a792b020f.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | $.Š.P.N 5
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/418591.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | *ESP*N 6" tvg-logo="" group-title="⭐️ DƏPORTE VIP",DEPORTES | *ESP*N 6
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/418592.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | *ESP*N 7" tvg-logo="" group-title="⭐️ DƏPORTE VIP",DEPORTES | *ESP*N 7
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/418593.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | Ty€ 5PORT5" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | Ty€ 5PORT5
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/443250.ts
-#EXTINF:-1 tvg-id="" tvg-name="3UR0$P0RT$ 1 HD" tvg-logo="http://redworld.pro:8880/images/74e323da1aaf5d3a48ba061e0aef9b2d.png" group-title="⭐️ DƏPORTE VIP",3UR0$P0RT$ 1 HD
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/447768.ts
-#EXTINF:-1 tvg-id="" tvg-name="3UR0$P0RT$ 2 HD" tvg-logo="http://redworld.pro:8880/images/801ac82b4df21e08f0f71db1affb0f89.png" group-title="⭐️ DƏPORTE VIP",3UR0$P0RT$ 2 HD
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/447769.ts
-#EXTINF:-1 tvg-id="" tvg-name="RED BULL TV" tvg-logo="http://redworld.pro:8880/images/638254815f3d64d903e8c9fccaec4d1a.png" group-title="⭐️ DƏPORTE VIP",RED BULL TV
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/456701.ts
-#EXTINF:-1 tvg-id="lch2775" tvg-name="D3PØRT3S | [$ŠPN-1]" tvg-logo="http://redworld.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="⭐️ DƏPORTE VIP",D3PØRT3S | [$ŠPN-1]
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/514017.ts
-#EXTINF:-1 tvg-id="" tvg-name="D3PØRTĘS | [$ŠPN-2]" tvg-logo="http://redworld.pro:8880/images/06f8b949029a4cf1f5b2021eed2e8159.png" group-title="⭐️ DƏPORTE VIP",D3PØRTĘS | [$ŠPN-2]
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/514018.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ÑBÆ" tvg-logo="http://redworld.pro:8880/images/cb9ba08fe282681f4ae34fdc866f0c41.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | ÑBÆ
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/514112.ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.pe" tvg-name="Discovery Channel HD" tvg-logo="http://redworld.pro:8880/images/12a8ebd221c1cc385dc020a7d31e8cce.png" group-title="⭐️ CULTURA",Discovery Channel HD
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318603.ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.pe" tvg-name="Discovery Channel SD" tvg-logo="http://redworld.pro:8880/images/12a8ebd221c1cc385dc020a7d31e8cce.png" group-title="⭐️ CULTURA",Discovery Channel SD
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318604.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health HD" tvg-logo="http://redworld.pro:8880/images/980dba9f836545ed57db65c90a92b7a7.png" group-title="⭐️ CULTURA",Discovery Home & Health HD
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318605.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health SD" tvg-logo="http://redworld.pro:8880/images/980dba9f836545ed57db65c90a92b7a7.png" group-title="⭐️ CULTURA",Discovery Home & Health SD
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318606.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Investigation HD" tvg-logo="http://redworld.pro:8880/images/b77369bd453a2ebf8b5391cfac3ab24a.png" group-title="⭐️ CULTURA",Discovery Investigation HD
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318607.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Science" tvg-logo="http://redworld.pro:8880/images/d69e2b874961c77fcc63cc7798a56b85.png" group-title="⭐️ CULTURA",DISCOVERY Science
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318608.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Theater HD" tvg-logo="http://redworld.pro:8880/images/a109eebfce6f68ed725f7fa89a059728.png" group-title="⭐️ CULTURA",DISCOVERY Theater HD
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318609.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Theater" tvg-logo="http://redworld.pro:8880/images/a109eebfce6f68ed725f7fa89a059728.png" group-title="⭐️ CULTURA",DISCOVERY Theater
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318610.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Turbo HD" tvg-logo="http://redworld.pro:8880/images/1463afaef86d27073fa41c8053a853a4.png" group-title="⭐️ CULTURA",DISCOVERY Turbo HD
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318611.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY World SD" tvg-logo="http://redworld.pro:8880/images/8cd8bfde4f3359975e55ffef11065a50.png" group-title="⭐️ CULTURA",DISCOVERY World SD
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318612.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY World HD" tvg-logo="http://redworld.pro:8880/images/8cd8bfde4f3359975e55ffef11065a50.png" group-title="⭐️ CULTURA",DISCOVERY World HD
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318613.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Familia FHD" tvg-logo="http://redworld.pro:8880/images/b7664c449eaa2b5da315f071351f39e7.png" group-title="⭐️ CULTURA",Discovery Familia FHD
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318614.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Familia HD" tvg-logo="http://redworld.pro:8880/images/b7664c449eaa2b5da315f071351f39e7.png" group-title="⭐️ CULTURA",Discovery Familia HD
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318615.ts
+#EXTINF:-1 tvg-id="" tvg-name="EL GOURMET" tvg-logo="http://redworld.pro:8880/images/0e8398e1532318e98927555bc11e0ae1.png" group-title="⭐️ CULTURA",EL GOURMET
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318616.ts
+#EXTINF:-1 tvg-id="History.pe" tvg-name="HISTORY HD" tvg-logo="http://redworld.pro:8880/images/808e99e2aae48ae0129de1185b97dccb.png" group-title="⭐️ CULTURA",HISTORY HD
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318617.ts
+#EXTINF:-1 tvg-id="History2.pe" tvg-name="History 2" tvg-logo="http://redworld.pro:8880/images/f9038ee8520c9eef7f168d1877caac8b.png" group-title="⭐️ CULTURA",History 2
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318618.ts
+#EXTINF:-1 tvg-id="History2.pe" tvg-name="History 2 HD" tvg-logo="http://redworld.pro:8880/images/f9038ee8520c9eef7f168d1877caac8b.png" group-title="⭐️ CULTURA",History 2 HD
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318619.ts
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL Geographic FHD" tvg-logo="http://redworld.pro:8880/images/7a9d62e859726cf7afa212b05ad79f7f.png" group-title="⭐️ CULTURA",NATIONAL Geographic FHD
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318620.ts
+#EXTINF:-1 tvg-id="" tvg-name="NAT Geo HD" tvg-logo="http://redworld.pro:8880/images/7a9d62e859726cf7afa212b05ad79f7f.png" group-title="⭐️ CULTURA",NAT Geo HD
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318621.ts
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD HD" tvg-logo="http://redworld.pro:8880/images/2f41b8dc685ce23fc3d65959372de685.png" group-title="⭐️ CULTURA",NATGEO WILD HD
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318623.ts
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL Planet HD." tvg-logo="http://redworld.pro:8880/images/eeafe792a8138ea5239764881a44e50e.png" group-title="⭐️ CULTURA",ANIMAL Planet HD.
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318624.ts
+#EXTINF:-1 tvg-id="" tvg-name="E! Entretainment FHD" tvg-logo="http://redworld.pro:8880/images/d2013b7cc5f536c09e36980ede2b5ebc.png" group-title="⭐️ CULTURA",E! Entretainment FHD
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318626.ts
+#EXTINF:-1 tvg-id="" tvg-name="E! Entretainment HD" tvg-logo="http://redworld.pro:8880/images/d2013b7cc5f536c09e36980ede2b5ebc.png" group-title="⭐️ CULTURA",E! Entretainment HD
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318627.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA HD." tvg-logo="http://redworld.pro:8880/images/faced036eb73698d8950976cac5c442d.png" group-title="⭐️ CULTURA",CANAL COCINA HD.
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318628.ts
+#EXTINF:-1 tvg-id="" tvg-name="TLC FHD" tvg-logo="http://redworld.pro:8880/images/aa27e0d625d7cc2eee7e173496c16fca.png" group-title="⭐️ CULTURA",TLC FHD
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318629.ts
+#EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-logo="http://redworld.pro:8880/images/aa27e0d625d7cc2eee7e173496c16fca.png" group-title="⭐️ CULTURA",TLC HD
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318630.ts
+#EXTINF:-1 tvg-id="" tvg-name="HGTV FHD" tvg-logo="http://redworld.pro:8880/images/8361b0aa15c201aba7d73d0b6193b6c7.png" group-title="⭐️ CULTURA",HGTV FHD
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318631.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME HD" tvg-logo="http://redworld.pro:8880/images/4e6a938c29df214ad11bef9ee275cd76.png" group-title="⭐️ CULTURA",LIFETIME HD
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318632.ts
+#EXTINF:-1 tvg-id="" tvg-name="Love Planet HD" tvg-logo="http://redworld.pro:8880/images/ad4943043f51563d2cf7eddc96b98be1.png" group-title="⭐️ CULTURA",Love Planet HD
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/348755.ts
+#EXTINF:-1 tvg-id="" tvg-name="GARAGE TV HD" tvg-logo="http://redworld.pro:8880/images/56bb2effa7b012aab23daf887370e1e1.png" group-title="⭐️ CULTURA",GARAGE TV HD
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/362420.ts
+#EXTINF:-1 tvg-id="" tvg-name="DW | Español" tvg-logo="http://redworld.pro:8880/images/936c91c5cd525a1c9208d69b3a0cab87.jpg" group-title="⭐️ CULTURA",DW | Español
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/560932.ts
 #EXTINF:-1 tvg-id="" tvg-name="CINE | A&E FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQjV-u5jw-GdHMR9tjbDC9wxDWINx3jLXRUQ&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | A&E FHD
 http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/414453.ts
 #EXTINF:-1 tvg-id="" tvg-name="CINE | A&E HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQjV-u5jw-GdHMR9tjbDC9wxDWINx3jLXRUQ&usqp=CAU" group-title="⭐️ CINE PREMIUM",CINE | A&E HD
@@ -763,68 +753,6 @@ http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/526577.ts
 http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/526578.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Los jóvenes titanes" tvg-logo="http://redworld.pro:8880/images/357b528604ae6329ab73c11399c2c312.jpg" group-title="✅ 24/7 VIP",24/7 Los jóvenes titanes
 http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/526579.ts
-#EXTINF:-1 tvg-id="DiscoveryChannel.pe" tvg-name="Discovery Channel HD" tvg-logo="http://redworld.pro:8880/images/12a8ebd221c1cc385dc020a7d31e8cce.png" group-title="⭐️ CULTURA",Discovery Channel HD
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318603.ts
-#EXTINF:-1 tvg-id="DiscoveryChannel.pe" tvg-name="Discovery Channel SD" tvg-logo="http://redworld.pro:8880/images/12a8ebd221c1cc385dc020a7d31e8cce.png" group-title="⭐️ CULTURA",Discovery Channel SD
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318604.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health HD" tvg-logo="http://redworld.pro:8880/images/980dba9f836545ed57db65c90a92b7a7.png" group-title="⭐️ CULTURA",Discovery Home & Health HD
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318605.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health SD" tvg-logo="http://redworld.pro:8880/images/980dba9f836545ed57db65c90a92b7a7.png" group-title="⭐️ CULTURA",Discovery Home & Health SD
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318606.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Investigation HD" tvg-logo="http://redworld.pro:8880/images/b77369bd453a2ebf8b5391cfac3ab24a.png" group-title="⭐️ CULTURA",Discovery Investigation HD
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318607.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Science" tvg-logo="http://redworld.pro:8880/images/d69e2b874961c77fcc63cc7798a56b85.png" group-title="⭐️ CULTURA",DISCOVERY Science
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318608.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Theater HD" tvg-logo="http://redworld.pro:8880/images/a109eebfce6f68ed725f7fa89a059728.png" group-title="⭐️ CULTURA",DISCOVERY Theater HD
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318609.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Theater" tvg-logo="http://redworld.pro:8880/images/a109eebfce6f68ed725f7fa89a059728.png" group-title="⭐️ CULTURA",DISCOVERY Theater
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318610.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY Turbo HD" tvg-logo="http://redworld.pro:8880/images/1463afaef86d27073fa41c8053a853a4.png" group-title="⭐️ CULTURA",DISCOVERY Turbo HD
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318611.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY World SD" tvg-logo="http://redworld.pro:8880/images/8cd8bfde4f3359975e55ffef11065a50.png" group-title="⭐️ CULTURA",DISCOVERY World SD
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318612.ts
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY World HD" tvg-logo="http://redworld.pro:8880/images/8cd8bfde4f3359975e55ffef11065a50.png" group-title="⭐️ CULTURA",DISCOVERY World HD
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318613.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Familia FHD" tvg-logo="http://redworld.pro:8880/images/b7664c449eaa2b5da315f071351f39e7.png" group-title="⭐️ CULTURA",Discovery Familia FHD
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318614.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Familia HD" tvg-logo="http://redworld.pro:8880/images/b7664c449eaa2b5da315f071351f39e7.png" group-title="⭐️ CULTURA",Discovery Familia HD
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318615.ts
-#EXTINF:-1 tvg-id="" tvg-name="EL GOURMET" tvg-logo="http://redworld.pro:8880/images/0e8398e1532318e98927555bc11e0ae1.png" group-title="⭐️ CULTURA",EL GOURMET
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318616.ts
-#EXTINF:-1 tvg-id="History.pe" tvg-name="HISTORY HD" tvg-logo="http://redworld.pro:8880/images/808e99e2aae48ae0129de1185b97dccb.png" group-title="⭐️ CULTURA",HISTORY HD
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318617.ts
-#EXTINF:-1 tvg-id="History2.pe" tvg-name="History 2" tvg-logo="http://redworld.pro:8880/images/f9038ee8520c9eef7f168d1877caac8b.png" group-title="⭐️ CULTURA",History 2
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318618.ts
-#EXTINF:-1 tvg-id="History2.pe" tvg-name="History 2 HD" tvg-logo="http://redworld.pro:8880/images/f9038ee8520c9eef7f168d1877caac8b.png" group-title="⭐️ CULTURA",History 2 HD
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318619.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL Geographic FHD" tvg-logo="http://redworld.pro:8880/images/7a9d62e859726cf7afa212b05ad79f7f.png" group-title="⭐️ CULTURA",NATIONAL Geographic FHD
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318620.ts
-#EXTINF:-1 tvg-id="" tvg-name="NAT Geo HD" tvg-logo="http://redworld.pro:8880/images/7a9d62e859726cf7afa212b05ad79f7f.png" group-title="⭐️ CULTURA",NAT Geo HD
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318621.ts
-#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD HD" tvg-logo="http://redworld.pro:8880/images/2f41b8dc685ce23fc3d65959372de685.png" group-title="⭐️ CULTURA",NATGEO WILD HD
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318623.ts
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL Planet HD." tvg-logo="http://redworld.pro:8880/images/eeafe792a8138ea5239764881a44e50e.png" group-title="⭐️ CULTURA",ANIMAL Planet HD.
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318624.ts
-#EXTINF:-1 tvg-id="" tvg-name="E! Entretainment FHD" tvg-logo="http://redworld.pro:8880/images/d2013b7cc5f536c09e36980ede2b5ebc.png" group-title="⭐️ CULTURA",E! Entretainment FHD
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318626.ts
-#EXTINF:-1 tvg-id="" tvg-name="E! Entretainment HD" tvg-logo="http://redworld.pro:8880/images/d2013b7cc5f536c09e36980ede2b5ebc.png" group-title="⭐️ CULTURA",E! Entretainment HD
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318627.ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA HD." tvg-logo="http://redworld.pro:8880/images/faced036eb73698d8950976cac5c442d.png" group-title="⭐️ CULTURA",CANAL COCINA HD.
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318628.ts
-#EXTINF:-1 tvg-id="" tvg-name="TLC FHD" tvg-logo="http://redworld.pro:8880/images/aa27e0d625d7cc2eee7e173496c16fca.png" group-title="⭐️ CULTURA",TLC FHD
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318629.ts
-#EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-logo="http://redworld.pro:8880/images/aa27e0d625d7cc2eee7e173496c16fca.png" group-title="⭐️ CULTURA",TLC HD
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318630.ts
-#EXTINF:-1 tvg-id="" tvg-name="HGTV FHD" tvg-logo="http://redworld.pro:8880/images/8361b0aa15c201aba7d73d0b6193b6c7.png" group-title="⭐️ CULTURA",HGTV FHD
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318631.ts
-#EXTINF:-1 tvg-id="" tvg-name="LIFETIME HD" tvg-logo="http://redworld.pro:8880/images/4e6a938c29df214ad11bef9ee275cd76.png" group-title="⭐️ CULTURA",LIFETIME HD
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/318632.ts
-#EXTINF:-1 tvg-id="" tvg-name="Love Planet HD" tvg-logo="http://redworld.pro:8880/images/ad4943043f51563d2cf7eddc96b98be1.png" group-title="⭐️ CULTURA",Love Planet HD
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/348755.ts
-#EXTINF:-1 tvg-id="" tvg-name="GARAGE TV HD" tvg-logo="http://redworld.pro:8880/images/56bb2effa7b012aab23daf887370e1e1.png" group-title="⭐️ CULTURA",GARAGE TV HD
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/362420.ts
-#EXTINF:-1 tvg-id="" tvg-name="DW | Español" tvg-logo="http://redworld.pro:8880/images/936c91c5cd525a1c9208d69b3a0cab87.jpg" group-title="⭐️ CULTURA",DW | Español
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/560932.ts
 #EXTINF:-1 tvg-id="" tvg-name="Retro Magico | AR" tvg-logo="http://goldfull.pro:8880/images/c14235a51f2b4619b715a4b77765d5e2.png" group-title="⭐ Zona Retro",Retro Magico | AR
 http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/376575.ts
 #EXTINF:-1 tvg-id="" tvg-name="Retro Music Television | CZ" tvg-logo="http://goldfull.pro:8880/images/59e525848c3a8041c4e2a42ea48236f9.png" group-title="⭐ Zona Retro",Retro Music Television | CZ
@@ -839,6 +767,94 @@ http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/376388.ts
 http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/376438.ts
 #EXTINF:-1 tvg-id="" tvg-name="Chilevisual Retro | CL" tvg-logo="http://goldfull.pro:8880/images/4e805cae54845ce407ce0b83df8e310a.png" group-title="⭐ Zona Retro",Chilevisual Retro | CL
 http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/376583.ts
+#EXTINF:-1 tvg-id="" tvg-name="D3PÖRT3S | [$ŠPN-3]" tvg-logo="http://redworld.pro:8880/images/65b140dd9ebf0ec2b2a8c1565fa90080.png" group-title="⭐️ DƏPORTE VIP",D3PÖRT3S | [$ŠPN-3]
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/167725.ts
+#EXTINF:-1 tvg-id="ESPN4.pe" tvg-name="D3PØRT3S | $ŠPN-4" tvg-logo="http://redworld.pro:8880/images/9c83acb71e6f939bae03936d2c827d7c.png" group-title="⭐️ DƏPORTE VIP",D3PØRT3S | $ŠPN-4
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/167726.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | $ŠPN PR3MIUM" tvg-logo="http://redworld.pro:8880/images/71e4e80a43e761809353568e3f2dff5f.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | $ŠPN PR3MIUM
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/167727.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | * $.Š.P.N U" tvg-logo="http://redworld.pro:8880/images/aa94a21674567eb1ab35b6e3a9408b26.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | * $.Š.P.N U
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/167729.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | D GAMES 1" tvg-logo="http://redworld.pro:8880/images/c8e7a6a4e47e499e60e09efbf6347eee.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | D GAMES 1
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/167731.ts
+#EXTINF:-1 tvg-id="DIRECTVSports+.pe" tvg-name="DEPORTES | D GAMES +" tvg-logo="http://redworld.pro:8880/images/c8e7a6a4e47e499e60e09efbf6347eee.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | D GAMES +
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/167732.ts
+#EXTINF:-1 tvg-id="DIRECTVSports2.pe" tvg-name="DEPORTES | D GAMES 2" tvg-logo="http://redworld.pro:8880/images/c8e7a6a4e47e499e60e09efbf6347eee.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | D GAMES 2
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/167733.ts
+#EXTINF:-1 tvg-id="FOXSports.pe" tvg-name="DEPORTES | F0X $PORTS 1" tvg-logo="http://redworld.pro:8880/images/6dc7503c4fbdb327b24ffc5318ae0f7a.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | F0X $PORTS 1
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/167734.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | F0X $PORTS 2" tvg-logo="http://redworld.pro:8880/images/777b383eea161b73957a45bcc559efb9.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | F0X $PORTS 2
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/167735.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | F0X $PORTS 3" tvg-logo="http://redworld.pro:8880/images/777b383eea161b73957a45bcc559efb9.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | F0X $PORTS 3
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/167736.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | F0X $PORTS PREMIUM" tvg-logo="http://redworld.pro:8880/images/65d1b536a5c2eb33ca65344adeabdfba.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | F0X $PORTS PREMIUM
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/167737.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | WIN SPORTS +" tvg-logo="http://redworld.pro:8880/images/b7594559b9125fc15131b3463e383aa3.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | WIN SPORTS +
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/167738.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | WIN SPORTS" tvg-logo="http://redworld.pro:8880/images/b7594559b9125fc15131b3463e383aa3.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | WIN SPORTS
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/167739.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | F1" tvg-logo="http://redworld.pro:8880/images/1a13829ef621f7393ece854690b87731.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | F1
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/167742.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | GOLF CHANNEL" tvg-logo="http://redworld.pro:8880/images/89b80113c1ed34f36bfe6936fcf5ed20.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | GOLF CHANNEL
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/167746.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | TENNIS CHANEL" tvg-logo="http://redworld.pro:8880/images/74d04d280b936817eb8146241d8521c9.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | TENNIS CHANEL
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/167748.ts
+#EXTINF:-1 tvg-id="" tvg-name="Deportes | AFIZZIONADOS" tvg-logo="http://redworld.pro:8880/images/e679f9f23ad226c87b4dd9acaa2fe186.png" group-title="⭐️ DƏPORTE VIP",Deportes | AFIZZIONADOS
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/167762.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | TUDN" tvg-logo="http://redworld.pro:8880/images/125560725d883246b914f26e00667bce.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | TUDN
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/167770.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | TUDN XTRA" tvg-logo="http://redworld.pro:8880/images/125560725d883246b914f26e00667bce.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | TUDN XTRA
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/167771.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | TVG" tvg-logo="http://redworld.pro:8880/images/d6bd13dae2fc753e0993c6b45644fa17.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | TVG
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/167772.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | TVG 2" tvg-logo="http://redworld.pro:8880/images/1c1b76b4f7192db1dd44528889d848f9.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | TVG 2
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/167773.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | TVC Deportes" tvg-logo="http://redworld.pro:8880/images/5766b163e6c57795a1d69de316aa9954.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | TVC Deportes
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/167775.ts
+#EXTINF:-1 tvg-id="" tvg-name="D3PORTES | *Ê$P*N D3PORTES" tvg-logo="http://redworld.pro:8880/images/f4ba5e57ae936428596903dc26f482cc.png" group-title="⭐️ DƏPORTE VIP",D3PORTES | *Ê$P*N D3PORTES
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/167728.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | $ŠPN NEWS" tvg-logo="http://redworld.pro:8880/images/cb88103bd31fe7d6cf58e9a7c023b120.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | $ŠPN NEWS
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/167730.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | SPORTV" tvg-logo="http://redworld.pro:8880/images/20498f15eb9325a86465744668037e26.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | SPORTV
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/167774.ts
+#EXTINF:-1 tvg-id="" tvg-name="D3PORTES | Ŕ3@L M@DRÏD TV" tvg-logo="http://redworld.pro:8880/images/2fd2e62cfdb93942bf08272680866ceb.png" group-title="⭐️ DƏPORTE VIP",D3PORTES | Ŕ3@L M@DRÏD TV
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/394445.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | CLARO SPORTS" tvg-logo="" group-title="⭐️ DƏPORTE VIP",DEPORTES | CLARO SPORTS
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/407036.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | $.Š.P.N 5" tvg-logo="http://redworld.pro:8880/images/4d22fe6b127ecce043d9482a792b020f.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | $.Š.P.N 5
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/418591.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | *ESP*N 6" tvg-logo="" group-title="⭐️ DƏPORTE VIP",DEPORTES | *ESP*N 6
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/418592.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | *ESP*N 7" tvg-logo="" group-title="⭐️ DƏPORTE VIP",DEPORTES | *ESP*N 7
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/418593.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | Ty€ 5PORT5" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | Ty€ 5PORT5
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/443250.ts
+#EXTINF:-1 tvg-id="" tvg-name="3UR0$P0RT$ 1 HD" tvg-logo="http://redworld.pro:8880/images/74e323da1aaf5d3a48ba061e0aef9b2d.png" group-title="⭐️ DƏPORTE VIP",3UR0$P0RT$ 1 HD
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/447768.ts
+#EXTINF:-1 tvg-id="" tvg-name="3UR0$P0RT$ 2 HD" tvg-logo="http://redworld.pro:8880/images/801ac82b4df21e08f0f71db1affb0f89.png" group-title="⭐️ DƏPORTE VIP",3UR0$P0RT$ 2 HD
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/447769.ts
+#EXTINF:-1 tvg-id="" tvg-name="RED BULL TV" tvg-logo="http://redworld.pro:8880/images/638254815f3d64d903e8c9fccaec4d1a.png" group-title="⭐️ DƏPORTE VIP",RED BULL TV
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/456701.ts
+#EXTINF:-1 tvg-id="lch2775" tvg-name="D3PØRT3S | [$ŠPN-1]" tvg-logo="http://redworld.pro:8880/images/669465c0bb8b14bd996ebeb2e1b3d0da.png" group-title="⭐️ DƏPORTE VIP",D3PØRT3S | [$ŠPN-1]
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/514017.ts
+#EXTINF:-1 tvg-id="" tvg-name="D3PØRTĘS | [$ŠPN-2]" tvg-logo="http://redworld.pro:8880/images/06f8b949029a4cf1f5b2021eed2e8159.png" group-title="⭐️ DƏPORTE VIP",D3PØRTĘS | [$ŠPN-2]
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/514018.ts
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ÑBÆ" tvg-logo="http://redworld.pro:8880/images/cb9ba08fe282681f4ae34fdc866f0c41.png" group-title="⭐️ DƏPORTE VIP",DEPORTES | ÑBÆ
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/514112.ts
+#EXTINF:-1 tvg-id="" tvg-name="EC | GOL TV HD" tvg-logo="http://redworld.pro:8880/images/32b93d81e997e0e62abb75018e5a83c6.png" group-title="⭐️ Deporte Ecuador",EC | GOL TV HD
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/104112.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIGA PRO - ECU" tvg-logo="http://redworld.pro:8880/images/517940c75b538e45aa9882ba29fe433d.png" group-title="⭐️ Deporte Ecuador",LIGA PRO - ECU
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/409988.ts
+#EXTINF:-1 tvg-id="" tvg-name="Z@pping sports ecu" tvg-logo="" group-title="⭐️ Deporte Ecuador",Z@pping sports ecu
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/502047.ts
+#EXTINF:-1 tvg-id="" tvg-name="EC | LIGA PRO - ZAPPING 01" tvg-logo="https://i.postimg.cc/ZnL3C4Tg/ESTO-ES-TV-LIGA-PRO-ECUADOR.webp" group-title="⭐️ Deporte Ecuador",EC | LIGA PRO - ZAPPING 01
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/520014.ts
+#EXTINF:-1 tvg-id="" tvg-name="EC | LIGA PRO - ZAPPING 02" tvg-logo="https://i.postimg.cc/ZnL3C4Tg/ESTO-ES-TV-LIGA-PRO-ECUADOR.webp" group-title="⭐️ Deporte Ecuador",EC | LIGA PRO - ZAPPING 02
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/520015.ts
+#EXTINF:-1 tvg-id="" tvg-name="EC | LIGA PRO - ZAPPING 03" tvg-logo="https://i.postimg.cc/ZnL3C4Tg/ESTO-ES-TV-LIGA-PRO-ECUADOR.webp" group-title="⭐️ Deporte Ecuador",EC | LIGA PRO - ZAPPING 03
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/520016.ts
+#EXTINF:-1 tvg-id="" tvg-name="EC | LIGA PRO - ZAPPING 04" tvg-logo="https://i.postimg.cc/ZnL3C4Tg/ESTO-ES-TV-LIGA-PRO-ECUADOR.webp" group-title="⭐️ Deporte Ecuador",EC | LIGA PRO - ZAPPING 04
+http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/520017.ts
 #EXTINF:-1 tvg-id="" tvg-name="TVC HD" tvg-logo="http://redworld.pro:8880/images/65aa8c5cbbd669df1c69e46c155326f5.png" group-title="⭐️ Ecuador",TVC HD
 http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/347666.ts
 #EXTINF:-1 tvg-id="" tvg-name="TC TELEVISION" tvg-logo="http://goldfull.pro:8880/images/387e4df7e2437acaf36de28efeda86e9.png" group-title="⭐️ Ecuador",TC TELEVISION
@@ -865,17 +881,3 @@ http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/347682.ts
 http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/347687.ts
 #EXTINF:-1 tvg-id="" tvg-name="ECUADOR | PURUWA" tvg-logo="http://goldfull.pro:8880/images/c604fe782c8b2e57152c4fdc0019b673.png" group-title="⭐️ Ecuador",ECUADOR | PURUWA
 http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/350269.ts
-#EXTINF:-1 tvg-id="" tvg-name="EC | GOL TV HD" tvg-logo="http://redworld.pro:8880/images/32b93d81e997e0e62abb75018e5a83c6.png" group-title="⭐️ Deporte Ecuador",EC | GOL TV HD
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/104112.ts
-#EXTINF:-1 tvg-id="" tvg-name="LIGA PRO - ECU" tvg-logo="http://redworld.pro:8880/images/517940c75b538e45aa9882ba29fe433d.png" group-title="⭐️ Deporte Ecuador",LIGA PRO - ECU
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/409988.ts
-#EXTINF:-1 tvg-id="" tvg-name="Z@pping sports ecu" tvg-logo="" group-title="⭐️ Deporte Ecuador",Z@pping sports ecu
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/502047.ts
-#EXTINF:-1 tvg-id="" tvg-name="EC | LIGA PRO - ZAPPING 01" tvg-logo="https://i.postimg.cc/ZnL3C4Tg/ESTO-ES-TV-LIGA-PRO-ECUADOR.webp" group-title="⭐️ Deporte Ecuador",EC | LIGA PRO - ZAPPING 01
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/520014.ts
-#EXTINF:-1 tvg-id="" tvg-name="EC | LIGA PRO - ZAPPING 02" tvg-logo="https://i.postimg.cc/ZnL3C4Tg/ESTO-ES-TV-LIGA-PRO-ECUADOR.webp" group-title="⭐️ Deporte Ecuador",EC | LIGA PRO - ZAPPING 02
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/520015.ts
-#EXTINF:-1 tvg-id="" tvg-name="EC | LIGA PRO - ZAPPING 03" tvg-logo="https://i.postimg.cc/ZnL3C4Tg/ESTO-ES-TV-LIGA-PRO-ECUADOR.webp" group-title="⭐️ Deporte Ecuador",EC | LIGA PRO - ZAPPING 03
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/520016.ts
-#EXTINF:-1 tvg-id="" tvg-name="EC | LIGA PRO - ZAPPING 04" tvg-logo="https://i.postimg.cc/ZnL3C4Tg/ESTO-ES-TV-LIGA-PRO-ECUADOR.webp" group-title="⭐️ Deporte Ecuador",EC | LIGA PRO - ZAPPING 04
-http://redworld.pro:8880/live/2ed2hp9e/RjTcZzRHEHkK/520017.ts
