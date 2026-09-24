@@ -23,16 +23,14 @@ https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 https://stream.oromar.tv/hls/camriva/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.ecuaplay.online/imagen/oromartv.png" group-title="ECUADOR 🇪🇨", OromarTv+
 https://stream.oromar.tv/hls/camriva/index.m3u8#07291eed52b2ab0d8e18e8667928451a6bafa765d39f4bbce7108c26ba36dc89
+#EXTINF:-1 tvg-id="" tvg-name="LaCasa593" tvg-logo="https://lacasa593.com/marca/logo.webp" group-title="ECUADOR 🇪🇨",LaCasa593
+https://live.cdn.lacasa593.com/live/stream_aAxcuWBFzEJf/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ECUADOR 🇪🇨", RTU
 https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ECUADOR 🇪🇨", TvOro
 http://45.187.0.19:9090/tvusa/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ECUADOR 🇪🇨", Ñuka Tv
 https://cloudvideo.servers10.com:8081/8118/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ECUADOR 🇪🇨", Fútbol 1
-http://liontv.es:8080/live/liontvpremium/5137/1999238.ts
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ECUADOR 🇪🇨", Fútbol 2
-http://liontv.es:8080/live/liontvpremium/0497/1628869.ts
 #EXTINF:-1 tvg-id="DiscoveryChannel.pe" tvg-name="Discovery Channel HD" tvg-logo="http://redworld.pro:8880/images/12a8ebd221c1cc385dc020a7d31e8cce.png" group-title="⭐️ CULTURA",Discovery Channel HD
 http://redworld.pro:8880/live/2p7YyRLsmNee/h8jCFyffmdQ5/318603.ts
 #EXTINF:-1 tvg-id="DiscoveryChannel.pe" tvg-name="Discovery Channel SD" tvg-logo="http://redworld.pro:8880/images/12a8ebd221c1cc385dc020a7d31e8cce.png" group-title="⭐️ CULTURA",Discovery Channel SD
