@@ -1,9 +1,21 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Ec4.Ec" tvg-logo="http://bosstv-restream.us/images/channels_image/one_restream/gold_511553.png" group-title="ECUADOR 🇪🇨", Ecuador: RTS HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1034858.ts
+
+#EXTINF:-1 tvg-id="Ec4.Ec" tvg-logo="http://bosstv-restream.us/images/channels_image/one_restream/gold_511554.png" group-title="ECUADOR 🇪🇨", Ecuador: RTS HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1034859.ts
+
+#EXTINF:-1 tvg-id="Ec10HD.Ec" tvg-logo="http://bosstv-restream.us/images/channels_image/one_restream/gold_511557.png" group-title="ECUADOR 🇪🇨", Ecuador: TC Television FHD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1034862.ts
+
+#EXTINF:-1 tvg-id="Ec10HD.Ec" tvg-logo="http://bosstv-restream.us/images/channels_image/one_restream/gold_511555.png" group-title="ECUADOR 🇪🇨", Ecuador: TC Television HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1034860.ts
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.ecuaplay.online/imagen/ecuavisa.jpg" group-title="ECUADOR 🇪🇨", Ecuavisa Guayaquil
 http://45.224.97.181:9999/Ecuavisa/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.ecuaplay.online/imagen/ecuavisa.jpg" group-title="ECUADOR 🇪🇨", Ecuavisa Quito
-http://latinostream.xyz/live/felixpenatv/L20260730/783216.m3u8
+https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://www.ecuaplay.online/imagen/rts.jpg" group-title="ECUADOR 🇪🇨", RTS HD
 http://redworld.pro:8880/live/2p7YyRLsmNee/h8jCFyffmdQ5/347668.ts
@@ -44,120 +56,1068 @@ http://45.187.0.19:9090/tvusa/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="ECUADOR 🇪🇨", Ñuka Tv
 https://cloudvideo.servers10.com:8081/8118/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Canal.Ecuavisa.(Ecuador).ec" tvg-logo="noimage.png" group-title="🇪🇨 TV ECUADOR", EC | 01 • ECUAVISA COSTA
-https://flowpremium.digital:2087/live/STIVE723/wvSFhKfWma/204132.ts
+#EXTINF:-1 tvg-id="Direc-hd-ecd- 13" tvg-logo="http://bosstv-restream.us/images/channels_image/one_restream/gold_780034.png" group-title="🇪🇨 | ECUADOR-DEPORTES", Direc-hd-ecd- 13
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1034799.ts
 
-#EXTINF:-1 tvg-id="Canal.Ecuavisa.(Ecuador).ec" tvg-logo="noimage.png" group-title="🇪🇨 TV ECUADOR", EC | 02 • ECUAVISA COSTA
-https://flowpremium.digital:2087/live/STIVE723/wvSFhKfWma/204133.ts
+#EXTINF:-1 tvg-id="Direc-sd-ecd- 12" tvg-logo="http://bosstv-restream.us/images/channels_image/one_restream/gold_780033.png" group-title="🇪🇨 | ECUADOR-DEPORTES", Direc-sd-ecd- 12
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1034800.ts
 
-#EXTINF:-1 tvg-id="Canal.Ecuavisa.(Ecuador).ec" tvg-logo="noimage.png" group-title="🇪🇨 TV ECUADOR", EC | 01 • ECUAVISA SIERRA
-https://flowpremium.digital:2087/live/STIVE723/wvSFhKfWma/204136.ts
+#EXTINF:-1 tvg-id="Direc.2-hd-ecd- 15" tvg-logo="http://bosstv-restream.us/images/channels_image/one_restream/gold_780036.png" group-title="🇪🇨 | ECUADOR-DEPORTES", Direc.2-hd-ecd- 15
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1034801.ts
 
-#EXTINF:-1 tvg-id="Canal.Ecuavisa.(Ecuador).ec" tvg-logo="noimage.png" group-title="🇪🇨 TV ECUADOR", EC | 02 • ECUAVISA SIERRA
-https://flowpremium.digital:2087/live/STIVE723/wvSFhKfWma/204138.ts
+#EXTINF:-1 tvg-id="Direc.2-sd-ecd- 14" tvg-logo="http://bosstv-restream.us/images/channels_image/one_restream/gold_780035.png" group-title="🇪🇨 | ECUADOR-DEPORTES", Direc.2-sd-ecd- 14
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1034802.ts
 
-#EXTINF:-1 tvg-id="Canal.Ecuavisa.(Ecuador).ec" tvg-logo="noimage.png" group-title="🇪🇨 TV ECUADOR", EC | 03 • ECUAVISA INTERNACIONAL
-https://flowpremium.digital:2087/live/STIVE723/wvSFhKfWma/204139.ts
+#EXTINF:-1 tvg-id="Ecdf -ecd- 10 HD" tvg-logo="http://bosstv-restream.us/images/channels_image/one_restream/gold_780031.png" group-title="🇪🇨 | ECUADOR-DEPORTES", Ecdf -ecd- 10 HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1034803.ts
 
-#EXTINF:-1 tvg-id="EC | 01 • TELEAMAZONAS COSTA" tvg-logo="https://images.confetticdn.com/images/scale/w_2000,f_auto/event-10921/image-cc09ebb1-02fa-404e-8098-9b1703947a74/logo-teleamazonas-retina-1.png" group-title="🇪🇨 TV ECUADOR", EC | 01 • TELEAMAZONAS COSTA
-https://flowpremium.digital:2087/live/STIVE723/wvSFhKfWma/204140.ts
+#EXTINF:-1 tvg-id="Ecdf -ecd- 11 HD" tvg-logo="http://bosstv-restream.us/images/channels_image/one_restream/gold_780032.png" group-title="🇪🇨 | ECUADOR-DEPORTES", Ecdf -ecd- 11 HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1034804.ts
 
-#EXTINF:-1 tvg-id="Canal.A&E.(Ecuador).ec" tvg-logo="https://images.confetticdn.com/images/scale/w_2000,f_auto/event-10921/image-cc09ebb1-02fa-404e-8098-9b1703947a74/logo-teleamazonas-retina-1.png" group-title="🇪🇨 TV ECUADOR", EC | 02 • TELEAMAZONAS COSTA
-https://flowpremium.digital:2087/live/STIVE723/wvSFhKfWma/204141.ts
+#EXTINF:-1 tvg-id="Ecdf -ecd- 7 HD" tvg-logo="http://bosstv-restream.us/images/channels_image/one_restream/gold_780028.png" group-title="🇪🇨 | ECUADOR-DEPORTES", Ecdf -ecd- 7 HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1034805.ts
 
-#EXTINF:-1 tvg-id="Canal.A&E.(Ecuador).ec" tvg-logo="https://images.confetticdn.com/images/scale/w_2000,f_auto/event-10921/image-cc09ebb1-02fa-404e-8098-9b1703947a74/logo-teleamazonas-retina-1.png" group-title="🇪🇨 TV ECUADOR", EC | 01 • TELEAMAZONAS SIERRA
-https://flowpremium.digital:2087/live/STIVE723/wvSFhKfWma/204144.ts
+#EXTINF:-1 tvg-id="Ecdf -ecd- 8 HD" tvg-logo="http://bosstv-restream.us/images/channels_image/one_restream/gold_780029.png" group-title="🇪🇨 | ECUADOR-DEPORTES", Ecdf -ecd- 8 HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1034806.ts
 
-#EXTINF:-1 tvg-id="EC | 02 • TELEAMAZONAS SIERRA" tvg-logo="https://images.confetticdn.com/images/scale/w_2000,f_auto/event-10921/image-cc09ebb1-02fa-404e-8098-9b1703947a74/logo-teleamazonas-retina-1.png" group-title="🇪🇨 TV ECUADOR", EC | 02 • TELEAMAZONAS SIERRA
-https://flowpremium.digital:2087/live/STIVE723/wvSFhKfWma/204145.ts
+#EXTINF:-1 tvg-id="Ecdf -ecd- 9 HD" tvg-logo="http://bosstv-restream.us/images/channels_image/one_restream/gold_780030.png" group-title="🇪🇨 | ECUADOR-DEPORTES", Ecdf -ecd- 9 HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1034807.ts
 
-#EXTINF:-1 tvg-id="EC | 03 • TELEAMAZONAS SIERRA" tvg-logo="https://images.confetticdn.com/images/scale/w_2000,f_auto/event-10921/image-cc09ebb1-02fa-404e-8098-9b1703947a74/logo-teleamazonas-retina-1.png" group-title="🇪🇨 TV ECUADOR", EC | 03 • TELEAMAZONAS SIERRA
-https://flowpremium.digital:2087/live/STIVE723/wvSFhKfWma/204146.ts
+#EXTINF:-1 tvg-id="ESPN HDTV" tvg-logo="http://bosstv-restream.us/images/channels_image/one_restream/gold_780037.png" group-title="🇪🇨 | ECUADOR-DEPORTES", ESPN -ecd- 16 HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1034808.ts
 
-#EXTINF:-1 tvg-id="Canal.TC.Televisión.ec" tvg-logo="http://www.tmsimg.com/assets/s46324_ll_h3_aa.png" group-title="🇪🇨 TV ECUADOR", EC | 01 • TC TELEVISION
-https://flowpremium.digital:2087/live/STIVE723/wvSFhKfWma/204147.ts
+#EXTINF:-1 tvg-id="ESPN2 HDTV" tvg-logo="http://bosstv-restream.us/images/channels_image/one_restream/gold_780038.png" group-title="🇪🇨 | ECUADOR-DEPORTES", Espn-2-ecd- 17 HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1034809.ts
 
-#EXTINF:-1 tvg-id="Canal.TC.Televisión.ec" tvg-logo="https://multimediatc.s3.amazonaws.com/web+wordpress/logos+y+demas/logotc+(1).png" group-title="🇪🇨 TV ECUADOR", EC | 02 • TC TELEVISION HD
-https://flowpremium.digital:2087/live/STIVE723/wvSFhKfWma/204148.ts
+#EXTINF:-1 tvg-id="ESPN3.ar" tvg-logo="http://bosstv-restream.us/images/channels_image/one_restream/gold_780039.png" group-title="🇪🇨 | ECUADOR-DEPORTES", Espn-3-ecd- 18 HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1034810.ts
 
-#EXTINF:-1 tvg-id="Canal.Gamavisión.ec" tvg-logo="https://i.ibb.co/Ng65V2Rn/image.png" group-title="🇪🇨 TV ECUADOR", EC | 01 • GAMAVISION
-https://flowpremium.digital:2087/live/STIVE723/wvSFhKfWma/204150.ts
+#EXTINF:-1 tvg-id="ESPN HDTV" tvg-logo="http://bosstv-restream.us/images/channels_image/one_restream/gold_780040.png" group-title="🇪🇨 | ECUADOR-DEPORTES", Espn-4-ecd- 19 HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1034811.ts
 
-#EXTINF:-1 tvg-id="EC | 02 • GAMAVISION" tvg-logo="http://www.tmsimg.com/assets/s46318_ll_h3_aa.png" group-title="🇪🇨 TV ECUADOR", EC | 02 • GAMAVISION
-https://flowpremium.digital:2087/live/STIVE723/wvSFhKfWma/204152.ts
+#EXTINF:-1 tvg-id="ESPN HDTV" tvg-logo="http://bosstv-restream.us/images/channels_image/one_restream/gold_780041.png" group-title="🇪🇨 | ECUADOR-DEPORTES", Espn-5-ecd- 20 HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1034812.ts
 
-#EXTINF:-1 tvg-id="EC | 01 • RTS" tvg-logo="https://i.ibb.co/zTLgVTHS/image.png" group-title="🇪🇨 TV ECUADOR", EC | 01 • RTS
-https://flowpremium.digital:2087/live/STIVE723/wvSFhKfWma/204153.ts
+#EXTINF:-1 tvg-id="ESPN HDTV" tvg-logo="http://bosstv-restream.us/images/channels_image/one_restream/gold_780042.png" group-title="🇪🇨 | ECUADOR-DEPORTES", Espn-6-ecd- 21 HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1034813.ts
 
-#EXTINF:-1 tvg-id="EC | 02 • RTS" tvg-logo="https://i.ibb.co/zTLgVTHS/image.png" group-title="🇪🇨 TV ECUADOR", EC | 02 • RTS
-https://flowpremium.digital:2087/live/STIVE723/wvSFhKfWma/312321.ts
+#EXTINF:-1 tvg-id="ESPN HDTV" tvg-logo="http://bosstv-restream.us/images/channels_image/one_restream/gold_780043.png" group-title="🇪🇨 | ECUADOR-DEPORTES", Espn-7-ecd- 22 HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1034814.ts
 
-#EXTINF:-1 tvg-id="Canal.A&E.(Ecuador).ec" tvg-logo="noimage.png" group-title="🇪🇨 TV ECUADOR", EC | 01 • ECUADOR TV
-https://flowpremium.digital:2087/live/STIVE723/wvSFhKfWma/437572.ts
+#EXTINF:-1 tvg-id="Fox-1-ecd- 23 HD" tvg-logo="http://bosstv-restream.us/images/channels_image/one_restream/gold_780044.png" group-title="🇪🇨 | ECUADOR-DEPORTES", Fox-1-ecd- 23 HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1034815.ts
 
-#EXTINF:-1 tvg-id="Canal.Ecuador.TV.ec" tvg-logo="noimage.png" group-title="🇪🇨 TV ECUADOR", EC | 02 • ECUADOR TV
-https://flowpremium.digital:2087/live/STIVE723/wvSFhKfWma/437573.ts
+#EXTINF:-1 tvg-id="Fox-2-ecd- 24 HD" tvg-logo="http://bosstv-restream.us/images/channels_image/one_restream/gold_780045.png" group-title="🇪🇨 | ECUADOR-DEPORTES", Fox-2-ecd- 24 HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1034816.ts
 
-#EXTINF:-1 tvg-id="EC | 01 • TVC" tvg-logo="noimage.png" group-title="🇪🇨 TV ECUADOR", EC | 01 • TVC
-https://flowpremium.digital:2087/live/STIVE723/wvSFhKfWma/437575.ts
+#EXTINF:-1 tvg-id="Zapping -ecd- 1 HD" tvg-logo="http://bosstv-restream.us/images/channels_image/one_restream/gold_780022.png" group-title="🇪🇨 | ECUADOR-DEPORTES", Zapping -ecd- 1 HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1034817.ts
 
-#EXTINF:-1 tvg-id="EC | 02 • TVC" tvg-logo="noimage.png" group-title="🇪🇨 TV ECUADOR", EC | 02 • TVC
-https://flowpremium.digital:2087/live/STIVE723/wvSFhKfWma/437576.ts
+#EXTINF:-1 tvg-id="Zapping -ecd- 2 HD" tvg-logo="http://bosstv-restream.us/images/channels_image/one_restream/gold_780023.png" group-title="🇪🇨 | ECUADOR-DEPORTES", Zapping -ecd- 2 HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1034818.ts
 
-#EXTINF:-1 tvg-id="EC | 01 • OROMAR" tvg-logo="https://i.pinimg.com/originals/f7/b3/de/f7b3de04f5af4fc241f16a2b7b33a149.png" group-title="🇪🇨 TV ECUADOR", EC | 01 • OROMAR
-https://flowpremium.digital:2087/live/STIVE723/wvSFhKfWma/437578.ts
+#EXTINF:-1 tvg-id="Zapping -ecd- 3 HD" tvg-logo="http://bosstv-restream.us/images/channels_image/one_restream/gold_780024.png" group-title="🇪🇨 | ECUADOR-DEPORTES", Zapping -ecd- 3 HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1034819.ts
 
-#EXTINF:-1 tvg-id="Canal.A&E.(Ecuador).ec" tvg-logo="https://i.pinimg.com/originals/f7/b3/de/f7b3de04f5af4fc241f16a2b7b33a149.png" group-title="🇪🇨 TV ECUADOR", EC | 02 • OROMAR
-https://flowpremium.digital:2087/live/STIVE723/wvSFhKfWma/437579.ts
+#EXTINF:-1 tvg-id="Zapping -ecd- 4 HD" tvg-logo="http://bosstv-restream.us/images/channels_image/one_restream/gold_780025.png" group-title="🇪🇨 | ECUADOR-DEPORTES", Zapping -ecd- 4 HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1034820.ts
 
-#EXTINF:-1 tvg-id="Canal.A&E.(Ecuador).ec" tvg-logo="https://www.ecured.cu/images/thumb/d/de/Telerama.png/1200px-Telerama.png" group-title="🇪🇨 TV ECUADOR", EC | 01 • TELERAMA
-https://flowpremium.digital:2087/live/STIVE723/wvSFhKfWma/437582.ts
+#EXTINF:-1 tvg-id="Zapping -ecd- 5 HD" tvg-logo="http://bosstv-restream.us/images/channels_image/one_restream/gold_780026.png" group-title="🇪🇨 | ECUADOR-DEPORTES", Zapping -ecd- 5 HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1034821.ts
 
-#EXTINF:-1 tvg-id="Canal.A&E.(Ecuador).ec" tvg-logo="https://www.ecured.cu/images/thumb/d/de/Telerama.png/1200px-Telerama.png" group-title="🇪🇨 TV ECUADOR", EC | 02 • TELERAMA
-https://flowpremium.digital:2087/live/STIVE723/wvSFhKfWma/437583.ts
+#EXTINF:-1 tvg-id="Zapping -ecd- 6 HD" tvg-logo="http://bosstv-restream.us/images/channels_image/one_restream/gold_780027.png" group-title="🇪🇨 | ECUADOR-DEPORTES", Zapping -ecd- 6 HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1034822.ts
 
-#EXTINF:-1 tvg-id="EC | WUAN+ FHD" tvg-logo="https://i.ibb.co/5X8Djv7X/image.png" group-title="🇪🇨 TV ECUADOR", EC | WUAN+ FHD
-https://flowpremium.digital:2087/live/STIVE723/wvSFhKfWma/437584.ts
-
-#EXTINF:-1 tvg-id="EC | ZARACAY TV" tvg-logo="https://i.ibb.co/XJ6GbrR/unnamed.jpg" group-title="🇪🇨 TV ECUADOR", EC | ZARACAY TV
-https://flowpremium.digital:2087/live/STIVE723/wvSFhKfWma/437586.ts
-
-#EXTINF:-1 tvg-id="EC™ | RTU (LOCAL)" tvg-logo="https://canalrtu.tv/wp-content/uploads/2020/12/Canal-RTU-Ecuador-en-vivo-Online-2.png" group-title="🇪🇨 TV ECUADOR", EC™ | RTU (LOCAL)
-https://flowpremium.digital:2087/live/STIVE723/wvSFhKfWma/834546.ts
-
-#EXTINF:-1 tvg-id="EC™ | MULTICANAL (LOJA) (LOCAL)" tvg-logo="noimage.png" group-title="🇪🇨 TV ECUADOR", EC™ | MULTICANAL (LOJA) (LOCAL)
-https://flowpremium.digital:2087/live/STIVE723/wvSFhKfWma/834548.ts
-
-#EXTINF:-1 tvg-id="EC™ | MARIELA TV (LOCAL)" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/e2/e5/f9/e2e5f991-b1bf-7789-9c26-a192135ca084/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" group-title="🇪🇨 TV ECUADOR", EC™ | MARIELA TV (LOCAL)
-https://flowpremium.digital:2087/live/STIVE723/wvSFhKfWma/834550.ts
-
-#EXTINF:-1 tvg-id="EC™ | MAJESTAD TV (LOCAL)" tvg-logo="https://norrisgps.com/wp-content/uploads/2020/04/unnamed.png" group-title="🇪🇨 TV ECUADOR", EC™ | MAJESTAD TV (LOCAL)
-https://flowpremium.digital:2087/live/STIVE723/wvSFhKfWma/834551.ts
-
-#EXTINF:-1 tvg-id="EC™ | MANAVISION (LOCAL)" tvg-logo="noimage.png" group-title="🇪🇨 TV ECUADOR", EC™ | MANAVISION (LOCAL)
-https://flowpremium.digital:2087/live/STIVE723/wvSFhKfWma/986611.ts
-
-#EXTINF:-1 tvg-id="EC™ | TV MANABITA (LOCAL)" tvg-logo="noimage.png" group-title="🇪🇨 TV ECUADOR", EC™ | TV MANABITA (LOCAL)
-https://flowpremium.digital:2087/live/STIVE723/wvSFhKfWma/986612.ts
-
-#EXTINF:-1 tvg-id="EC | RTV en tus sentidos" tvg-logo="https://www.rtvcanaloficial.com/wp-content/uploads/2023/09/cropped-RTV-LOGO-2023-02-1.png" group-title="🇪🇨 TV ECUADOR", EC | RTV en tus sentidos
-https://flowpremium.digital:2087/live/STIVE723/wvSFhKfWma/996872.ts
-
-#EXTINF:-1 tvg-id="DSPORTS.(COL).(DTSC).co" tvg-logo="https://pbs.twimg.com/profile_images/1658181282503745539/xUtW5q0n_400x400.jpg" group-title="🇪🇨 DEPORTES ECUADOR", EC | 01 • DSPORTS ECUADOR
+#EXTINF:-1 tvg-id="DSPORTS.(COL).(DTSC).co" tvg-logo="https://pbs.twimg.com/profile_images/1658181282503745539/xUtW5q0n_400x400.jpg" group-title="🇪🇨 | DEPORTES ECUADOR 2", EC | 01 • DSPORTS ECUADOR
 https://flowpremium.digital:2087/live/STIVE723/wvSFhKfWma/437289.ts
 
-#EXTINF:-1 tvg-id="DSPORTS.2.(DTS2).co" tvg-logo="https://pbs.twimg.com/profile_images/1658181282503745539/xUtW5q0n_400x400.jpg" group-title="🇪🇨 DEPORTES ECUADOR", EC | 02 • DSPORTS ECUADOR
+#EXTINF:-1 tvg-id="DSPORTS.2.(DTS2).co" tvg-logo="https://pbs.twimg.com/profile_images/1658181282503745539/xUtW5q0n_400x400.jpg" group-title="🇪🇨 | DEPORTES ECUADOR 2", EC | 02 • DSPORTS ECUADOR
 https://flowpremium.digital:2087/live/STIVE723/wvSFhKfWma/437291.ts
 
-#EXTINF:-1 tvg-id="21.Junior.al" tvg-logo="https://galocisnerosblog.com/wp-content/uploads/2022/10/El-canal-del-futbol-ecuador-300x150.png" group-title="🇪🇨 DEPORTES ECUADOR", EC | 01 • ECDF
+#EXTINF:-1 tvg-id="21.Junior.al" tvg-logo="https://galocisnerosblog.com/wp-content/uploads/2022/10/El-canal-del-futbol-ecuador-300x150.png" group-title="🇪🇨 | DEPORTES ECUADOR 2", EC | 01 • ECDF
 https://flowpremium.digital:2087/live/STIVE723/wvSFhKfWma/531755.ts
 
-#EXTINF:-1 tvg-id="EC | 02 • ECDF" tvg-logo="https://galocisnerosblog.com/wp-content/uploads/2022/10/El-canal-del-futbol-ecuador-300x150.png" group-title="🇪🇨 DEPORTES ECUADOR", EC | 02 • ECDF
+#EXTINF:-1 tvg-id="EC | 02 • ECDF" tvg-logo="https://galocisnerosblog.com/wp-content/uploads/2022/10/El-canal-del-futbol-ecuador-300x150.png" group-title="🇪🇨 | DEPORTES ECUADOR 2", EC | 02 • ECDF
 https://flowpremium.digital:2087/live/STIVE723/wvSFhKfWma/968270.ts
 
-#EXTINF:-1 tvg-id="EC | 04 • LIGA PR0" tvg-logo="https://www.ole.com.ar/images/2024/09/29/l5a7Qzngk_1290x760__1.jpg" group-title="🇪🇨 DEPORTES ECUADOR", EC | 04 • LIGA PR0
+#EXTINF:-1 tvg-id="EC | 04 • LIGA PR0" tvg-logo="https://www.ole.com.ar/images/2024/09/29/l5a7Qzngk_1290x760__1.jpg" group-title="🇪🇨 | DEPORTES ECUADOR 2", EC | 04 • LIGA PR0
 https://flowpremium.digital:2087/live/STIVE723/wvSFhKfWma/1205216.ts
 
-#EXTINF:-1 tvg-id="EC | 05 • LIGA PR0" tvg-logo="https://www.ole.com.ar/images/2024/09/29/l5a7Qzngk_1290x760__1.jpg" group-title="🇪🇨 DEPORTES ECUADOR", EC | 05 • LIGA PR0
+#EXTINF:-1 tvg-id="EC | 05 • LIGA PR0" tvg-logo="https://www.ole.com.ar/images/2024/09/29/l5a7Qzngk_1290x760__1.jpg" group-title="🇪🇨 | DEPORTES ECUADOR 2", EC | 05 • LIGA PR0
 https://flowpremium.digital:2087/live/STIVE723/wvSFhKfWma/1205217.ts
+
+#EXTINF:-1 tvg-id="ZOOMOO" tvg-logo="https://flowtvlogo.xyz/imperium-hd/tipografia-glow-grande/758630.png" group-title="INFANTILES-HD", ZOOMOO
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1041210.ts
+
+#EXTINF:-1 tvg-id="PAKA PAKA" tvg-logo="noimage.png" group-title="INFANTILES-HD", PAKA PAKA
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1041213.ts
+
+#EXTINF:-1 tvg-id="Disney Jr  ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769072.jpg" group-title="INFANTILES-HD", Disney Jr  ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769072.ts
+
+#EXTINF:-1 tvg-id="Disney Jr  ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769073.jpg" group-title="INFANTILES-HD", Disney Jr  ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769073.ts
+
+#EXTINF:-1 tvg-id="I | Discovery Kids  ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769075.jpg" group-title="INFANTILES-HD", I | Discovery Kids  ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769075.ts
+
+#EXTINF:-1 tvg-id="Canal.Disney.Channel.(México).mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769076.jpg" group-title="INFANTILES-HD", I | Disney Channel  ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769076.ts
+
+#EXTINF:-1 tvg-id="I | Nicktoons ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769077.jpg" group-title="INFANTILES-HD", I | Nicktoons ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769077.ts
+
+#EXTINF:-1 tvg-id="Canal.Tooncast.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769078.jpg" group-title="INFANTILES-HD", I | Tooncast ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769078.ts
+
+#EXTINF:-1 tvg-id="LAT | Cartoon Network ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769079.jpg" group-title="INFANTILES-HD", LAT | Cartoon Network ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769079.ts
+
+#EXTINF:-1 tvg-id="Canal.Nick.Jr..(México).mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769080.jpg" group-title="INFANTILES-HD", LAT | Nick Jr  ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769080.ts
+
+#EXTINF:-1 tvg-id="Latino 2mb - Nickelodeon" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769068.jpg" group-title="INFANTILES-HD", Latino 2mb - Nickelodeon
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769068.ts
+
+#EXTINF:-1 tvg-id="MEX | Cartoonito ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769081.jpg" group-title="INFANTILES-HD", MEX | Cartoonito ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769081.ts
+
+#EXTINF:-1 tvg-id="Canal.Nick.Jr..(México).mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769082.jpg" group-title="INFANTILES-HD", MEX | Nick Jr  ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769082.ts
+
+#EXTINF:-1 tvg-id="Ultra Kidz (B)" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769467.jpg" group-title="INFANTILES-HD", Ultra Kidz (B)
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769467.ts
+
+#EXTINF:-1 tvg-id="Canal.Animal.Planet.(México).mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769677.jpg" group-title="CULTURA-HD-LAT", Animal Planet FHD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769677.ts
+
+#EXTINF:-1 tvg-id="Canal.Animal.Planet.(México).mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769678.jpg" group-title="CULTURA-HD-LAT", Animal Planet HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769678.ts
+
+#EXTINF:-1 tvg-id="Canal.Animal.Planet.(México).mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769679.jpg" group-title="CULTURA-HD-LAT", Animal planet SD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769679.ts
+
+#EXTINF:-1 tvg-id="BUEN VIAJE" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769699.jpg" group-title="CULTURA-HD-LAT", BUEN VIAJE
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769699.ts
+
+#EXTINF:-1 tvg-id="DISCOVERY THEATHER ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769680.jpg" group-title="CULTURA-HD-LAT", DISCOVERY THEATHER ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769680.ts
+
+#EXTINF:-1 tvg-id="DISCOVERY TURBO ᴴᴰ" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_769681.png" group-title="CULTURA-HD-LAT", DISCOVERY TURBO ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769681.ts
+
+#EXTINF:-1 tvg-id="DISCOVERY WORLD ᴴᴰ" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_769682.png" group-title="CULTURA-HD-LAT", DISCOVERY WORLD ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769682.ts
+
+#EXTINF:-1 tvg-id="LAT | Discovery H&H ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769683.jpg" group-title="CULTURA-HD-LAT", LAT | Discovery H&H ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769683.ts
+
+#EXTINF:-1 tvg-id="LAT | HGTV  ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769684.jpg" group-title="CULTURA-HD-LAT", LAT | HGTV  ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769684.ts
+
+#EXTINF:-1 tvg-id="Canal.History.2.(México).mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769685.jpg" group-title="CULTURA-HD-LAT", LAT | History 2 ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769685.ts
+
+#EXTINF:-1 tvg-id="LAT | HISTORY CHANNEL  ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769686.jpg" group-title="CULTURA-HD-LAT", LAT | HISTORY CHANNEL  ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769686.ts
+
+#EXTINF:-1 tvg-id="LAT | TLC  ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769687.jpg" group-title="CULTURA-HD-LAT", LAT | TLC  ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769687.ts
+
+#EXTINF:-1 tvg-id="MEX | Discovery H&H ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769688.jpg" group-title="CULTURA-HD-LAT", MEX | Discovery H&H ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769688.ts
+
+#EXTINF:-1 tvg-id="Canal.History.2.(México).mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769689.jpg" group-title="CULTURA-HD-LAT", MX | HISTORY 2
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769689.ts
+
+#EXTINF:-1 tvg-id="MX | HISTORY CHANNEL  ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769690.jpg" group-title="CULTURA-HD-LAT", MX | HISTORY CHANNEL  ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769690.ts
+
+#EXTINF:-1 tvg-id="NAT GEO MUNDO" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_769691.png" group-title="CULTURA-HD-LAT", NAT GEO MUNDO
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769691.ts
+
+#EXTINF:-1 tvg-id="NATGEO WILD  ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769692.jpg" group-title="CULTURA-HD-LAT", NATGEO WILD  ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769692.ts
+
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC  ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769693.jpg" group-title="CULTURA-HD-LAT", NATIONAL GEOGRAPHIC  ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769693.ts
+
+#EXTINF:-1 tvg-id="Canal.Discovery.Channel.(México).mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769694.jpg" group-title="CULTURA-HD-LAT", ⭕DISCOVERY CHANNEL ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769694.ts
+
+#EXTINF:-1 tvg-id="⭕DISCOVERY CIVILIZACION ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769695.jpg" group-title="CULTURA-HD-LAT", ⭕DISCOVERY CIVILIZACION ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769695.ts
+
+#EXTINF:-1 tvg-id="Canal.Discovery.Kids.(México).mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769696.jpg" group-title="CULTURA-HD-LAT", ⭕DISCOVERY ID
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769696.ts
+
+#EXTINF:-1 tvg-id="Canal.Discovery.Kids.(México).mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769697.jpg" group-title="CULTURA-HD-LAT", ⭕DISCOVERY ID ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769697.ts
+
+#EXTINF:-1 tvg-id="⭕DISCOVERY Science ᴴᴰ" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_769698.png" group-title="CULTURA-HD-LAT", ⭕DISCOVERY Science ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769698.ts
+
+#EXTINF:-1 tvg-id="AMC ᴴᴰ" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_769382.png" group-title="CINEMA-HD-LAT", AMC ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769382.ts
+
+#EXTINF:-1 tvg-id="CINE ESTELAR ᴴᴰ" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_769383.png" group-title="CINEMA-HD-LAT", CINE ESTELAR ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769383.ts
+
+#EXTINF:-1 tvg-id="CINE LATINO ᴴᴰ" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_769384.png" group-title="CINEMA-HD-LAT", CINE LATINO ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769384.ts
+
+#EXTINF:-1 tvg-id="CINE MEXICANO ᴴᴰ" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_769385.png" group-title="CINEMA-HD-LAT", CINE MEXICANO ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769385.ts
+
+#EXTINF:-1 tvg-id="CINEMA DINAMITA HD" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_769429.png" group-title="CINEMA-HD-LAT", CINEMA DINAMITA HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769429.ts
+
+#EXTINF:-1 tvg-id="CINEMAX EAST ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769386.jpg" group-title="CINEMA-HD-LAT", CINEMAX EAST ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769386.ts
+
+#EXTINF:-1 tvg-id="Canal.Cinemax.(México).mx" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_769387.png" group-title="CINEMA-HD-LAT", CINEMAX ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769387.ts
+
+#EXTINF:-1 tvg-id="De Pelicula 2 ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769388.jpg" group-title="CINEMA-HD-LAT", De Pelicula 2 ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769388.ts
+
+#EXTINF:-1 tvg-id="De Pelicula Clasico ᴴᴰ" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_769389.png" group-title="CINEMA-HD-LAT", De Pelicula Clasico ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769389.ts
+
+#EXTINF:-1 tvg-id="DE Pelicula Plus ᴴᴰ" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_769390.png" group-title="CINEMA-HD-LAT", DE Pelicula Plus ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769390.ts
+
+#EXTINF:-1 tvg-id="DE PELICULA ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769391.jpg" group-title="CINEMA-HD-LAT", DE PELICULA ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769391.ts
+
+#EXTINF:-1 tvg-id="DHE ᴴᴰ" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_769392.png" group-title="CINEMA-HD-LAT", DHE ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769392.ts
+
+#EXTINF:-1 tvg-id="FOX CHANNEL  ᴴᴰ" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_769393.png" group-title="CINEMA-HD-LAT", FOX CHANNEL  ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769393.ts
+
+#EXTINF:-1 tvg-id="FOX.SPORTS.PREMIUM.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769394.jpg" group-title="CINEMA-HD-LAT", FX PREMIUM  ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769394.ts
+
+#EXTINF:-1 tvg-id="Golden 2  ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769395.jpg" group-title="CINEMA-HD-LAT", Golden 2  ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769395.ts
+
+#EXTINF:-1 tvg-id="GOLDEN EDGE ᴴᴰ" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_769396.png" group-title="CINEMA-HD-LAT", GOLDEN EDGE ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769396.ts
+
+#EXTINF:-1 tvg-id="Canal.Golden.Plus.mx" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_769397.png" group-title="CINEMA-HD-LAT", GOLDEN PLUS ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769397.ts
+
+#EXTINF:-1 tvg-id="GOLDEN PREMIER ᴴᴰ" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_769398.png" group-title="CINEMA-HD-LAT", GOLDEN PREMIER ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769398.ts
+
+#EXTINF:-1 tvg-id="GOLDEN ᴴᴰ" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_769399.png" group-title="CINEMA-HD-LAT", GOLDEN ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769399.ts
+
+#EXTINF:-1 tvg-id="HBO 2 ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769400.jpg" group-title="CINEMA-HD-LAT", HBO 2 ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769400.ts
+
+#EXTINF:-1 tvg-id="HBO Family ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769401.jpg" group-title="CINEMA-HD-LAT", HBO Family ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769401.ts
+
+#EXTINF:-1 tvg-id="HBO LATINO ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769402.jpg" group-title="CINEMA-HD-LAT", HBO LATINO ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769402.ts
+
+#EXTINF:-1 tvg-id="HBO Mundi ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769403.jpg" group-title="CINEMA-HD-LAT", HBO Mundi ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769403.ts
+
+#EXTINF:-1 tvg-id="HBO Plus ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769404.jpg" group-title="CINEMA-HD-LAT", HBO Plus ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769404.ts
+
+#EXTINF:-1 tvg-id="HBO POP ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769405.jpg" group-title="CINEMA-HD-LAT", HBO POP ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769405.ts
+
+#EXTINF:-1 tvg-id="HBO Pop ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769406.jpg" group-title="CINEMA-HD-LAT", HBO Pop ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769406.ts
+
+#EXTINF:-1 tvg-id="HBO PREMIUM ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769407.jpg" group-title="CINEMA-HD-LAT", HBO PREMIUM ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769407.ts
+
+#EXTINF:-1 tvg-id="HBO Signature ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769408.jpg" group-title="CINEMA-HD-LAT", HBO Signature ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769408.ts
+
+#EXTINF:-1 tvg-id="HBO XTREME ᴴᴰ" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_769409.png" group-title="CINEMA-HD-LAT", HBO XTREME ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769409.ts
+
+#EXTINF:-1 tvg-id="LAT | SPACE ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769410.jpg" group-title="CINEMA-HD-LAT", LAT | SPACE ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769410.ts
+
+#EXTINF:-1 tvg-id="LAT | STUDIO UNIVERSAL ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769411.jpg" group-title="CINEMA-HD-LAT", LAT | STUDIO UNIVERSAL ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769411.ts
+
+#EXTINF:-1 tvg-id="MAX UP  ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769412.jpg" group-title="CINEMA-HD-LAT", MAX UP  ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769412.ts
+
+#EXTINF:-1 tvg-id="MEX | Space ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769413.jpg" group-title="CINEMA-HD-LAT", MEX | Space ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769413.ts
+
+#EXTINF:-1 tvg-id="PANICO HD" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_769430.png" group-title="CINEMA-HD-LAT", PANICO HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769430.ts
+
+#EXTINF:-1 tvg-id="Paramount Movie ᴴᴰ" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_769414.png" group-title="CINEMA-HD-LAT", Paramount Movie ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769414.ts
+
+#EXTINF:-1 tvg-id="SHOWTIME EXTREME LATINO" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769415.jpg" group-title="CINEMA-HD-LAT", SHOWTIME EXTREME LATINO
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769415.ts
+
+#EXTINF:-1 tvg-id="SHOWTIME LATINO" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769416.jpg" group-title="CINEMA-HD-LAT", SHOWTIME LATINO
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769416.ts
+
+#EXTINF:-1 tvg-id="SONY" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_769417.png" group-title="CINEMA-HD-LAT", SONY
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769417.ts
+
+#EXTINF:-1 tvg-id="STARZ ENCORE ᴴᴰ" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_769418.png" group-title="CINEMA-HD-LAT", STARZ ENCORE ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769418.ts
+
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769419.jpg" group-title="CINEMA-HD-LAT", STUDIO UNIVERSAL ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769419.ts
+
+#EXTINF:-1 tvg-id="SyFy ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769420.jpg" group-title="CINEMA-HD-LAT", SyFy ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769420.ts
+
+#EXTINF:-1 tvg-id="TCM ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769421.jpg" group-title="CINEMA-HD-LAT", TCM ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769421.ts
+
+#EXTINF:-1 tvg-id="Canal.TNT.Series.(México).mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769422.jpg" group-title="CINEMA-HD-LAT", TNT SERIES ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769422.ts
+
+#EXTINF:-1 tvg-id="TNT ᴴᴰ" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_769423.png" group-title="CINEMA-HD-LAT", TNT ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769423.ts
+
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL  ᴴᴰ" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_769424.png" group-title="CINEMA-HD-LAT", UNIVERSAL CHANNEL  ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769424.ts
+
+#EXTINF:-1 tvg-id="Universal Cinema ᴴᴰ" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_769425.png" group-title="CINEMA-HD-LAT", Universal Cinema ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769425.ts
+
+#EXTINF:-1 tvg-id="Universal Premiere ᴴᴰ" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_769426.png" group-title="CINEMA-HD-LAT", Universal Premiere ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769426.ts
+
+#EXTINF:-1 tvg-id="Universal Reality ᴴᴰ" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_769427.png" group-title="CINEMA-HD-LAT", Universal Reality ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769427.ts
+
+#EXTINF:-1 tvg-id="Canal.Universal.TV.(México).mx" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_769428.png" group-title="CINEMA-HD-LAT", Universal ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769428.ts
+
+#EXTINF:-1 tvg-id="A&E 4K ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769431.jpg" group-title="CINEMA-FHD-LAT", A&E 4K ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769431.ts
+
+#EXTINF:-1 tvg-id="A3CINE" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_749888.jpg" group-title="CINEMA-FHD-LAT", A3CINE
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/749888.ts
+
+#EXTINF:-1 tvg-id="Canal.Cinemax.(México).mx" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_769432.png" group-title="CINEMA-FHD-LAT", CINEMAX 4K ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769432.ts
+
+#EXTINF:-1 tvg-id="De Pelicula  ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769433.jpg" group-title="CINEMA-FHD-LAT", De Pelicula  ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769433.ts
+
+#EXTINF:-1 tvg-id="FX 4K ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769434.jpg" group-title="CINEMA-FHD-LAT", FX 4K ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769434.ts
+
+#EXTINF:-1 tvg-id="Golden  ᴴᴰ" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_769435.png" group-title="CINEMA-FHD-LAT", Golden  ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769435.ts
+
+#EXTINF:-1 tvg-id="GOLDEN +  ᴴᴰ" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_769436.png" group-title="CINEMA-FHD-LAT", GOLDEN +  ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769436.ts
+
+#EXTINF:-1 tvg-id="Golden Edge  ᴴᴰ" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_769437.png" group-title="CINEMA-FHD-LAT", Golden Edge  ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769437.ts
+
+#EXTINF:-1 tvg-id="HBO 2 4K ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769438.jpg" group-title="CINEMA-FHD-LAT", HBO 2 4K ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769438.ts
+
+#EXTINF:-1 tvg-id="HBO PLUS 4K ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769439.jpg" group-title="CINEMA-FHD-LAT", HBO PLUS 4K ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769439.ts
+
+#EXTINF:-1 tvg-id="MEX | Cine Latino  ᴴᴰ" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_769440.png" group-title="CINEMA-FHD-LAT", MEX | Cine Latino  ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769440.ts
+
+#EXTINF:-1 tvg-id="P | Cine canal  ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769441.jpg" group-title="CINEMA-FHD-LAT", P | Cine canal  ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769441.ts
+
+#EXTINF:-1 tvg-id="P | Cine Latino ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769442.jpg" group-title="CINEMA-FHD-LAT", P | Cine Latino ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769442.ts
+
+#EXTINF:-1 tvg-id="Canal.Cinemax.(México).mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769443.jpg" group-title="CINEMA-FHD-LAT", P | Cinemax  ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769443.ts
+
+#EXTINF:-1 tvg-id="P | De Pelicula Clásico ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769444.jpg" group-title="CINEMA-FHD-LAT", P | De Pelicula Clásico ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769444.ts
+
+#EXTINF:-1 tvg-id="P | De Pelicula Plus  ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769445.jpg" group-title="CINEMA-FHD-LAT", P | De Pelicula Plus  ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769445.ts
+
+#EXTINF:-1 tvg-id="P | Golden Premier ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769446.jpg" group-title="CINEMA-FHD-LAT", P | Golden Premier ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769446.ts
+
+#EXTINF:-1 tvg-id="P | Golden. ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769447.jpg" group-title="CINEMA-FHD-LAT", P | Golden. ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769447.ts
+
+#EXTINF:-1 tvg-id="P | HBO + ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769448.jpg" group-title="CINEMA-FHD-LAT", P | HBO + ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769448.ts
+
+#EXTINF:-1 tvg-id="P | HBO 2 ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769449.jpg" group-title="CINEMA-FHD-LAT", P | HBO 2 ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769449.ts
+
+#EXTINF:-1 tvg-id="P | HBO Family ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769450.jpg" group-title="CINEMA-FHD-LAT", P | HBO Family ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769450.ts
+
+#EXTINF:-1 tvg-id="P | HBO Mundi HQ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769451.jpg" group-title="CINEMA-FHD-LAT", P | HBO Mundi HQ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769451.ts
+
+#EXTINF:-1 tvg-id="P | HBO Mundi ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769452.jpg" group-title="CINEMA-FHD-LAT", P | HBO Mundi ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769452.ts
+
+#EXTINF:-1 tvg-id="P | HBO POP  ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769453.jpg" group-title="CINEMA-FHD-LAT", P | HBO POP  ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769453.ts
+
+#EXTINF:-1 tvg-id="P | HBO Signature  ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769454.jpg" group-title="CINEMA-FHD-LAT", P | HBO Signature  ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769454.ts
+
+#EXTINF:-1 tvg-id="P | HBO Xtreme ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769455.jpg" group-title="CINEMA-FHD-LAT", P | HBO Xtreme ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769455.ts
+
+#EXTINF:-1 tvg-id="P | HBO ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769456.jpg" group-title="CINEMA-FHD-LAT", P | HBO ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769456.ts
+
+#EXTINF:-1 tvg-id="SPACE 4K ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769457.jpg" group-title="CINEMA-FHD-LAT", SPACE 4K ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769457.ts
+
+#EXTINF:-1 tvg-id="SPACE EAST ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769458.jpg" group-title="CINEMA-FHD-LAT", SPACE EAST ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769458.ts
+
+#EXTINF:-1 tvg-id="STARZ ENCORE ESPANOL ᴴᴰ" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_769459.png" group-title="CINEMA-FHD-LAT", STARZ ENCORE ESPANOL ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769459.ts
+
+#EXTINF:-1 tvg-id="TNT 4K ᴴᴰ" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_769460.png" group-title="CINEMA-FHD-LAT", TNT 4K ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769460.ts
+
+#EXTINF:-1 tvg-id="Ultra Cine (B)" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769461.jpg" group-title="CINEMA-FHD-LAT", Ultra Cine (B)
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769461.ts
+
+#EXTINF:-1 tvg-id="Ultra Clasico (i)" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769462.jpg" group-title="CINEMA-FHD-LAT", Ultra Clasico (i)
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769462.ts
+
+#EXTINF:-1 tvg-id="Ultra Clásico (B)" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769463.jpg" group-title="CINEMA-FHD-LAT", Ultra Clásico (B)
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769463.ts
+
+#EXTINF:-1 tvg-id="Ultra Docu (B)" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769464.jpg" group-title="CINEMA-FHD-LAT", Ultra Docu (B)
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769464.ts
+
+#EXTINF:-1 tvg-id="Ultra Familia (B)" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769465.jpg" group-title="CINEMA-FHD-LAT", Ultra Familia (B)
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769465.ts
+
+#EXTINF:-1 tvg-id="Ultra Fiesta (B)" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769466.jpg" group-title="CINEMA-FHD-LAT", Ultra Fiesta (B)
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769466.ts
+
+#EXTINF:-1 tvg-id="Ultra Macho (B)" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769468.jpg" group-title="CINEMA-FHD-LAT", Ultra Macho (B)
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769468.ts
+
+#EXTINF:-1 tvg-id="Ultra Mex (B)" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_769469.jpg" group-title="CINEMA-FHD-LAT", Ultra Mex (B)
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/769469.ts
+
+#EXTINF:-1 tvg-id="ESPN.2.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782276.jpg" group-title="DEPORTES-ESPN-LAT", 51 | ESPN 2 SUR
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782276.ts
+
+#EXTINF:-1 tvg-id="ESPN.3.mx" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_782277.png" group-title="DEPORTES-ESPN-LAT", 52 | ESPN 3
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782277.ts
+
+#EXTINF:-1 tvg-id="ESPN.5.mx" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_782278.png" group-title="DEPORTES-ESPN-LAT", 53 | ESPN 5
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782278.ts
+
+#EXTINF:-1 tvg-id="AR | ESPN Premium HD" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782279.jpg" group-title="DEPORTES-ESPN-LAT", AR | ESPN Premium HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782279.ts
+
+#EXTINF:-1 tvg-id="CL | ESPN EXTRA" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_782280.png" group-title="DEPORTES-ESPN-LAT", CL | ESPN EXTRA
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782280.ts
+
+#EXTINF:-1 tvg-id="ESPN.2.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782281.jpg" group-title="DEPORTES-ESPN-LAT", DEP HD: ESPN 2 (MEX)
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782281.ts
+
+#EXTINF:-1 tvg-id="ESPN.3.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782282.jpg" group-title="DEPORTES-ESPN-LAT", DEP HD: ESPN 3 (MEX)
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782282.ts
+
+#EXTINF:-1 tvg-id="ESPN.2.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782283.jpg" group-title="DEPORTES-ESPN-LAT", DEP HD: ESPN 4 (ARG)
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782283.ts
+
+#EXTINF:-1 tvg-id="ESPN.2.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782284.jpg" group-title="DEPORTES-ESPN-LAT", DEP SD: ESPN 1 (ARG)
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782284.ts
+
+#EXTINF:-1 tvg-id="ESPN.2.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782285.jpg" group-title="DEPORTES-ESPN-LAT", DEP SD: ESPN 1 (MEX)
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782285.ts
+
+#EXTINF:-1 tvg-id="ESPN.3.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782286.jpg" group-title="DEPORTES-ESPN-LAT", DEP SD: ESPN 3 (ARG)
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782286.ts
+
+#EXTINF:-1 tvg-id="DEPORTES| ESPN 1 HD ARGENTINA" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782287.jpg" group-title="DEPORTES-ESPN-LAT", DEPORTES| ESPN 1 HD ARGENTINA
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782287.ts
+
+#EXTINF:-1 tvg-id="ESPN.MX.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782288.jpg" group-title="DEPORTES-ESPN-LAT", DEPORTES| ESPN 1 HD MEXICO
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782288.ts
+
+#EXTINF:-1 tvg-id="ESPN.2.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782289.jpg" group-title="DEPORTES-ESPN-LAT", DEPORTES| ESPN 2 HD ARGENTINA
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782289.ts
+
+#EXTINF:-1 tvg-id="ESPN.2.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782290.jpg" group-title="DEPORTES-ESPN-LAT", DEPORTES| ESPN 2 HD MEXICO
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782290.ts
+
+#EXTINF:-1 tvg-id="ESPN.3.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782291.jpg" group-title="DEPORTES-ESPN-LAT", DEPORTES| ESPN 3 HD ARGENTINA
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782291.ts
+
+#EXTINF:-1 tvg-id="ESPN.3.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782292.jpg" group-title="DEPORTES-ESPN-LAT", DEPORTES| ESPN 3 HD MEXICO
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782292.ts
+
+#EXTINF:-1 tvg-id="ESPN.co" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_782293.png" group-title="DEPORTES-ESPN-LAT", ESPN
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782293.ts
+
+#EXTINF:-1 tvg-id="ESPN.co" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_782294.png" group-title="DEPORTES-ESPN-LAT", ESPN
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782294.ts
+
+#EXTINF:-1 tvg-id="ESPN.2.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782295.jpg" group-title="DEPORTES-ESPN-LAT", ESPN 1 COL
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782295.ts
+
+#EXTINF:-1 tvg-id="ESPN 1 MEXICO FULL HD" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782296.jpg" group-title="DEPORTES-ESPN-LAT", ESPN 1 MEXICO FULL HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782296.ts
+
+#EXTINF:-1 tvg-id="ESPN.MX.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782297.jpg" group-title="DEPORTES-ESPN-LAT", ESPN 1 MEXICO HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782297.ts
+
+#EXTINF:-1 tvg-id="ESPN 1 SUR" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782298.jpg" group-title="DEPORTES-ESPN-LAT", ESPN 1 SUR
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782298.ts
+
+#EXTINF:-1 tvg-id="ESPN 1 SUR FULL HD" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782299.jpg" group-title="DEPORTES-ESPN-LAT", ESPN 1 SUR FULL HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782299.ts
+
+#EXTINF:-1 tvg-id="ESPN 1 SUR HD" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782300.jpg" group-title="DEPORTES-ESPN-LAT", ESPN 1 SUR HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782300.ts
+
+#EXTINF:-1 tvg-id="ESPN.2.co" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_782301.png" group-title="DEPORTES-ESPN-LAT", ESPN 2
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782301.ts
+
+#EXTINF:-1 tvg-id="ESPN.2.co" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_782302.png" group-title="DEPORTES-ESPN-LAT", Espn 2
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782302.ts
+
+#EXTINF:-1 tvg-id="ESPN.2.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782303.jpg" group-title="DEPORTES-ESPN-LAT", ESPN 2 ARGENTINA
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782303.ts
+
+#EXTINF:-1 tvg-id="ESPN.2.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782304.jpg" group-title="DEPORTES-ESPN-LAT", ESPN 2 LATAM
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782304.ts
+
+#EXTINF:-1 tvg-id="ESPN.2.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782305.jpg" group-title="DEPORTES-ESPN-LAT", ESPN 2 Latin
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782305.ts
+
+#EXTINF:-1 tvg-id="ESPN.2.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782306.jpg" group-title="DEPORTES-ESPN-LAT", ESPN 2 MEXICO FULL HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782306.ts
+
+#EXTINF:-1 tvg-id="ESPN.2.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782307.jpg" group-title="DEPORTES-ESPN-LAT", ESPN 2 MEXICO FULL HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782307.ts
+
+#EXTINF:-1 tvg-id="ESPN.2.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782308.jpg" group-title="DEPORTES-ESPN-LAT", ESPN 2 MEXICO FULL HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782308.ts
+
+#EXTINF:-1 tvg-id="ESPN.2.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782309.jpg" group-title="DEPORTES-ESPN-LAT", ESPN 2 MEXICO HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782309.ts
+
+#EXTINF:-1 tvg-id="ESPN.2.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782310.jpg" group-title="DEPORTES-ESPN-LAT", ESPN 2 MX
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782310.ts
+
+#EXTINF:-1 tvg-id="ESPN.2.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782311.jpg" group-title="DEPORTES-ESPN-LAT", ESPN 2 SUR FULL HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782311.ts
+
+#EXTINF:-1 tvg-id="ESPN.2.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782312.jpg" group-title="DEPORTES-ESPN-LAT", ESPN 2 SUR HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782312.ts
+
+#EXTINF:-1 tvg-id="ESPN.2.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782313.jpg" group-title="DEPORTES-ESPN-LAT", ESPN 2 SUR SD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782313.ts
+
+#EXTINF:-1 tvg-id="ESPN.3.co" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_782314.png" group-title="DEPORTES-ESPN-LAT", ESPN 3
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782314.ts
+
+#EXTINF:-1 tvg-id="ESPN.3.co" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_782315.png" group-title="DEPORTES-ESPN-LAT", ESPN 3 HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782315.ts
+
+#EXTINF:-1 tvg-id="ESPN.3.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782316.jpg" group-title="DEPORTES-ESPN-LAT", ESPN 3 LATAM
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782316.ts
+
+#EXTINF:-1 tvg-id="ESPN.3.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782317.jpg" group-title="DEPORTES-ESPN-LAT", ESPN 3 MEXICO FHD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782317.ts
+
+#EXTINF:-1 tvg-id="ESPN.3.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782318.jpg" group-title="DEPORTES-ESPN-LAT", ESPN 3 MEXICO HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782318.ts
+
+#EXTINF:-1 tvg-id="ESPN.3.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782319.jpg" group-title="DEPORTES-ESPN-LAT", ESPN 3 MEXICO SD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782319.ts
+
+#EXTINF:-1 tvg-id="ESPN.MX.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782320.jpg" group-title="DEPORTES-ESPN-LAT", ESPN 4 MEXICO FHD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782320.ts
+
+#EXTINF:-1 tvg-id="ESPN.MX.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782321.jpg" group-title="DEPORTES-ESPN-LAT", ESPN 4 MEXICO HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782321.ts
+
+#EXTINF:-1 tvg-id="ESPN.MX.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782322.jpg" group-title="DEPORTES-ESPN-LAT", ESPN 4 MEXICO SD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782322.ts
+
+#EXTINF:-1 tvg-id="ESPN 4 SUR HD" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_782323.png" group-title="DEPORTES-ESPN-LAT", ESPN 4 SUR HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782323.ts
+
+#EXTINF:-1 tvg-id="ESPN.5.co" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_782324.png" group-title="DEPORTES-ESPN-LAT", ESPN 5 HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782324.ts
+
+#EXTINF:-1 tvg-id="ESPN.7.HD.co" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_782325.png" group-title="DEPORTES-ESPN-LAT", ESPN 7 HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782325.ts
+
+#EXTINF:-1 tvg-id="ESPN DEPORTES" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782326.jpg" group-title="DEPORTES-ESPN-LAT", ESPN DEPORTES
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782326.ts
+
+#EXTINF:-1 tvg-id="ESPN.co" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_782327.png" group-title="DEPORTES-ESPN-LAT", ESPN HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782327.ts
+
+#EXTINF:-1 tvg-id="ESPN LATAM" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782328.jpg" group-title="DEPORTES-ESPN-LAT", ESPN LATAM
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782328.ts
+
+#EXTINF:-1 tvg-id="ESPN.MX.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782329.jpg" group-title="DEPORTES-ESPN-LAT", ESPN MX
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782329.ts
+
+#EXTINF:-1 tvg-id="ESPN NEWS" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782330.jpg" group-title="DEPORTES-ESPN-LAT", ESPN NEWS
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782330.ts
+
+#EXTINF:-1 tvg-id="ESPN SUR" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782331.jpg" group-title="DEPORTES-ESPN-LAT", ESPN SUR
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782331.ts
+
+#EXTINF:-1 tvg-id="ESPN SUR ANDINA" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782332.jpg" group-title="DEPORTES-ESPN-LAT", ESPN SUR ANDINA
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782332.ts
+
+#EXTINF:-1 tvg-id="ESPN.2.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782333.jpg" group-title="DEPORTES-ESPN-LAT", ESPN U
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782333.ts
+
+#EXTINF:-1 tvg-id="ESPN XTRA MEXICO HD" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782334.jpg" group-title="DEPORTES-ESPN-LAT", ESPN XTRA MEXICO HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782334.ts
+
+#EXTINF:-1 tvg-id="ESPN2 ANDINA" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782335.jpg" group-title="DEPORTES-ESPN-LAT", ESPN2 ANDINA
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782335.ts
+
+#EXTINF:-1 tvg-id="ESPN2 COLOMBIA" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782336.jpg" group-title="DEPORTES-ESPN-LAT", ESPN2 COLOMBIA
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782336.ts
+
+#EXTINF:-1 tvg-id="ESPN3 SUR" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782337.jpg" group-title="DEPORTES-ESPN-LAT", ESPN3 SUR
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782337.ts
+
+#EXTINF:-1 tvg-id="ESPN.2.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782338.jpg" group-title="DEPORTES-ESPN-LAT", LAT| ESPN 2 SUR HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782338.ts
+
+#EXTINF:-1 tvg-id="ESPN.3.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782339.jpg" group-title="DEPORTES-ESPN-LAT", LAT| ESPN 3 SUR HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782339.ts
+
+#EXTINF:-1 tvg-id="LAT| ESPN DEPORTES HD" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782340.jpg" group-title="DEPORTES-ESPN-LAT", LAT| ESPN DEPORTES HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782340.ts
+
+#EXTINF:-1 tvg-id="LAT| ESPN SUR HD" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782341.jpg" group-title="DEPORTES-ESPN-LAT", LAT| ESPN SUR HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782341.ts
+
+#EXTINF:-1 tvg-id="FOX.SPORTS.2.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782403.jpg" group-title="DEPORTES-FOX-LAT", DEP SD:  FOX SPORTS 2 (ARG)
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782403.ts
+
+#EXTINF:-1 tvg-id="FOX.SPORTS.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782404.jpg" group-title="DEPORTES-FOX-LAT", DEP SD: FOX SPORTS 1 (MEX)
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782404.ts
+
+#EXTINF:-1 tvg-id="FOX.SPORTS.2.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782405.jpg" group-title="DEPORTES-FOX-LAT", DEP SD: FOX SPORTS 2 (MEX)
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782405.ts
+
+#EXTINF:-1 tvg-id="FOX.SPORTS.3.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782406.jpg" group-title="DEPORTES-FOX-LAT", DEP SD: FOX SPORTS 3 (MEX)
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782406.ts
+
+#EXTINF:-1 tvg-id="FOX.SPORTS.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782407.jpg" group-title="DEPORTES-FOX-LAT", DEPORTES| FOX SPORTS 1 HD MEXICO
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782407.ts
+
+#EXTINF:-1 tvg-id="FOX.SPORTS.2.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782408.jpg" group-title="DEPORTES-FOX-LAT", DEPORTES| FOX SPORTS 2 HD MEXICO
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782408.ts
+
+#EXTINF:-1 tvg-id="FOX.SPORTS.3.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782409.jpg" group-title="DEPORTES-FOX-LAT", DEPORTES| FOX SPORTS 3 HD MEXICO
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782409.ts
+
+#EXTINF:-1 tvg-id="FOX.SPORTS.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782410.jpg" group-title="DEPORTES-FOX-LAT", FOX DEPORTES
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782410.ts
+
+#EXTINF:-1 tvg-id="FOX DEPORTS -TUBI-" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782411.jpg" group-title="DEPORTES-FOX-LAT", FOX DEPORTS -TUBI-
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782411.ts
+
+#EXTINF:-1 tvg-id="FOX.SPORTS.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782438.jpg" group-title="DEPORTES-FOX-LAT", FOX SPORTS -TUBI- FHD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782438.ts
+
+#EXTINF:-1 tvg-id="FOX.SPORTS.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782439.jpg" group-title="DEPORTES-FOX-LAT", FOX SPORTS -TUBI- HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782439.ts
+
+#EXTINF:-1 tvg-id="FOX.SPORTS.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782440.jpg" group-title="DEPORTES-FOX-LAT", FOX SPORTS -TUBI- SD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782440.ts
+
+#EXTINF:-1 tvg-id="FOX.SPORTS.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782412.jpg" group-title="DEPORTES-FOX-LAT", FOX SPORTS 1 HD ARG
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782412.ts
+
+#EXTINF:-1 tvg-id="FOX.SPORTS.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782413.jpg" group-title="DEPORTES-FOX-LAT", FOX SPORTS 1 HD MX
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782413.ts
+
+#EXTINF:-1 tvg-id="FOX.SPORTS.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782414.jpg" group-title="DEPORTES-FOX-LAT", FOX SPORTS 1 MEXICO
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782414.ts
+
+#EXTINF:-1 tvg-id="FOX.SPORTS.2.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782415.jpg" group-title="DEPORTES-FOX-LAT", FOX SPORTS 2 HD ARG
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782415.ts
+
+#EXTINF:-1 tvg-id="FOX.SPORTS.2.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782416.jpg" group-title="DEPORTES-FOX-LAT", FOX SPORTS 2 HD MX
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782416.ts
+
+#EXTINF:-1 tvg-id="FOX.SPORTS.2.mx" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_782417.png" group-title="DEPORTES-FOX-LAT", FOX SPORTS 2 MEXICO HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782417.ts
+
+#EXTINF:-1 tvg-id="FOX.SPORTS.2.mx" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_782418.png" group-title="DEPORTES-FOX-LAT", FOX SPORTS 2 MEXICO HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782418.ts
+
+#EXTINF:-1 tvg-id="FOX.SPORTS.2.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782419.jpg" group-title="DEPORTES-FOX-LAT", FOX SPORTS 2 SUR FHD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782419.ts
+
+#EXTINF:-1 tvg-id="FOX.SPORTS.2.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782420.jpg" group-title="DEPORTES-FOX-LAT", FOX SPORTS 2 SUR HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782420.ts
+
+#EXTINF:-1 tvg-id="FOX.SPORTS.3.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782421.jpg" group-title="DEPORTES-FOX-LAT", FOX SPORTS 3 FHD ARG
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782421.ts
+
+#EXTINF:-1 tvg-id="FOX.SPORTS.3.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782422.jpg" group-title="DEPORTES-FOX-LAT", FOX SPORTS 3 MEXICO FHD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782422.ts
+
+#EXTINF:-1 tvg-id="FOX.SPORTS.3.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782423.jpg" group-title="DEPORTES-FOX-LAT", FOX SPORTS 3 MEXICO HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782423.ts
+
+#EXTINF:-1 tvg-id="FOX.SPORTS.3.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782424.jpg" group-title="DEPORTES-FOX-LAT", FOX SPORTS 3 MEXICO SD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782424.ts
+
+#EXTINF:-1 tvg-id="FOX.SPORTS.3.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782425.jpg" group-title="DEPORTES-FOX-LAT", FOX SPORTS 3 MX FHD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782425.ts
+
+#EXTINF:-1 tvg-id="FOX.SPORTS.PREMIUM.mx" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_782426.png" group-title="DEPORTES-FOX-LAT", Fox Sports Premium
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782426.ts
+
+#EXTINF:-1 tvg-id="FOX.SPORTS.PREMIUM.mx" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_782427.png" group-title="DEPORTES-FOX-LAT", FOX SPORTS PREMIUM
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782427.ts
+
+#EXTINF:-1 tvg-id="FOX.SPORTS.PREMIUM.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782428.jpg" group-title="DEPORTES-FOX-LAT", FOX SPORTS PREMIUM 2
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782428.ts
+
+#EXTINF:-1 tvg-id="FOX.SPORTS.PREMIUM.mx" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_782429.png" group-title="DEPORTES-FOX-LAT", Fox Sports Premium 4K
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782429.ts
+
+#EXTINF:-1 tvg-id="FOX.SPORTS.PREMIUM.mx" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_782430.png" group-title="DEPORTES-FOX-LAT", FOX SPORTS PREMIUM MEXICO
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782430.ts
+
+#EXTINF:-1 tvg-id="FOX.SPORTS.PREMIUM.mx" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_782431.png" group-title="DEPORTES-FOX-LAT", FOX SPORTS PREMIUM MEXICO HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782431.ts
+
+#EXTINF:-1 tvg-id="FOX.SPORTS.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782432.jpg" group-title="DEPORTES-FOX-LAT", FOX SPORTS SUR 2 SD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782432.ts
+
+#EXTINF:-1 tvg-id="FOX.SPORTS.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782433.jpg" group-title="DEPORTES-FOX-LAT", LAT| FOX DEPORTES HD**
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782433.ts
+
+#EXTINF:-1 tvg-id="FOX.SPORTS.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782434.jpg" group-title="DEPORTES-FOX-LAT", LAT| FOX SPORTS 1 HD*
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782434.ts
+
+#EXTINF:-1 tvg-id="FOX.SPORTS.2.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782435.jpg" group-title="DEPORTES-FOX-LAT", LAT| FOX SPORTS 2 HD*
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782435.ts
+
+#EXTINF:-1 tvg-id="FOX.SPORTS.3.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782436.jpg" group-title="DEPORTES-FOX-LAT", LAT| FOX SPORTS 3 HD*
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782436.ts
+
+#EXTINF:-1 tvg-id="FOX.SPORTS.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_782437.jpg" group-title="DEPORTES-FOX-LAT", MX: Fox Sports 1 Full HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/782437.ts
+
+#EXTINF:-1 tvg-id="Canal.Adrenalina.Sports.Network.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_758130.jpg" group-title="DEPORTES-MIX-LAT", Adrenalina Sport Network FHD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/758130.ts
+
+#EXTINF:-1 tvg-id="ARG| DIRECTV SPORTS FHD" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_758131.jpg" group-title="DEPORTES-MIX-LAT", ARG| DIRECTV SPORTS FHD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/758131.ts
+
+#EXTINF:-1 tvg-id="Canal.AYM.Sports.mx" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_758132.png" group-title="DEPORTES-MIX-LAT", AYM SPORTS
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/758132.ts
+
+#EXTINF:-1 tvg-id="Bein Sports Extra Espanol" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_758133.png" group-title="DEPORTES-MIX-LAT", Bein Sports Extra Espanol
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/758133.ts
+
+#EXTINF:-1 tvg-id="DEP_HD | EL TORO TV ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_758138.jpg" group-title="DEPORTES-MIX-LAT", DEP_HD | EL TORO TV ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/758138.ts
+
+#EXTINF:-1 tvg-id="DEP_HD | ONETORO" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_758139.jpg" group-title="DEPORTES-MIX-LAT", DEP_HD | ONETORO
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/758139.ts
+
+#EXTINF:-1 tvg-id="DEP_HD | TORO TV ᴴᴰ" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_758140.jpg" group-title="DEPORTES-MIX-LAT", DEP_HD | TORO TV ᴴᴰ
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/758140.ts
+
+#EXTINF:-1 tvg-id="DEPORTES| GOLTV EN ESPANOL  HD" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_758135.jpg" group-title="DEPORTES-MIX-LAT", DEPORTES| GOLTV EN ESPANOL  HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/758135.ts
+
+#EXTINF:-1 tvg-id="DEPORTES| TUDN  HD MEXICO" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_758136.jpg" group-title="DEPORTES-MIX-LAT", DEPORTES| TUDN  HD MEXICO
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/758136.ts
+
+#EXTINF:-1 tvg-id="DEPORTES| UNIVISION DEPORTES HD" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_758137.jpg" group-title="DEPORTES-MIX-LAT", DEPORTES| UNIVISION DEPORTES HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/758137.ts
+
+#EXTINF:-1 tvg-id="Directv Sports 2 HD" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_758141.jpg" group-title="DEPORTES-MIX-LAT", Directv Sports 2 HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/758141.ts
+
+#EXTINF:-1 tvg-id="Directv Sports Argentina" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_758142.jpg" group-title="DEPORTES-MIX-LAT", Directv Sports Argentina
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/758142.ts
+
+#EXTINF:-1 tvg-id="Directv Sports HD (Col)" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_758143.jpg" group-title="DEPORTES-MIX-LAT", Directv Sports HD (Col)
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/758143.ts
+
+#EXTINF:-1 tvg-id="DTv | NBA-TV (OPC 2)" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_758144.jpg" group-title="DEPORTES-MIX-LAT", DTv | NBA-TV (OPC 2)
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/758144.ts
+
+#EXTINF:-1 tvg-id="D| TUDN MX HD" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_758145.jpg" group-title="DEPORTES-MIX-LAT", D| TUDN MX HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/758145.ts
+
+#EXTINF:-1 tvg-id="Ecuador - Directv Sports 2mb" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_758146.jpg" group-title="DEPORTES-MIX-LAT", Ecuador - Directv Sports 2mb
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/758146.ts
+
+#EXTINF:-1 tvg-id="HQ | Claro Sports" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_758147.jpg" group-title="DEPORTES-MIX-LAT", HQ | Claro Sports
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/758147.ts
+
+#EXTINF:-1 tvg-id="ITV Deportes I" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_758148.jpg" group-title="DEPORTES-MIX-LAT", ITV Deportes I
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/758148.ts
+
+#EXTINF:-1 tvg-id="FOX.SPORTS.mx" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_758178.png" group-title="DEPORTES-MIX-LAT", IZZI | Hi Sports HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/758178.ts
+
+#EXTINF:-1 tvg-id="LA LIGA SMARTBANK  HD" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_758149.jpg" group-title="DEPORTES-MIX-LAT", LA LIGA SMARTBANK  HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/758149.ts
+
+#EXTINF:-1 tvg-id="LA LIGA SMARTBANK 1 FHD" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_758150.jpg" group-title="DEPORTES-MIX-LAT", LA LIGA SMARTBANK 1 FHD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/758150.ts
+
+#EXTINF:-1 tvg-id="Claro.Sports.1.mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_758151.jpg" group-title="DEPORTES-MIX-LAT", LA: CLARO SPORTS LATINO SD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/758151.ts
+
+#EXTINF:-1 tvg-id="LA: DIRECTV SPORTS PLUS EC" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_758153.jpg" group-title="DEPORTES-MIX-LAT", LA: DIRECTV SPORTS PLUS EC
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/758153.ts
+
+#EXTINF:-1 tvg-id="LAT | DIRECTV SPORTS + (P)" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_758154.jpg" group-title="DEPORTES-MIX-LAT", LAT | DIRECTV SPORTS + (P)
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/758154.ts
+
+#EXTINF:-1 tvg-id="LAT | DIRECTV SPORTS 2 (P)" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_758155.jpg" group-title="DEPORTES-MIX-LAT", LAT | DIRECTV SPORTS 2 (P)
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/758155.ts
+
+#EXTINF:-1 tvg-id="LATINO | Claro Sports" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_758156.jpg" group-title="DEPORTES-MIX-LAT", LATINO | Claro Sports
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/758156.ts
+
+#EXTINF:-1 tvg-id="LAT| GOLTV HD" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_758157.jpg" group-title="DEPORTES-MIX-LAT", LAT| GOLTV HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/758157.ts
+
+#EXTINF:-1 tvg-id="LAT| TUDN DEPORTES USA HD" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_758158.jpg" group-title="DEPORTES-MIX-LAT", LAT| TUDN DEPORTES USA HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/758158.ts
+
+#EXTINF:-1 tvg-id="LAT| TYC SPORTS HD" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_758159.jpg" group-title="DEPORTES-MIX-LAT", LAT| TYC SPORTS HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/758159.ts
+
+#EXTINF:-1 tvg-id="LAT| UNIVISION DEPORTES HD P" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_758160.jpg" group-title="DEPORTES-MIX-LAT", LAT| UNIVISION DEPORTES HD P
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/758160.ts
+
+#EXTINF:-1 tvg-id="MOVISTAR LIGA DE CAMPEONES HD | DEP_ESP" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_758161.jpg" group-title="DEPORTES-MIX-LAT", MOVISTAR LIGA DE CAMPEONES HD | DEP_ESP
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/758161.ts
+
+#EXTINF:-1 tvg-id="AZTECA.DEPORTES.mx" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_758162.png" group-title="DEPORTES-MIX-LAT", MX | AZTECA DEPORTES
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/758162.ts
+
+#EXTINF:-1 tvg-id="MX | Caliente TV HD" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_758164.jpg" group-title="DEPORTES-MIX-LAT", MX | Caliente TV HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/758164.ts
+
+#EXTINF:-1 tvg-id="MX | CLARO SPORTS" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_758165.png" group-title="DEPORTES-MIX-LAT", MX | CLARO SPORTS
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/758165.ts
+
+#EXTINF:-1 tvg-id="MX | LAS DEPORTES" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_758179.png" group-title="DEPORTES-MIX-LAT", MX | LAS DEPORTES
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/758179.ts
+
+#EXTINF:-1 tvg-id="Canal.TUDN.(México).mx" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_758166.jpg" group-title="DEPORTES-MIX-LAT", MX | TUDN SD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/758166.ts
+
+#EXTINF:-1 tvg-id="MX |* AFIZZIONADOS HD" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_758167.png" group-title="DEPORTES-MIX-LAT", MX |* AFIZZIONADOS HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/758167.ts
+
+#EXTINF:-1 tvg-id="Outside TV" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_758168.png" group-title="DEPORTES-MIX-LAT", Outside TV
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/758168.ts
+
+#EXTINF:-1 tvg-id="PERU| DIRECTV SPORT 2 HD" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_758169.jpg" group-title="DEPORTES-MIX-LAT", PERU| DIRECTV SPORT 2 HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/758169.ts
+
+#EXTINF:-1 tvg-id="PE| Directv Sports Peru HD" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_758170.jpg" group-title="DEPORTES-MIX-LAT", PE| Directv Sports Peru HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/758170.ts
+
+#EXTINF:-1 tvg-id="Red Bull TV" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_758171.png" group-title="DEPORTES-MIX-LAT", Red Bull TV
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/758171.ts
+
+#EXTINF:-1 tvg-id="Red Bull TV HD" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_758172.png" group-title="DEPORTES-MIX-LAT", Red Bull TV HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/758172.ts
+
+#EXTINF:-1 tvg-id="TNT SPORTS" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_758173.jpg" group-title="DEPORTES-MIX-LAT", TNT SPORTS
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/758173.ts
+
+#EXTINF:-1 tvg-id="Canal.TUDN.(México).mx" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_758174.png" group-title="DEPORTES-MIX-LAT", TUDN
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/758174.ts
+
+#EXTINF:-1 tvg-id="TUDN (Mexico)" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_758175.png" group-title="DEPORTES-MIX-LAT", TUDN (Mexico)
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/758175.ts
+
+#EXTINF:-1 tvg-id="TUDN MEXICO" tvg-logo="http://luxury-tv.us/images/clean_live_new/clean_758176.png" group-title="DEPORTES-MIX-LAT", TUDN MEXICO
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/758176.ts
+
+#EXTINF:-1 tvg-id="|ES| Movistar Golf 4K+" tvg-logo="http://luxury-tv.us/images/luxury_regular_new/luxury_758177.jpg" group-title="DEPORTES-MIX-LAT", |ES| Movistar Golf 4K+
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/758177.ts
+
+#EXTINF:-1 tvg-id="24/7 Bakugan HD" tvg-logo="https://flowtvlogo.xyz/imperium-hd/tipografia-glow-grande/800785.png" group-title="ANIME-24-7", 24/7 Bakugan HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1036945.ts
+
+#EXTINF:-1 tvg-id="24/7 Beetlejuice HD" tvg-logo="https://flowtvlogo.xyz/imperium-hd/tipografia-glow-grande/800784.png" group-title="ANIME-24-7", 24/7 Beetlejuice HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1036946.ts
+
+#EXTINF:-1 tvg-id="24/7 Adventure Time HD" tvg-logo="https://flowtvlogo.xyz/imperium-hd/tipografia-glow-grande/800782.png" group-title="ANIME-24-7", 24/7 Adventure Time HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1036947.ts
+
+#EXTINF:-1 tvg-id="America TV" tvg-logo="https://flowtvlogo.xyz/imperium-hd/tipografia-glow-grande/800776.png" group-title="ANIME-24-7", 24/7 American DAD HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1036948.ts
+
+#EXTINF:-1 tvg-id="24/7 Animado Presidente HD" tvg-logo="https://flowtvlogo.xyz/imperium-hd/tipografia-glow-grande/800783.png" group-title="ANIME-24-7", 24/7 Animado Presidente HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1036949.ts
+
+#EXTINF:-1 tvg-id="24/7 Bakugan (2011) HD" tvg-logo="https://flowtvlogo.xyz/imperium-hd/tipografia-glow-grande/800786.png" group-title="ANIME-24-7", 24/7 Bakugan (2011) HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1036950.ts
+
+#EXTINF:-1 tvg-id="24/7 Bebevuelta HD" tvg-logo="https://flowtvlogo.xyz/imperium-hd/tipografia-glow-grande/800787.png" group-title="ANIME-24-7", 24/7 Bebevuelta HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1036951.ts
+
+#EXTINF:-1 tvg-id="24/7 Bojack Horseman HD" tvg-logo="https://flowtvlogo.xyz/imperium-hd/tipografia-glow-grande/800778.png" group-title="ANIME-24-7", 24/7 Bojack Horseman HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1036952.ts
+
+#EXTINF:-1 tvg-id="24/7 Caballeros DEL Zodiaco HD" tvg-logo="https://flowtvlogo.xyz/imperium-hd/tipografia-glow-grande/800771.png" group-title="ANIME-24-7", 24/7 Caballeros DEL Zodiaco HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1036953.ts
+
+#EXTINF:-1 tvg-id="24/7 Casadibujos HD" tvg-logo="https://flowtvlogo.xyz/imperium-hd/tipografia-glow-grande/800779.png" group-title="ANIME-24-7", 24/7 Casadibujos HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1036954.ts
+
+#EXTINF:-1 tvg-id="24/7 Chicago Party Aunt HD" tvg-logo="https://flowtvlogo.xyz/imperium-hd/tipografia-glow-grande/800775.png" group-title="ANIME-24-7", 24/7 Chicago Party Aunt HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1036955.ts
+
+#EXTINF:-1 tvg-id="24/7 Desencanto HD" tvg-logo="https://flowtvlogo.xyz/imperium-hd/tipografia-glow-grande/800780.png" group-title="ANIME-24-7", 24/7 Desencanto HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1036956.ts
+
+#EXTINF:-1 tvg-id="24/7 DOS Perros Tontos HD" tvg-logo="https://flowtvlogo.xyz/imperium-hd/tipografia-glow-grande/800788.png" group-title="ANIME-24-7", 24/7 DOS Perros Tontos HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1036957.ts
+
+#EXTINF:-1 tvg-id="24/7 Dragon Ball HD" tvg-logo="https://flowtvlogo.xyz/imperium-hd/tipografia-glow-grande/800759.png" group-title="ANIME-24-7", 24/7 Dragon Ball HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1036958.ts
+
+#EXTINF:-1 tvg-id="24/7 Dragon Ball GT HD" tvg-logo="https://flowtvlogo.xyz/imperium-hd/tipografia-glow-grande/800760.png" group-title="ANIME-24-7", 24/7 Dragon Ball GT HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1036959.ts
+
+#EXTINF:-1 tvg-id="24/7 Dragon Ball Super Saga Resureccion DE Freezer HD" tvg-logo="https://flowtvlogo.xyz/imperium-hd/tipografia-glow-grande/800767.png" group-title="ANIME-24-7", 24/7 Dragon Ball Super Saga Resureccion DE Freezer HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1036960.ts
+
+#EXTINF:-1 tvg-id="24/7 Dragon Ball Version Extendida HD" tvg-logo="https://flowtvlogo.xyz/imperium-hd/tipografia-glow-grande/800761.png" group-title="ANIME-24-7", 24/7 Dragon Ball Version Extendida HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1036961.ts
+
+#EXTINF:-1 tvg-id="24/7 Dragon Ball Z Freezer HD" tvg-logo="https://flowtvlogo.xyz/imperium-hd/tipografia-glow-grande/800762.png" group-title="ANIME-24-7", 24/7 Dragon Ball Z Freezer HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1036962.ts
+
+#EXTINF:-1 tvg-id="24/7 Dragon Ball Z LOS Zaiyayin HD" tvg-logo="https://flowtvlogo.xyz/imperium-hd/tipografia-glow-grande/800763.png" group-title="ANIME-24-7", 24/7 Dragon Ball Z LOS Zaiyayin HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1036963.ts
+
+#EXTINF:-1 tvg-id="24/7 Dragon Ball Z Majin BOO HD" tvg-logo="https://flowtvlogo.xyz/imperium-hd/tipografia-glow-grande/800764.png" group-title="ANIME-24-7", 24/7 Dragon Ball Z Majin BOO HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1036964.ts
+
+#EXTINF:-1 tvg-id="24/7 Dragonball Super Saga Batallas DE LOS Dioses HD" tvg-logo="https://flowtvlogo.xyz/imperium-hd/tipografia-glow-grande/800766.png" group-title="ANIME-24-7", 24/7 Dragonball Super Saga Batallas DE LOS Dioses HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1036965.ts
+
+#EXTINF:-1 tvg-id="24/7 Dragonball Super Saga Torneo DEL Poder HD" tvg-logo="https://flowtvlogo.xyz/imperium-hd/tipografia-glow-grande/800768.png" group-title="ANIME-24-7", 24/7 Dragonball Super Saga Torneo DEL Poder HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1036966.ts
+
+#EXTINF:-1 tvg-id="24/7 Dragonball Super Saga Trunks DEL Futuro HD" tvg-logo="https://flowtvlogo.xyz/imperium-hd/tipografia-glow-grande/800769.png" group-title="ANIME-24-7", 24/7 Dragonball Super Saga Trunks DEL Futuro HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1036967.ts
+
+#EXTINF:-1 tvg-id="24/7 Dragonball Super Torneo DE Champa HD" tvg-logo="https://flowtvlogo.xyz/imperium-hd/tipografia-glow-grande/800770.png" group-title="ANIME-24-7", 24/7 Dragonball Super Torneo DE Champa HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1036968.ts
+
+#EXTINF:-1 tvg-id="24/7 Dragones DE Berck HD" tvg-logo="https://flowtvlogo.xyz/imperium-hd/tipografia-glow-grande/800765.png" group-title="ANIME-24-7", 24/7 Dragones DE Berck HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1036969.ts
+
+#EXTINF:-1 tvg-id="24/7 Futurama HD" tvg-logo="https://flowtvlogo.xyz/imperium-hd/tipografia-glow-grande/800774.png" group-title="ANIME-24-7", 24/7 Futurama HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1036970.ts
+
+#EXTINF:-1 tvg-id="24/7 KUN FU Panda EL Caballero DEL Dragon HD" tvg-logo="https://flowtvlogo.xyz/imperium-hd/tipografia-glow-grande/800773.png" group-title="ANIME-24-7", 24/7 KUN FU Panda EL Caballero DEL Dragon HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1036971.ts
+
+#EXTINF:-1 tvg-id="24/7 LA Liga DEL Dragon HD" tvg-logo="https://flowtvlogo.xyz/imperium-hd/tipografia-glow-grande/800772.png" group-title="ANIME-24-7", 24/7 LA Liga DEL Dragon HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1036972.ts
+
+#EXTINF:-1 tvg-id="24/7 LOS Simpson HD" tvg-logo="https://flowtvlogo.xyz/imperium-hd/tipografia-glow-grande/800777.png" group-title="ANIME-24-7", 24/7 LOS Simpson HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1036973.ts
+
+#EXTINF:-1 tvg-id="24/7 Ricky Morty HD" tvg-logo="https://flowtvlogo.xyz/imperium-hd/tipografia-glow-grande/800781.png" group-title="ANIME-24-7", 24/7 Ricky Morty HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1036974.ts
+
+#EXTINF:-1 tvg-id="24/7 Power Ranger dino Charge Dino Charge 24/7 Power Ranger dino Charge HD   24/7 Power Ranger dino Charge Dino Charge 24/7 Power Ranger dino Charge HD" tvg-logo="https://flowtvlogo.xyz/imperium-hd/tipografia-glow-grande/800789.png" group-title="ANIME-24-7,24/7 Power Ranger dino Charge Dino Charge 24/7 Power Ranger dino Charge HD   24/7 Power Ranger dino Charge Dino Charge 24/7 Power Ranger dino Charge", 24/7 Power Ranger "dino Charge"" Dino Charge"" 24/7 Power Ranger "dino Charge" HD"  " 24/7 Power Ranger "dino Charge"" Dino Charge"" 24/7 Power Ranger "dino Charge" HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1036928.ts
+
+#EXTINF:-1 tvg-id="24/7 Power Ranger Mystic Force  Mystic Force  24/7 Power Ranger Mystic Force" tvg-logo="http://luxury-tv.us/logos-luxury-tv/categorias/anime-24-7/v2-784484-24-7-power-ranger-mystic-force-mystic-force-24-7-power-ranger-mystic-force.png" group-title="ANIME-24-7,24/7 Power Ranger dino Charge Dino Charge 24/7 Power Ranger dino Charge HD   24/7 Power Ranger dino Charge Dino Charge 24/7 Power Ranger dino Charge", "  24/7 Power Ranger "Mystic Force""  Mystic Force""  24/7 Power Ranger "Mystic Force"
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/784484.ts
+
+#EXTINF:-1 tvg-id="24/7 Power Ranger dino Charge Dino Charge 24/7 Power Ranger dino Charge HD   24/7 Power Ranger dino Charge Dino Charge 24/7 Power Ranger dino Charge HD" tvg-logo="https://flowtvlogo.xyz/imperium-hd/tipografia-glow-grande/800789.png" group-title="ANIME-24-7,24/7 Power Ranger dino Charge Dino Charge 24/7 Power Ranger dino Charge HD   24/7 Power Ranger dino Charge Dino Charge 24/7 Power Ranger dino Charge", 24/7 Power Ranger "dino Charge"" Dino Charge"" 24/7 Power Ranger "dino Charge" HD"  " 24/7 Power Ranger "dino Charge"" Dino Charge"" 24/7 Power Ranger "dino Charge" HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1036928.ts
+
+#EXTINF:-1 tvg-id="24/7 Power Ranger dino Thunder Dino Thunder 24/7 Power Ranger dino Thunder HD   24/7 Power Ranger dino Thunder Dino Thunder 24/7 Power Ranger dino Thunder HD" tvg-logo="https://flowtvlogo.xyz/imperium-hd/tipografia-glow-grande/800790.png" group-title="ANIME-24-7,24/7 Power Ranger dino Charge Dino Charge 24/7 Power Ranger dino Charge HD   24/7 Power Ranger dino Charge Dino Charge 24/7 Power Ranger dino Charge", 24/7 Power Ranger "dino Thunder"" Dino Thunder"" 24/7 Power Ranger "dino Thunder" HD"  " 24/7 Power Ranger "dino Thunder"" Dino Thunder"" 24/7 Power Ranger "dino Thunder" HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1036929.ts
+
+#EXTINF:-1 tvg-id="24/7 Power Ranger jungle Fury Jungle Fury 24/7 Power Ranger jungle Fury HD   24/7 Power Ranger jungle Fury Jungle Fury 24/7 Power Ranger jungle Fury HD" tvg-logo="https://flowtvlogo.xyz/imperium-hd/tipografia-glow-grande/800791.png" group-title="ANIME-24-7,24/7 Power Ranger dino Charge Dino Charge 24/7 Power Ranger dino Charge HD   24/7 Power Ranger dino Charge Dino Charge 24/7 Power Ranger dino Charge", 24/7 Power Ranger "jungle Fury"" Jungle Fury"" 24/7 Power Ranger "jungle Fury" HD"  " 24/7 Power Ranger "jungle Fury"" Jungle Fury"" 24/7 Power Ranger "jungle Fury" HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1036930.ts
+
+#EXTINF:-1 tvg-id="24/7 Power Ranger lightspeed Rescue Lightspeed Rescue 24/7 Power Ranger lightspeed Rescue HD   24/7 Power Ranger lightspeed Rescue Lightspeed Rescue 24/7 Power Ranger lightspeed Rescue HD" tvg-logo="https://flowtvlogo.xyz/imperium-hd/tipografia-glow-grande/800792.png" group-title="ANIME-24-7,24/7 Power Ranger dino Charge Dino Charge 24/7 Power Ranger dino Charge HD   24/7 Power Ranger dino Charge Dino Charge 24/7 Power Ranger dino Charge", 24/7 Power Ranger "lightspeed Rescue"" Lightspeed Rescue"" 24/7 Power Ranger "lightspeed Rescue" HD"  " 24/7 Power Ranger "lightspeed Rescue"" Lightspeed Rescue"" 24/7 Power Ranger "lightspeed Rescue" HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1036931.ts
+
+#EXTINF:-1 tvg-id="24/7 Power Ranger lost Galaxy Lost Galaxy 24/7 Power Ranger lost Galaxy HD   24/7 Power Ranger lost Galaxy Lost Galaxy 24/7 Power Ranger lost Galaxy HD" tvg-logo="https://flowtvlogo.xyz/imperium-hd/tipografia-glow-grande/800793.png" group-title="ANIME-24-7,24/7 Power Ranger dino Charge Dino Charge 24/7 Power Ranger dino Charge HD   24/7 Power Ranger dino Charge Dino Charge 24/7 Power Ranger dino Charge", 24/7 Power Ranger "lost Galaxy"" Lost Galaxy"" 24/7 Power Ranger "lost Galaxy" HD"  " 24/7 Power Ranger "lost Galaxy"" Lost Galaxy"" 24/7 Power Ranger "lost Galaxy" HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1036932.ts
+
+#EXTINF:-1 tvg-id="24/7 Power Ranger megaforce Megaforce 24/7 Power Ranger megaforce HD   24/7 Power Ranger megaforce Megaforce 24/7 Power Ranger megaforce HD" tvg-logo="https://flowtvlogo.xyz/imperium-hd/tipografia-glow-grande/800794.png" group-title="ANIME-24-7,24/7 Power Ranger dino Charge Dino Charge 24/7 Power Ranger dino Charge HD   24/7 Power Ranger dino Charge Dino Charge 24/7 Power Ranger dino Charge", 24/7 Power Ranger "megaforce"" Megaforce"" 24/7 Power Ranger "megaforce" HD"  " 24/7 Power Ranger "megaforce"" Megaforce"" 24/7 Power Ranger "megaforce" HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1036933.ts
+
+#EXTINF:-1 tvg-id="24/7 Power Ranger mighty Morphin Mighty Morphin 24/7 Power Ranger mighty Morphin HD   24/7 Power Ranger mighty Morphin Mighty Morphin 24/7 Power Ranger mighty Morphin HD" tvg-logo="https://flowtvlogo.xyz/imperium-hd/tipografia-glow-grande/800795.png" group-title="ANIME-24-7,24/7 Power Ranger dino Charge Dino Charge 24/7 Power Ranger dino Charge HD   24/7 Power Ranger dino Charge Dino Charge 24/7 Power Ranger dino Charge", 24/7 Power Ranger "mighty Morphin"" Mighty Morphin"" 24/7 Power Ranger "mighty Morphin" HD"  " 24/7 Power Ranger "mighty Morphin"" Mighty Morphin"" 24/7 Power Ranger "mighty Morphin" HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1036934.ts
+
+#EXTINF:-1 tvg-id="24/7 Power Ranger mystic Force Mystic Force 24/7 Power Ranger mystic Force HD   24/7 Power Ranger mystic Force Mystic Force 24/7 Power Ranger mystic Force HD" tvg-logo="https://flowtvlogo.xyz/imperium-hd/tipografia-glow-grande/800796.png" group-title="ANIME-24-7,24/7 Power Ranger dino Charge Dino Charge 24/7 Power Ranger dino Charge HD   24/7 Power Ranger dino Charge Dino Charge 24/7 Power Ranger dino Charge", 24/7 Power Ranger "mystic Force"" Mystic Force"" 24/7 Power Ranger "mystic Force" HD"  " 24/7 Power Ranger "mystic Force"" Mystic Force"" 24/7 Power Ranger "mystic Force" HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1036935.ts
+
+#EXTINF:-1 tvg-id="24/7 Power Ranger ninja Storm Ninja Storm 24/7 Power Ranger ninja Storm HD   24/7 Power Ranger ninja Storm Ninja Storm 24/7 Power Ranger ninja Storm HD" tvg-logo="https://flowtvlogo.xyz/imperium-hd/tipografia-glow-grande/800797.png" group-title="ANIME-24-7,24/7 Power Ranger dino Charge Dino Charge 24/7 Power Ranger dino Charge HD   24/7 Power Ranger dino Charge Dino Charge 24/7 Power Ranger dino Charge", 24/7 Power Ranger "ninja Storm"" Ninja Storm"" 24/7 Power Ranger "ninja Storm" HD"  " 24/7 Power Ranger "ninja Storm"" Ninja Storm"" 24/7 Power Ranger "ninja Storm" HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1036936.ts
+
+#EXTINF:-1 tvg-id="24/7 Power Ranger operation Overdrive Operation Overdrive 24/7 Power Ranger operation Overdrive HD   24/7 Power Ranger operation Overdrive Operation Overdrive 24/7 Power Ranger operation Overdrive HD" tvg-logo="https://flowtvlogo.xyz/imperium-hd/tipografia-glow-grande/800798.png" group-title="ANIME-24-7,24/7 Power Ranger dino Charge Dino Charge 24/7 Power Ranger dino Charge HD   24/7 Power Ranger dino Charge Dino Charge 24/7 Power Ranger dino Charge", 24/7 Power Ranger "operation Overdrive"" Operation Overdrive"" 24/7 Power Ranger "operation Overdrive" HD"  " 24/7 Power Ranger "operation Overdrive"" Operation Overdrive"" 24/7 Power Ranger "operation Overdrive" HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1036937.ts
+
+#EXTINF:-1 tvg-id="24/7 Power Ranger rpm Rpm 24/7 Power Ranger rpm HD   24/7 Power Ranger rpm Rpm 24/7 Power Ranger rpm HD" tvg-logo="https://flowtvlogo.xyz/imperium-hd/tipografia-glow-grande/800799.png" group-title="ANIME-24-7,24/7 Power Ranger dino Charge Dino Charge 24/7 Power Ranger dino Charge HD   24/7 Power Ranger dino Charge Dino Charge 24/7 Power Ranger dino Charge", 24/7 Power Ranger "rpm"" Rpm"" 24/7 Power Ranger "rpm" HD"  " 24/7 Power Ranger "rpm"" Rpm"" 24/7 Power Ranger "rpm" HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1036938.ts
+
+#EXTINF:-1 tvg-id="24/7 Power Ranger s.p.d S.p.d 24/7 Power Ranger s.p.d HD   24/7 Power Ranger s.p.d S.p.d 24/7 Power Ranger s.p.d HD" tvg-logo="https://flowtvlogo.xyz/imperium-hd/tipografia-glow-grande/800800.png" group-title="ANIME-24-7,24/7 Power Ranger dino Charge Dino Charge 24/7 Power Ranger dino Charge HD   24/7 Power Ranger dino Charge Dino Charge 24/7 Power Ranger dino Charge", 24/7 Power Ranger "s.p.d"" S.p.d"" 24/7 Power Ranger "s.p.d" HD"  " 24/7 Power Ranger "s.p.d"" S.p.d"" 24/7 Power Ranger "s.p.d" HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1036939.ts
+
+#EXTINF:-1 tvg-id="24/7 Power Ranger samurai Samurai 24/7 Power Ranger samurai HD   24/7 Power Ranger samurai Samurai 24/7 Power Ranger samurai HD" tvg-logo="https://flowtvlogo.xyz/imperium-hd/tipografia-glow-grande/800801.png" group-title="ANIME-24-7,24/7 Power Ranger dino Charge Dino Charge 24/7 Power Ranger dino Charge HD   24/7 Power Ranger dino Charge Dino Charge 24/7 Power Ranger dino Charge", 24/7 Power Ranger "samurai"" Samurai"" 24/7 Power Ranger "samurai" HD"  " 24/7 Power Ranger "samurai"" Samurai"" 24/7 Power Ranger "samurai" HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1036940.ts
+
+#EXTINF:-1 tvg-id="24/7 Power Ranger time Force Time Force 24/7 Power Ranger time Force HD   24/7 Power Ranger time Force Time Force 24/7 Power Ranger time Force HD" tvg-logo="https://flowtvlogo.xyz/imperium-hd/tipografia-glow-grande/800802.png" group-title="ANIME-24-7,24/7 Power Ranger dino Charge Dino Charge 24/7 Power Ranger dino Charge HD   24/7 Power Ranger dino Charge Dino Charge 24/7 Power Ranger dino Charge", 24/7 Power Ranger "time Force"" Time Force"" 24/7 Power Ranger "time Force" HD"  " 24/7 Power Ranger "time Force"" Time Force"" 24/7 Power Ranger "time Force" HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1036941.ts
+
+#EXTINF:-1 tvg-id="24/7 Power Ranger turbo Turbo 24/7 Power Ranger turbo HD   24/7 Power Ranger turbo Turbo 24/7 Power Ranger turbo HD" tvg-logo="https://flowtvlogo.xyz/imperium-hd/tipografia-glow-grande/800803.png" group-title="ANIME-24-7,24/7 Power Ranger dino Charge Dino Charge 24/7 Power Ranger dino Charge HD   24/7 Power Ranger dino Charge Dino Charge 24/7 Power Ranger dino Charge", 24/7 Power Ranger "turbo"" Turbo"" 24/7 Power Ranger "turbo" HD"  " 24/7 Power Ranger "turbo"" Turbo"" 24/7 Power Ranger "turbo" HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1036942.ts
+
+#EXTINF:-1 tvg-id="24/7 Power Ranger wild Force Wild Force 24/7 Power Ranger wild Force HD   24/7 Power Ranger wild Force Wild Force 24/7 Power Ranger wild Force HD" tvg-logo="https://flowtvlogo.xyz/imperium-hd/tipografia-glow-grande/800804.png" group-title="ANIME-24-7,24/7 Power Ranger dino Charge Dino Charge 24/7 Power Ranger dino Charge HD   24/7 Power Ranger dino Charge Dino Charge 24/7 Power Ranger dino Charge", 24/7 Power Ranger "wild Force"" Wild Force"" 24/7 Power Ranger "wild Force" HD"  " 24/7 Power Ranger "wild Force"" Wild Force"" 24/7 Power Ranger "wild Force" HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1036943.ts
+
+#EXTINF:-1 tvg-id="24/7 Power Ranger zeo Zeo 24/7 Power Ranger zeo HD   24/7 Power Ranger zeo Zeo 24/7 Power Ranger zeo HD" tvg-logo="https://flowtvlogo.xyz/imperium-hd/tipografia-glow-grande/800805.png" group-title="ANIME-24-7,24/7 Power Ranger dino Charge Dino Charge 24/7 Power Ranger dino Charge HD   24/7 Power Ranger dino Charge Dino Charge 24/7 Power Ranger dino Charge", 24/7 Power Ranger "zeo"" Zeo"" 24/7 Power Ranger "zeo" HD"  " 24/7 Power Ranger "zeo"" Zeo"" 24/7 Power Ranger "zeo" HD
+http://latinostream.xyz:8080/live/felixpenatv/L20260730/1036944.ts
 
